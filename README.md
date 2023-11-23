@@ -1,23 +1,23 @@
-欢迎您下载并体验ttk文件浏览器0.2测试版
+欢迎您下载并体验 ttk file explorer 0.2-BETA
 
 有了你的支持，我也就有了一鼓动力。
 
-ttk文件浏览器是一款基于计算机编程语言的标准TkGUI工具包的接口(tkinter)的美化库ttkbootstrap开发的轻量级的Windows操作系统文件浏览软件。
+ttk file explorer是一款基于Python的标准TkGUI工具包的接口（tkinter）的美化库ttkbootstrap开发的轻量级的Windows文件浏览软件。
 
-##下载地址
+#下载地址
 
-github:https://github . com/py height/ttk-file-explorer/
+Github：https://github.com/pyheight/ttk-file-explorer/
 
-阿里云盘:https://www . aliyun drive . com/s/kooyqy 65 tea/
+阿里云盘：https://www.aliyundrive.com/s/kooYQY65teA/
 
-百度网盘:https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg？pwd=2023#/home/%2F/%2F
+百度网盘：https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F
 
 
-##编写原因
+#编写原因
 
-本人基于tkinter的美化库ttkbootstrap开发了轻量级的Windows操作系统文件浏览软件——ttk文件浏览器，对于很多用户来说会是一个不错的选择。
+本人基于tkinter的美化库ttkbootstrap开发了轻量级的Windows文件浏览软件——ttk file explorer，对于很多用户来说会是一个不错的选择。
 
-当然,与其他的第三方文件管理软件相比可能有很多不足,但是它是为数不多的纯原生开发、无任何依赖tkinter软件,会持续优化,敬请期待！
+当然，与其他的第三方文件管理软件相比可能有很多不足，但是它是为数不多的纯原生开发、无任何依赖tkinter软件，会持续优化，敬请期待！
 
 
 #主要优势
