@@ -1,8 +1,8 @@
 # ttk file explorer
-> 欢迎您下载并体验 * ttk file explorer * 0.2-BETA
+> 欢迎您下载并体验 *ttk file explorer* 0.2-BETA
 
 > [!IMPORTANT]
-> * ttk file explorer *是一款基于Python的标准TkGUI工具包的接口（tkinter）的美化库ttkbootstrap开发的轻量级的Windows文件浏览软件。
+> ttk file explorer*是一款基于Python的标准TkGUI工具包的接口（tkinter）的美化库ttkbootstrap开发的轻量级的Windows文件浏览软件。
 >
 
 ##  下载地址
