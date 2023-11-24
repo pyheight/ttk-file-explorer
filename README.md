@@ -143,6 +143,5 @@
 ![](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Thanks♪(･ω･)ﾉ
-
-> 有了你的支持，我也就有了一鼓动力
-- [x] #739
+> [!NOTE]
+> 有了你的支持，我也就有了一鼓动力。
