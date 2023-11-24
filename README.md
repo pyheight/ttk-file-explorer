@@ -1,6 +1,6 @@
 # ttk file explorer
 
-> [!CAUTION]
+> [!TIP]
 > 欢迎您下载并体验 *ttk file explorer* **0.2-BETA**
 
 > [!IMPORTANT]
@@ -8,7 +8,7 @@
 
 
 ##  下载地址
-> [!TIP]
+> [!IMPORTANT]
 > [GitHub](https://github.com/pyheight/ttk-file-explorer/)
 > [阿里云盘](https://www.aliyundrive.com/s/kooYQY65teA/)
 > [百度网盘](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F)
@@ -74,12 +74,10 @@
 
 
 ## 温馨提示
-
-本软件所有图像均来自网络，您可以进行图像自定义。
-
-欢迎您反馈使用时遇到的问题或给予宝贵的意见！
-
-制作不易，如觉得有用，请分享给更多人！
+> [!NOTE]
+>本软件所有图像均来自网络，您可以进行图像自定义。
+<br>欢迎您反馈使用时遇到的问题或给予宝贵的意见！
+<br>制作不易，如觉得有用，请分享给更多人！
 
 
 ## 计划更新
