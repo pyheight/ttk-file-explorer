@@ -7,13 +7,11 @@
 
 ##  下载地址
 > [!TIP]
-> [GitHub](https://pages.github.com/](https://github.com/pyheight/ttk-file-explorer/).
+> [GitHub](https://github.com/pyheight/ttk-file-explorer/)
 
-> [!TIP]
-> [阿里云盘](https://www.aliyundrive.com/s/kooYQY65teA/).
+> [阿里云盘](https://www.aliyundrive.com/s/kooYQY65teA/)
 
-> [!TIP]
-> [百度网盘](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F).
+> [百度网盘](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F)
 
 
 ## 编写原因
