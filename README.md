@@ -1,3 +1,6 @@
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+>
 欢迎您下载并体验 ttk file explorer 0.2-BETA
 
 有了你的支持，我也就有了一鼓动力。
