@@ -7,7 +7,7 @@
 
 ttk file explorer是一款基于Python的标准TkGUI工具包的接口（tkinter）的美化库ttkbootstrap开发的轻量级的Windows文件浏览软件。
 
-#下载地址
+##  下载地址
 
 Github：https://github.com/pyheight/ttk-file-explorer/
 
@@ -16,29 +16,29 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 百度网盘：https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F
 
 
-#编写原因
+# # 编写原因
 
 本人基于tkinter的美化库ttkbootstrap开发了轻量级的Windows文件浏览软件——ttk file explorer，对于很多用户来说会是一个不错的选择。
 
 当然，与其他的第三方文件管理软件相比可能有很多不足，但是它是为数不多的纯原生开发、无任何依赖tkinter软件，会持续优化，敬请期待！
 
 
-#主要优势
+## 主要优势
 
-##界面美观
+### 界面美观
 
 采用现代化的界面设计，注重简洁性和美感。
 
-##极致绿色
+### 极致绿色
 
 运行响应快，无配置要求，最小资源使用。
 
-##易于使用
+### 易于使用
 
 提供了高效且直观的文件浏览和管理功能。
 
 
-#使用协议
+## 使用协议
 
 感谢使用ttk file explorer，请仔细阅读以下条款：
 
@@ -48,7 +48,7 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 4.反馈：更多问题，请与开发者联系。
 
 
-#开发环境
+## 开发环境
 
 *Windows10 64bit
 *Python
@@ -63,7 +63,7 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 计划用Nuitka编译，提高兼容性和运行效率。
 
 
-#实用功能
+## 实用功能
 
 *文件操作
 *信息显示
@@ -76,7 +76,7 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 详细内容见软件内帮助页面。
 
 
-#温馨提示
+# #温馨提示
 
 本软件所有图像均来自网络，您可以进行图像自定义。
 
@@ -85,15 +85,15 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 制作不易，如觉得有用，请分享给更多人！
 
 
-#计划更新
+## 计划更新
 
-##操作
+### 操作
 
 返回（前进）
 隐藏
 显示方式
 
-##界面
+### 界面
 
 背景
 样式
@@ -102,7 +102,7 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 标签页
 树形视图
 
-##功能
+### 功能
 
 跳过（覆盖）
 筛选
@@ -121,7 +121,7 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 历史记录
 输入框文件夹选择
 
-##拓展
+## #拓展
 
 优化
 打包
@@ -130,15 +130,15 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 为您的支持而持续更新以上内容。
 
 
-#更新记录
+## 更新记录
 
-##0.2-BETA
+### 0.2-BETA
 
 发布日期：2023-11-5
 主要内容：支持自定义搭配主题，布局，对界面效果进行了优化
 Python版本：3.12.0
 
-##0.1-BETA
+### 0.1-BETA
 
 发布日期：2023-10-5
 主要内容：软件发布，具备基本功能，达到可用程度
@@ -146,4 +146,4 @@ Python版本：3.11.2
 ttkbootstrap版本：1.10.1
 
 
-#Thanks♪(･ω･)ﾉ
+# Thanks♪(･ω･)ﾉ
