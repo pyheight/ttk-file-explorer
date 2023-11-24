@@ -2,7 +2,7 @@
 > 欢迎您下载并体验 *ttk file explorer* **0.2-BETA**
 
 > [!IMPORTANT]
-> *ttk file explorer* 是一款基于Python的标准TkGUI工具包的接口（tkinter）的美化库**ttkbootstrap**开发的**轻量级**的Windows文件浏览软件。
+> *ttk file explorer* 是一款基于Python的标准TkGUI工具包的接口（**tkinter**）的美化库**ttkbootstrap**开发的**轻量级**的Windows文件浏览软件。
 >
 
 ##  下载地址
@@ -142,6 +142,7 @@
 
 ![](https://myoctocat.com/assets/images/base-octocat.svg)
 
-> 有了你的支持，我也就有了一鼓动力
-
 ## Thanks♪(･ω･)ﾉ
+
+> 有了你的支持，我也就有了一鼓动力
+- [x] #739
