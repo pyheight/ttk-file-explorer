@@ -8,19 +8,22 @@
 >
 
 ##  下载地址
-
+> [!TIP]
 > Github https://github.com/pyheight/ttk-file-explorer/
 
+> [!TIP]
 > 阿里云盘https://www.aliyundrive.com/s/kooYQY65teA/
 
+> [!TIP]
 > 百度网盘https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F
 
 
 ## 编写原因
+> [!IMPORTANT]
+> 本人基于tkinter的美化库ttkbootstrap开发了轻量级的Windows文件浏览软件——ttk file explorer，对于很多用户来说会是一个不错的选择。
 
-本人基于tkinter的美化库ttkbootstrap开发了轻量级的Windows文件浏览软件——ttk file explorer，对于很多用户来说会是一个不错的选择。
-
-当然，与其他的第三方文件管理软件相比可能有很多不足，但是它是为数不多的纯原生开发、无任何依赖tkinter软件，会持续优化，敬请期待！
+> [!IMPORTANT]
+> 当然，与其他的第三方文件管理软件相比可能有很多不足，但是它是为数不多的纯原生开发、无任何依赖tkinter软件，会持续优化，敬请期待！
 
 
 ## 主要优势
@@ -135,7 +138,7 @@
 ### 0.2-BETA
 
 * 发布日期：2023-11-5
-* 主要内容：支持自定义搭配主题，布局，对* 界面效果进行了优化
+* 主要内容：支持自定义搭配主题，布局，对界面效果进行了优化
 * Python版本：3.12.0
 
 ### 0.1-BETA
