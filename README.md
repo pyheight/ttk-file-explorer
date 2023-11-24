@@ -1,8 +1,8 @@
 # ttk file explorer
-> 欢迎您下载并体验 ttk file explorer 0.2-BETA
+> 欢迎您下载并体验 * ttk file explorer * 0.2-BETA
 
 > [!IMPORTANT]
-> ttk file explorer是一款基于Python的标准TkGUI工具包的接口（tkinter）的美化库ttkbootstrap开发的轻量级的Windows文件浏览软件。
+> * ttk file explorer *是一款基于Python的标准TkGUI工具包的接口（tkinter）的美化库ttkbootstrap开发的轻量级的Windows文件浏览软件。
 >
 
 ##  下载地址
@@ -18,7 +18,7 @@
 
 ## 编写原因
 > [!NOTE]
-> 本人基于tkinter的美化库ttkbootstrap开发了轻量级的Windows文件浏览软件——ttk file explorer，对于很多用户来说会是一个不错的选择。
+> 本人基于tkinter的美化库ttkbootstrap开发了轻量级的Windows文件浏览软件——* ttk file explorer *，对于很多用户来说会是一个不错的选择。
 
 > 当然，与其他的第三方文件管理软件相比可能有很多不足，但是它是为数不多的纯原生开发、无任何依赖tkinter软件，会持续优化，敬请期待！
 
@@ -40,7 +40,7 @@
 
 ## 使用协议
 
-感谢使用ttk file explorer，请仔细阅读以下条款：
+感谢使用* ttk file explorer *，请仔细阅读以下条款：
 
 1. 授权：本软件是免费提供使用的，可用于非商业用途。
 2. 版权：不得未经授权擅自复制或传播本软件的二进制程序的源代码的部分和全部。
@@ -138,7 +138,7 @@
 * 主要内容：支持自定义搭配主题，布局，对界面效果进行了优化
 * Python版本：3.12.0
 
-### 0.1-BETA
+### ~~0.1-BETA~~
 
 * 发布日期：2023-10-5
 * 主要内容：软件发布，具备基本功能，达到可用程度
