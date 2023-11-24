@@ -16,7 +16,7 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 百度网盘：https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F
 
 
-# # 编写原因
+## 编写原因
 
 本人基于tkinter的美化库ttkbootstrap开发了轻量级的Windows文件浏览软件——ttk file explorer，对于很多用户来说会是一个不错的选择。
 
@@ -76,7 +76,7 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 详细内容见软件内帮助页面。
 
 
-# #温馨提示
+## 温馨提示
 
 本软件所有图像均来自网络，您可以进行图像自定义。
 
@@ -146,4 +146,4 @@ Python版本：3.11.2
 ttkbootstrap版本：1.10.1
 
 
-# Thanks♪(･ω･)ﾉ
+## Thanks♪(･ω･)ﾉ
