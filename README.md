@@ -1,7 +1,7 @@
 # ttk file explorer
 > 欢迎您下载并体验 ttk file explorer 0.2-BETA
 
-有了你的支持，我也就有了一鼓动力
+> 有了你的支持，我也就有了一鼓动力
 
 > [!NOTE]
 > ttk file explorer是一款基于Python的标准TkGUI工具包的接口（tkinter）的美化库ttkbootstrap开发的轻量级的Windows文件浏览软件。
@@ -9,11 +9,11 @@
 
 ##  下载地址
 
-Github：https://github.com/pyheight/ttk-file-explorer/
+> Github https://github.com/pyheight/ttk-file-explorer/
 
-阿里云盘：https://www.aliyundrive.com/s/kooYQY65teA/
+> 阿里云盘https://www.aliyundrive.com/s/kooYQY65teA/
 
-百度网盘：https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F
+> 百度网盘https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F
 
 
 ## 编写原因
@@ -65,7 +65,7 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 
 ## 实用功能
 
-- 文件操作
+* 文件操作
 * 信息显示
 * 路径操作
 * 表结构操作
@@ -89,43 +89,43 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 
 ### 操作
 
-返回（前进）
-隐藏
-显示方式
+* 返回（前进）
+* 隐藏
+* 显示方式
 
 ### 界面
 
-背景
-样式
-图标
-中转站
-标签页
-树形视图
+* 背景
+* 样式
+* 图标
+* 中转站
+* 标签页
+* 树形视图
 
 ### 功能
 
-跳过（覆盖）
-筛选
-收藏
-搜索（指定内容）
-预览
-查看
-语言
-压缩
-保密柜
-清理加速
-分解分类
-批量处理
-窗口设置
-开机自启
-历史记录
-输入框文件夹选择
+* 跳过（覆盖）
+* 筛选
+* 收藏
+* 搜索（指定内容）
+* 预览
+* 查看
+* 语言
+* 压缩
+* 保密柜
+* 清理加速
+* 分解分类
+* 批量处理
+* 窗口设置
+* 开机自启
+* 历史记录
+* 输入框文件夹选择
 
 ### 拓展
 
-优化
-打包
-部署
+* 优化
+* 打包
+* 部署
 
 为您的支持而持续更新以上内容。
 
@@ -134,16 +134,16 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 
 ### 0.2-BETA
 
-发布日期：2023-11-5
-主要内容：支持自定义搭配主题，布局，对界面效果进行了优化
-Python版本：3.12.0
+* 发布日期：2023-11-5
+* 主要内容：支持自定义搭配主题，布局，对* 界面效果进行了优化
+* Python版本：3.12.0
 
 ### 0.1-BETA
 
-发布日期：2023-10-5
-主要内容：软件发布，具备基本功能，达到可用程度
-Python版本：3.11.2
-ttkbootstrap版本：1.10.1
+* 发布日期：2023-10-5
+* 主要内容：软件发布，具备基本功能，达到可用程度
+* Python版本：3.11.2
+* ttkbootstrap版本：1.10.1
 
 ![？？](https://myoctocat.com/assets/images/base-octocat.svg)
 
