@@ -1,5 +1,5 @@
 # ttk file explorer
-欢迎您下载并体验 ttk file explorer 0.2-BETA
+> 欢迎您下载并体验 ttk file explorer 0.2-BETA
 
 有了你的支持，我也就有了一鼓动力
 
@@ -42,23 +42,23 @@ Github：https://github.com/pyheight/ttk-file-explorer/
 
 感谢使用ttk file explorer，请仔细阅读以下条款：
 
-1.授权：本软件是免费提供使用的，可用于非商业用途。
-2.版权：不得未经授权擅自复制或传播本软件的二进制程序的源代码的部分和全部。
-3.责任：二进制程序包无病毒、无木马、无其他外挂，不一定能够按照预期的目标运行。开发者均不对任何索赔、损害赔偿或其他责任承担责任。
-4.反馈：更多问题，请与开发者联系。
+1. 授权：本软件是免费提供使用的，可用于非商业用途。
+2. 版权：不得未经授权擅自复制或传播本软件的二进制程序的源代码的部分和全部。
+3. 责任：二进制程序包无病毒、无木马、无其他外挂，不一定能够按照预期的目标运行。开发者均不对任何索赔、损害赔偿或其他责任承担责任。
+4. 反馈：更多问题，请与开发者联系。
 
 
 ## 开发环境
 
-*Windows10 64bit
-*Python
-*ttkbootstrap
-*pyinstaller
-*os
-*psutil
-*winshell
-*win32com
-*其他模块
+* Windows10 64bit
+* Python
+* ttkbootstrap
+* pyinstaller
+* os
+* psutil
+* winshell
+* win32com
+* 其他模块
 
 计划用Nuitka编译，提高兼容性和运行效率。
 
@@ -145,6 +145,6 @@ Python版本：3.12.0
 Python版本：3.11.2
 ttkbootstrap版本：1.10.1
 
+![？？](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Thanks♪(･ω･)ﾉ
-![？？](https://myoctocat.com/assets/images/base-octocat.svg)
