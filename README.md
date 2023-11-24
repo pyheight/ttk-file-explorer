@@ -3,7 +3,7 @@
 
 > 有了你的支持，我也就有了一鼓动力
 
-> [!NOTE]
+> [!IMPORTANT]
 > ttk file explorer是一款基于Python的标准TkGUI工具包的接口（tkinter）的美化库ttkbootstrap开发的轻量级的Windows文件浏览软件。
 >
 
@@ -19,10 +19,10 @@
 
 
 ## 编写原因
-> [!IMPORTANT]
+> [!NOTE]
 > 本人基于tkinter的美化库ttkbootstrap开发了轻量级的Windows文件浏览软件——ttk file explorer，对于很多用户来说会是一个不错的选择。
 
-> [!IMPORTANT]
+> [!NOTE]
 > 当然，与其他的第三方文件管理软件相比可能有很多不足，但是它是为数不多的纯原生开发、无任何依赖tkinter软件，会持续优化，敬请期待！
 
 
