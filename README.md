@@ -10,7 +10,7 @@
 > [!IMPORTANT]
 > *ttk file explorer* 是一款基于`Python`的标准TkGUI工具包的接口`tkinter`的美化库`ttkbootstrap`开发的**轻量级**的Windows文件浏览软件。
 
-> 欢迎你反馈使用时遇到的问题或给予宝贵的意见！
+> 欢迎你[反馈](mailto:276581780@qq.com)使用时遇到的问题或给予宝贵的意见！
 
 
 ## 主要优势
