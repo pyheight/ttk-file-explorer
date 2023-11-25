@@ -1,10 +1,10 @@
 # ttk file explorer
-
+[英语/English](README_English.md)
 > [!TIP]
 > 欢迎您下载并体验 *ttk file explorer* **0.2-BETA**
 
 > [!IMPORTANT]
-> *ttk file explorer* 是一款基于Python的标准TkGUI工具包的接口（**tkinter**）的美化库**ttkbootstrap**开发的**轻量级**的Windows文件浏览软件。
+> *ttk file explorer* 是一款基于`Python`的标准TkGUI工具包的接口`tkinter`的美化库`ttkbootstrap`开发的**轻量级**的Windows文件浏览软件。
 
 ## 主要优势
 
