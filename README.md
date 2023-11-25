@@ -26,6 +26,8 @@
 > [阿里云盘](https://www.aliyundrive.com/s/kooYQY65teA/)
 > [百度网盘](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F)
 
+> [!WARNING]
+> 软件二次分发存在巨大风险，因此请尽量通过本文档提供的下载地址下载。
 
 ## 编写原因
 > [!NOTE]
@@ -142,7 +144,6 @@
 
 ## Thanks♪(･ω･)ﾉ
 > [!NOTE]
-> 有了你的支持，我也就有了一鼓动力。
-
+> 如果你希望*ttk file explorer*长久持续开发下去并保持维护不断加入新功能，请在本页面给我一个star，我也就有了一鼓动力。<br>感谢所有支持*ttk file explorer*的小伙伴们。
 
 Copyright © 2023 [pyheight](mailto:276581780@qq.com)
