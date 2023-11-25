@@ -8,7 +8,6 @@
 
 
 ##  下载地址
-> [!IMPORTANT]
 > [GitHub](https://github.com/pyheight/ttk-file-explorer/)
 > [阿里云盘](https://www.aliyundrive.com/s/kooYQY65teA/)
 > [百度网盘](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F)
