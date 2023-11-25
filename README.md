@@ -1,5 +1,6 @@
 # ttk file explorer
-[英语/English](README_English.md)
+> [English](README_English.md)
+> [Chinese](README.md)
 > [!TIP]
 > 欢迎您下载并体验 *ttk file explorer* **0.2-BETA**
 
@@ -32,7 +33,7 @@
 ## 编写原因
 > [!NOTE]
 > 本人基于`tkinter`的美化库`ttkbootstrap`开发了轻量级的Windows文件浏览软件——*ttk file explorer* ，对于很多用户来说会是一个不错的选择。
-> <br>当然，与其他的第三方文件管理软件相比可能有很多不足，但是它是为数不多的**纯原生开发**、**无任何依赖**tkinter软件，会持续优化，敬请期待！
+> <br>当然，与其他的第三方文件管理软件相比可能有很多不足，但是它是为数不多的**纯原生开发**、**无任何依赖**`tkinter`软件，会持续优化，敬请期待！
 
 
 ## 使用协议
