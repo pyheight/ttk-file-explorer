@@ -1,6 +1,7 @@
 # ttk file explorer
+
+> [中文](README.md)
 > [English](README_English.md)
-> [Chinese](README.md)
 
 
 > [!TIP]
