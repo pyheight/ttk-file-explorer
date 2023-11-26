@@ -3,7 +3,7 @@
 > [中文](README.md)
 
 > [!TIP]
-> 欢迎您下载并体验 *ttk file explorer* **0.2-BETA**
+> 欢迎您下载并体验 *ttk file explorer* **0.2-BETA** `setup.exe`
 
 ![主界面](./main.png)
 
