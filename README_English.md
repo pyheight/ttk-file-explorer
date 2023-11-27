@@ -1,11 +1,11 @@
 # ttk file explorer
 
-> [Chinese ](README.md)
+> [Chinese/中文](README.md)
 
 > [!TIP]
 > you are welcome to download and experience *ttk file explorer* **0.2-beta** `setup.exe`.
 
-! [Main Interface ](./main.png)
+! [Main Interface](./main.png)
 
 > [!IMPORTANT]
 > *ttk file explorer* is a **lightweight** Windows file browsing software developed by ttkbootstrap, a beautification library based on the standard TkGUI toolkit of Python.
@@ -17,7 +17,7 @@
 
 ### Beautiful interface
 
-! [theme customization ](./color.png)
+! [theme customization](./color.png)
 
 > adopt modern interface design, pay attention to simplicity and beauty.
 
@@ -36,8 +36,8 @@
 
 ## Download address
 > [GitHub](https://github.com/pyheight/ttk-file-explorer/)
-> [Alibaba Cloud Disk] (https://www.aliyundrive.com/s/kooyqy65tea/)
-> [Baidu network disk] (https://pan.baidu.com/s/1vsv-7kpXn5crm0jjd0-qtg? pwd=2023#/home/%2F/%2F)
+> [Alibaba Cloud Disk](https://www.aliyundrive.com/s/kooyqy65tea/)
+> [Baidu network disk](https://pan.baidu.com/s/1vsv-7kpXn5crm0jjd0-qtg?pwd=2023#/home/%2F/%2F)
 
 > [!WARNING]
 > there are great risks in the secondary distribution of software, so please try to download it through the download address provided in this document.
@@ -49,7 +49,7 @@
 >
 > of course, compared with other third-party file management software, it may have many shortcomings, but it is one of the few **pure native development**, `Tinter` software without any dependence, and will continue to be optimized, so stay tuned!
 
-> all images in this software come from the internet, and you can customize the images (https://iconfont.cn).
+> all images in this software come from the internet, and you can customize the [images](https://iconfont.cn).
 
 
 ## Use the protocol
