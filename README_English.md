@@ -10,26 +10,26 @@
 > [!IMPORTANT]
 > *ttk file explorer* is a **lightweight** Windows file browsing software developed by ttkbootstrap, a beautification library based on the standard TkGUI toolkit of Python.
 
-> You are welcome to [feedback ](mailto:276581780@qq.com] the problems encountered during use or give valuable advice!
+> You are welcome to [feedback ](mailto:276581780@qq.com]) problems encountered during use or give valuable advice!
 
 
 ## Main advantages
 
 ### Beautiful interface
 
-! [theme customization](./color.png)
+![theme customization](./color.png)
 
 > adopt modern interface design, pay attention to simplicity and beauty.
 
 ### Extreme green
 
-! [Loading Interface ](./loading.png)
+![Loading Interface ](./loading.png)
 
 > fast response, no configuration requirements, minimum resource use.
 
 ### Easy to use
 
-! [Font customization ](./font.png)
+![Font customization ](./font.png)
 
 > provides efficient and intuitive file browsing and management functions.
 
