@@ -5,7 +5,7 @@
 > [!TIP]
 > you are welcome to download and experience *ttk file explorer* **0.2-beta** `setup.exe`.
 
-! [Main Interface](./main.png)
+![Main Interface](./main.png)
 
 > [!IMPORTANT]
 > *ttk file explorer* is a **lightweight** Windows file browsing software developed by ttkbootstrap, a beautification library based on the standard TkGUI toolkit of Python.
