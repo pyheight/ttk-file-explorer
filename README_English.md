@@ -46,7 +46,7 @@
 
 ## Writing reason
 > [!NOTE]
-> I have developed a lightweight Windows file browsing software-*ttk file explorer* based on `ttkbootstrap`, a beautification library of tkinter, which will be a good choice for many users.
+> I have developed a lightweight Windows file browsing software--*ttk file explorer* based on `ttkbootstrap`, a beautification library of tkinter, which will be a good choice for many users.
 >
 > of course, compared with other third-party file management software, it may have many shortcomings, but it is one of the few **pure native development**, `Tinter` software without any dependence, and will continue to be optimized, so stay tuned!
 
