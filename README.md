@@ -1,6 +1,7 @@
 # ttk file explorer
 
-> [English](README_English.md)
+> [中文/Chinese](README.md) 
+> [英语/English](README_English.md)
 
 > [!TIP]
 > 欢迎您下载并体验 *ttk file explorer* **0.2-BETA** `setup.exe`
