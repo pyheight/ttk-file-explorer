@@ -9,7 +9,7 @@
 ![Main Interface](./main.png)
 
 > [!IMPORTANT]
-> *ttk file explorer* is a **lightweight** Windows file browsing software developed by ttkbootstrap, a beautification library based on the standard TkGUI toolkit of Python.
+> *ttk file explorer* is a **lightweight** Windows file browsing software developed by `ttkbootstrap`, a beautification library based on the standard TkGUI toolkit of Python.
 
 > You are welcome to [feedback ](mailto:276581780@qq.com]) problems encountered during use or give valuable advice!
 
@@ -46,7 +46,7 @@
 
 ## Writing reason
 > [!NOTE]
-> I have developed a lightweight Windows file browsing software-*TTK File Explorer* based on ttkbootstrap, a beautification library of tkinter, which will be a good choice for many users.
+> I have developed a lightweight Windows file browsing software-*ttk file explorer* based on `ttkbootstrap`, a beautification library of tkinter, which will be a good choice for many users.
 >
 > of course, compared with other third-party file management software, it may have many shortcomings, but it is one of the few **pure native development**, `Tinter` software without any dependence, and will continue to be optimized, so stay tuned!
 
