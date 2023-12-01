@@ -65,15 +65,7 @@
 
 ## 开发环境
 
-* Windows10 64bit
-* Python
-* ttkbootstrap
-* pyinstaller
-* os
-* psutil
-* winshell
-* win32com
-* 其他模块
+> [开发环境](CONTRIBUTING.md)
 
 > 计划用Nuitka编译，提高兼容性和运行效率。
 
