@@ -36,7 +36,7 @@
 > [!NOTE]
 > provides efficient and intuitive file browsing and management functions.
 
-##Download address
+## Download address
 
 > [!WARNING]
 > there are great risks in the secondary distribution of software, so please try to download it through the download address provided in this document.
@@ -69,7 +69,7 @@
 ## More information
 
 > [!IMPORTANT]
-> [license]
+> [license](LICENSE)
 > [development environment](CONTRIBUTING.md)
 > [plan update](SECURITY.md)
 
