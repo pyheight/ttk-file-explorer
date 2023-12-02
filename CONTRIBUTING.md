@@ -10,3 +10,6 @@
 * winshell
 * win32com
 * 其他模块
+  
+> [!NOTE]
+> 计划用Nuitka编译，提高兼容性和运行效率。
