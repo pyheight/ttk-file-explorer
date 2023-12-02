@@ -76,7 +76,7 @@
 ## Tips
 
 > [!TIP]
-> if you want *ttk file explorer* to develop and maintain for a long time and add new functions, please give me a `star' on this page and share it with more people.
+> if you want *ttk file explorer* to develop and maintain for a long time and add new functions, please give me a `star` on this page and share it with more people.
 >
 > thanks to all the friends who support *ttk file explorer*.
 >
