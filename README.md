@@ -1,4 +1,4 @@
-# ttk file explorer
+<h1 align="center">ttk file explorer</h1>
 
 > [中文](README.md) 
 > [English](README_English.md)
