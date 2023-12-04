@@ -1,14 +1,13 @@
 <h1 align="center">ttk file explorer</h1>
 
-> [中文](README.md) 
-> [English](README_English.md)
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+<!--[中文](README.md) [English](README_English.md)-->
 
 > [!TIP]
-> 欢迎您下载并体验 *ttk file explorer* **0.2-BETA** `setup.exe`
+> 欢迎你下载并体验 *ttk file explorer* **0.2-BETA** `setup.exe`
 
 ![主界面](./main.png)
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
 
 > [!IMPORTANT]
 > *ttk file explorer* 是一款基于`Python`的标准TkGUI工具包的接口`tkinter`的美化库`ttkbootstrap`开发的**轻量级**的Windows文件浏览软件。
@@ -81,5 +80,5 @@
 > 如果你希望*ttk file explorer*长久持续开发下去并保持维护不断加入新功能，请在本页面给我一个`star`并且分享给更多人。
 >
 > 感谢所有支持*ttk file explorer*的小伙伴们。
-> 
-> Copyright © 2023 [pyheight](mailto:276581780@qq.com)
+
+<h6 align="center">Copyright © 2023 <a src="mailto:276581780@qq.com">pyheight</a></h6>
