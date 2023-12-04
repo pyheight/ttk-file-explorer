@@ -81,4 +81,4 @@
 >
 > 感谢所有支持*ttk file explorer*的小伙伴们。
 
-<h6 align="center">Copyright © 2023 <a href="mailto:276581780@qq.com">pyheight</a></h6>
+<p align="center">Copyright © 2023 <a href="mailto:276581780@qq.com">pyheight</a></p>
