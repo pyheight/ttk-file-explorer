@@ -8,6 +8,8 @@
 
 ![主界面](./main.png)
 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
+
 > [!IMPORTANT]
 > *ttk file explorer* 是一款基于`Python`的标准TkGUI工具包的接口`tkinter`的美化库`ttkbootstrap`开发的**轻量级**的Windows文件浏览软件。
 > 
