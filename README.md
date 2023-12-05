@@ -1,5 +1,7 @@
 <h1 align="center">ttk file explorer</h1>
 
+![](./icon.png)
+
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 <!--[中文](README.md) [English](README_English.md)-->
