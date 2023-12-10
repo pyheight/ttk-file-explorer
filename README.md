@@ -5,9 +5,9 @@
 <!--[中文](README.md) [English](README_English.md)-->
 
 > [!TIP]
-> 欢迎你下载并体验 *ttk file explorer* **0.2-BETA** `setup.exe`
+> 欢迎你下载并体验 *ttk file explorer* **0.3-BETA** `setup.exe`
 
-![主界面](./main.png)
+<!--!![主界面](./main.png)-->
 
 > [!IMPORTANT]
 > *ttk file explorer* 是一款基于`Python`的标准TkGUI工具包的接口`tkinter`的美化库`ttkbootstrap`开发的**轻量级**的Windows文件浏览软件。
@@ -18,21 +18,21 @@
 
 ### 界面美观
 
-![主题自定义](./color.png)
+<!--![主题自定义](./color.png)-->
 
 > [!NOTE]
 > 采用现代化的界面设计，注重简洁性和美感。
 
 ### 极致绿色
 
-![加载界面](./loading.png)
+<!--![加载界面](./loading.png)-->
 
 > [!NOTE]
 > 运行响应快，无配置要求，最小资源使用。
 
 ### 易于使用
 
-![字体自定义](./font.png)
+<!--![字体自定义](./font.png)-->
 
 > [!NOTE]
 > 提供了高效且直观的文件浏览和管理功能。
