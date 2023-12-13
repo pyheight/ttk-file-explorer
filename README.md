@@ -3,11 +3,10 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 <!--[中文](README.md) [English](README_English.md)-->
-
-*ttk file explorer* 是一款基于`Python`的标准TkGUI工具包的接口`tkinter`的美化库`ttkbootstrap`开发的**轻量级**的Windows文件浏览软件。
-
 > [!TIP]
 > 欢迎你下载 *ttk file explorer* `0.3-BETA-setup.exe`
+
+*ttk file explorer* 是一款基于`Python`的标准TkGUI工具包的接口`tkinter`的美化库`ttkbootstrap`开发的**轻量级**的Windows文件浏览软件。
 
 <!--!![主界面](./main.png)-->
 
