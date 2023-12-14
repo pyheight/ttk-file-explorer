@@ -1,221 +1,158 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-  <title>ttk file explorer - Home</title>
+  <title>ttk file explorer</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
     }
-    nav {
-      background-color: #333;
-      color: white;
-      padding: 10px;
-    }
-    nav ul {
-      list-style-type: none;
-      display: flex;
-      justify-content: space-between;
-    }
-    nav ul li {
-      display: inline;
-      margin-right: 20px;
-    }
-    nav ul li a {
-      color: white;
-      text-decoration: none;
-    }
-    h1 {
-      text-align: center;
-      padding: 20px 0;
-      font-size: 24px;
-      color: #333;
-    }
-    .page {
+    
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
       padding: 20px;
     }
-    .page h2 {
-      margin-bottom: 10px;
+    
+    h1 {
+      text-align: center;
     }
-    p {
-      line-height: 1.5;
-      margin-bottom: 10px;
-    }
-    strong {
-      font-weight: bold;
-    }
-    code {
-      font-family: Monaco, monospace;
-      background-color: #f8f8f8;
-      padding: 2px;
-      border-radius: 4px;
-    }
-    blockquote {
-      border-left: 4px solid #ccc;
-      padding-left: 10px;
-      color: #777;
-      font-style: italic;
-    }
+    
     img {
       display: block;
-      margin: auto;
-      max-width: 200px;
-      height: auto;
-      margin-bottom: 10px;
+      margin: 0 auto;
+      width: 100px;
+      height: 100px;
     }
-    ul {
-      list-style-type: disc;
-      padding-left: 20px;
+    
+    .menu {
+      background-color: #f1f1f1;
+      padding: 10px;
     }
-    li {
-      margin-bottom: 10px;
+    
+    .menu ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
     }
-    a {
-      color: #007bff;
-      text-decoration: none;
+    
+    .menu li {
+      display: inline;
     }
-    a:hover {
-      text-decoration: underline;
-    }
-    footer {
+    
+    .menu li a {
+      display: block;
+      color: black;
       text-align: center;
-      margin-top: 40px;
-      color: #777;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    .menu li a:hover {
+      background-color: #ddd;
+    }
+    
+    .tip {
+      background-color: #e6ffe6;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    
+    .important {
+      background-color: #ffffcc;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    
+    .note {
+      background-color: #e6f7ff;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    
+    .warning {
+      background-color: #ffcccc;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    
+    .download {
+      margin-bottom: 10px;
+    }
+    
+    .download a {
+      display: block;
+      margin-bottom: 5px;
+    }
+    
+    .more-info {
+      margin-bottom: 10px;
+    }
+    
+    .more-info a {
+      display: block;
+      margin-bottom: 5px;
+    }
+    
+    .footer {
+      text-align: center;
+      margin-top: 20px;
+      padding: 10px;
+      background-color: #f1f1f1;
     }
   </style>
 </head>
 <body>
-  <nav>
+<div class="container">
+  <h1><img src="./icon.png" alt=""/>ttk file explorer</h1>
+  <div class="menu">
     <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="information.html">More Information</a></li>
+      <li><a href="#tip">TIP</a></li>
+      <li><a href="#important">IMPORTANT</a></li>
+      <li><a href="#note">NOTE</a></li>
+      <li><a href="#warning">WARNING</a></li>
+      <li><a href="#download">下载地址</a></li>
+      <li><a href="#more-info">更多信息</a></li>
     </ul>
-  </nav>
-  <div class="page">
-    <h1><img src="./icon.png" alt="" />ttk file explorer</h1>
-    <h2>Welcome to ttk file explorer!</h2>
-    <p>ttk file explorer is a file management application that allows you to easily navigate through your files and folders. With a user-friendly interface and powerful features, it helps you organize and access your files efficiently.</p>
-    <p>Key features of ttk file explorer:</p>
-    <ul>
-      <li><strong>File and Folder Management:</strong> Easily create, delete, rename, and move files and folders.</li>
-      <li><strong>Search:</strong> Quickly find files using the search functionality.</li>
-      <li><strong>Preview:</strong> Preview images, text files, and PDF documents without opening external applications.</li>
-      <li><strong>Customization:</strong> Customize the application to suit your preferences with various themes and settings.</li>
-    </ul>
-    <p>Get started now and experience the convenience of ttk file explorer!</p>
-    <footer>&copy; 2022 ttk file explorer. All rights reserved.</footer>
   </div>
-</body>
-</html>
-```
-information.html：
-```html
-<!DOCTYPE html>
-<html>
-<head>
-  <title>ttk file explorer - More Information</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-    }
-    nav {
-      background-color: #333;
-      color: white;
-      padding: 10px;
-    }
-    nav ul {
-      list-style-type: none;
-      display: flex;
-      justify-content: space-between;
-    }
-    nav ul li {
-      display: inline;
-      margin-right: 20px;
-    }
-    nav ul li a {
-      color: white;
-      text-decoration: none;
-    }
-    h1 {
-      text-align: center;
-      padding: 20px 0;
-      font-size: 24px;
-      color: #333;
-    }
-    .page {
-      padding: 20px;
-    }
-    .page h2 {
-      margin-bottom: 10px;
-    }
-    p {
-      line-height: 1.5;
-      margin-bottom: 10px;
-    }
-    strong {
-      font-weight: bold;
-    }
-    code {
-      font-family: Monaco, monospace;
-      background-color: #f8f8f8;
-      padding: 2px;
-      border-radius: 4px;
-    }
-    blockquote {
-      border-left: 4px solid #ccc;
-      padding-left: 10px;
-      color: #777;
-      font-style: italic;
-    }
-    img {
-      display: block;
-      margin: auto;
-      max-width: 200px;
-      height: auto;
-      margin-bottom: 10px;
-    }
-    ul {
-      list-style-type: disc;
-      padding-left: 20px;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    footer {
-      text-align: center;
-      margin-top: 40px;
-      color: #777;
-    }
-  </style>
-</head>
-<body>
-  <nav>
-    <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="information.html">More Information</a></li>
-    </ul>
-  </nav>
-  <div class="page">
-    <h1><img src="./icon.png" alt="" />ttk file explorer</h1>
-    <h2>More Information</h2>
-    <p>For more information about ttk file explorer and its features, please visit the following links:</p>
-    <ul>
-      <li><a href="https://www.example.com/user-guide">User Guide</a></li>
-      <li><a href="https://www.example.com/faq">FAQs</a></li>
-      <li><a href="https://www.example.com/contact">Contact Us</a></li>
-    </ul>
-    <p>Stay updated with the latest news and releases by following ttk file explorer on social media!</p>
-    <p><a href="https://www.example.com/social-media">Facebook</a> | <a href="https://www.example.com/social-media">Twitter</a> | <a href="https://www.example.com/social-media">Instagram</a></p>
-    <footer>&copy; 2022 ttk file explorer. All rights reserved.</footer>
+  <div class="tip" id="tip">
+    <p>欢迎你下载 <em>ttk file explorer</em> <code>0.3-BETA-setup.exe</code></p>
   </div>
+  <div class="important" id="important">
+    <p>欢迎你 <a href="mailto:276581780@qq.com">反馈</a>使用时遇到的问题或给予宝贵的意见！</p>
+  </div>
+  <h2>主要优势</h2>
+  <ul>
+    <li>界面美观</li>
+    <li>极致绿色</li>
+    <li>易于使用</li>
+  </ul>
+  <h2>使用原因</h2>
+  <p>ttk file explorer 对于很多windows用户来说会是一个不错的选择。当然，与其他的第三方文件管理软件相比可能有很多不足，但是它是为数不多的纯原生开发、无任何依赖的 tkinter 软件，会持续优化，敬请期待！</p>
+  <div class="note" id="note">
+    <p>本软件所有图像均来自网络，你可以进行<a href="https://iconfont.cn">图像自定义</a>。</p>
+  </div>
+  <h2 id="download">下载地址</h2>
+  <div class="download">
+    <a href="https://github.com/pyheight/ttk-file-explorer/">GitHub</a>
+    <a href="https://www.aliyundrive.com/s/kooYQY65teA/">阿里云盘</a>
+    <a href="https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F">百度网盘</a>
+  </div>
+  <div class="warning" id="warning">
+    <p>软件二次分发存在巨大风险，因此请尽量通过本文档提供的下载地址下载。</p>
+  </div>
+  <h2 id="more-info">更多信息</h2>
+  <div class="more-info">
+    <a href="https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE">使用协议</a>
+    <a href="https://github.com/pyheight/ttk-file-explorer/blob/main/CONTRIBUTING.md">开发环境</a>
+    <a href="https://github.com/pyheight/ttk-file-explorer/blob/main/SECURITY.md">计划更新</a>
+  </div>
+  <div class="footer">
+    <p>Copyright &copy; 2023 <a href="https://github.com/pyheight">pyheight</a></p>
+  </div>
+</div>
 </body>
 </html>
