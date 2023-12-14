@@ -45,10 +45,10 @@
 
 ## 更多信息
 
-[使用协议](LICENSE)
-[开发环境](CONTRIBUTING.md)
-[计划更新](SECURITY.md)
-
+[使用协议](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE)
+[开发环境](https://github.com/pyheight/ttk-file-explorer/blob/main/CONTRIBUTING.md)
+[计划更新](https://github.com/pyheight/ttk-file-explorer/blob/main/SECURITY.md)
+  
 ## 温馨提示
 
 感谢所有支持*ttk file explorer*的小伙伴们。
