@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./icon.png" alt=""/>ttk file explorer</h1>
+<h1 align="center"><img src="./docs/icon.png" alt=""/>ttk file explorer</h1>
 
 > [!TIP]
 > 欢迎你下载 *ttk file explorer* `0.3-BETA-setup.exe`
