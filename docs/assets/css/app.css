@@ -371,9 +371,7 @@ Helpers
   background: transparent;
 }
 
-.bg-gradient {
-/*  background: linear-gradient(90deg, #8CC7F0 0%, #DCAAF4 100%) !important;*/
-}
+
 
 .shadow {
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.06), 3px 2px 8px 0px rgba(0, 0, 0, 0.06), 14px 7px 15px 0px rgba(0, 0, 0, 0.05), 31px 15px 21px 0px rgba(0, 0, 0, 0.03), 55px 27px 24px 0px rgba(0, 0, 0, 0.01), 86px 43px 27px 0px rgba(0, 0, 0, 0) !important;
@@ -539,9 +537,7 @@ Helpers
   }
 }
 
-.m-40 {
-/*  margin: 40px 0;*/
-}
+
 @media (max-width: 1199px) {
   .m-40 {
     margin: 32px 0;
@@ -1439,9 +1435,7 @@ footer .widget .cus-btn {
   padding: 64px 0;
 }
 @media (max-width: 992px) {
-  .hero-banner {
-/*    margin-top: 62px;*/
-  }
+
 }
 @media (max-width: 768px) {
   .hero-banner {
