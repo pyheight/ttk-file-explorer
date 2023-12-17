@@ -1,0 +1,20 @@
+.benefits{
+    .benefit-block{
+        padding: 16px 32px;
+        box-shadow: $shadow;
+        border-radius: 20px;
+        background: $lightest-gray;
+    }
+    .img-block{
+        padding: 64px 0;
+        box-shadow: $shadow;
+        border-radius: 30px;
+        background: $lightest-gray;
+        @include media-query(991px) {
+            padding: 48px 0;
+        }
+        @include media-query(768px) {
+            padding: 32px;
+        }
+    }
+}

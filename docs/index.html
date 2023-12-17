@@ -1,38 +1,249 @@
-<h1 align="center"><img src="./icon.png" alt=""/>ttk file explorer</h1>
-<blockquote>
-  <p><strong>欢迎你下载 ttk file explorer 0.3-BETA-setup.exe</strong></p>
-</blockquote>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<p>ttk file explorer 是一款基于 Python 的标准 TkGUI 工具包的接口 tkinter 的美化库 ttkbootstrap 开发的轻量级的 Windows 文件浏览软件。</p>
-<blockquote>
-  <p><strong>欢迎你反馈使用时遇到的问题或给予宝贵的意见！</strong></p>
-</blockquote>
-<h2>主要优势</h2>
-<ul>
-  <li><strong>界面美观</strong><br>采用现代化的界面设计，注重简洁性和美感。</li>
-  <li><strong>极致绿色</strong><br>运行响应快，无配置要求，最小资源使用。</li>
-  <li><strong>易于使用</strong><br>提供了高效且直观的文件浏览和管理功能。</li>
-</ul>
-<h2>使用原因</h2>
-<p>ttk file explorer 对于很多 Windows 用户来说会是一个不错的选择。</p>
-<p>当然，与其他的第三方文件管理软件相比可能有很多不足，但是它是为数不多的纯原生开发、无任何依赖的 tkinter 软件，会持续优化，敬请期待！</p>
-<blockquote>
-  <p><strong>本软件所有图像均来自网络，你可以进行图像自定义。</strong></p>
-</blockquote>
-<h2>下载地址</h2>
-<p><a href="https://github.com/pyheight/ttk-file-explorer/">GitHub</a></p>
-<p><a href="https://www.aliyundrive.com/s/kooYQY65teA/">阿里云盘</a></p>
-<p><a href="https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F">百度网盘</a></p>
-<blockquote>
-  <p><strong>软件二次分发存在巨大风险，因此请尽量通过本文档提供的下载地址下载。</strong></p>
-</blockquote>
-<h2>更多信息</h2>
-<p><a href="https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE">使用协议</a></p>
-<p><a href="https://github.com/pyheight/ttk-file-explorer/blob/main/CONTRIBUTING.md">开发环境</a></p>
-<p><a href="https://github.com/pyheight/ttk-file-explorer/blob/main/SECURITY.md">计划更新</a></p>
-<h2>温馨提示</h2>
-<p>感谢所有支持 ttk file explorer 的小伙伴们。</p>
-<blockquote>
-  <p><strong>如果你希望 ttk file explorer 长久持续开发下去并保持维护不断加入新功能，请在本页面给我一个 star 并且分享给更多人。</strong></p>
-</blockquote>
-<p align="center">Copyright © 2023 <a href="https://github.com/pyheight">pyheight</a></p>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="基于ttkootstrap开发的Windows文件浏览软件">
+
+    <title>ttk file explorer</title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="assets/media/logo.png">
+
+    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/vendor/slick.css">
+    <link rel="stylesheet" href="assets/css/vendor/font-awesome.css">
+    <link rel="stylesheet" href="assets/css/vendor/slick-theme.css">
+    <link rel="stylesheet" href="assets/css/app.css">
+</head>
+
+<body>
+
+    <header class="large-screens">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg">
+                <div class="collapse navbar-collapse justify-content-between">
+                    <a class="navbar-brand" href="index.html"><img alt="logo" src="./assets/media/logo.png"> <strong>ttk
+                            file explorer</strong></a>
+                    <ul class="navbar-nav mainmenu">
+                        <li class="menu-item"><a href="#download">下载地址</a></li>
+                        <li class="menu-item"><a href="#advantage">主要优势</a></li>
+                        <li class="menu-item"><a href="#tips">温馨提示</a></li>
+                        <li class="menu-item"><a href="#information">更多信息</a></li>
+                    </ul>
+                    <a target="_blank" href="https://github.com/pyheight/ttk-file-explorer" class="cus-btn dark">GitHub下载<img
+                            src="assets/media/github.png" alt=""></a>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <header class="small-screen">
+        <div class="container">
+            <div class="mobile-menu">
+                <div>
+                    <a class="navbar-brand" href="index.html"><img alt="" src="./assets/media/logo.png"> <strong>ttk
+                            file explorer</strong></a>
+                </div>
+                <div class="hamburger-menu">
+                    <div class="bar"></div>
+                </div>
+            </div>
+            <nav class="mobile-navar d-xl-none">
+                <ul>
+                    <li class="menu-item"><a href="#download">下载地址</a></li>
+                    <li class="menu-item"><a href="#advantage">主要优势</a></li>
+                    <li class="menu-item"><a href="#tips">温馨提示</a></li>
+                    <li class="menu-item"><a href="#information">更多信息</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero-banner" id="download">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="content-block">
+                        <h1 class="mb-16 color-white">ttk file explorer<br></h1>
+                        <h5 class="lightest-gray mb-64">
+                            一款基于Python的标准TkGUI工具包的接口tkinter的美化库ttkbootstrap开发的轻量级的Windows文件浏览软件</h5>
+                        <div class="btn-block">
+                            <a target="_blank" href="https://github.com/pyheight/ttk-file-explorer/" class="cus-btn dark">GitHub下载<img
+                                    src="assets/media/github.png" alt=""></a>
+                            <a target="_blank" href="https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F"
+                                class="cus-btn primary">百度网盘下载<img src="assets/media/baiduwangpan.png" alt=""></a>
+                            <a target="_blank" href="https://www.aliyundrive.com/s/kooYQY65teA/" class="cus-btn primary">阿里云盘下载<img
+                                    src="assets/media/aliyun.png" alt=""></a>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="img-block text-center text-lg-end">
+                        <img src="assets/media/main.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="steps p-40 m-40 bg-gradient" id="advantage">
+        <div class="container">
+            <div class="heading mb-48">
+                <h3 class="color-white">对于很多Windows用户来说会是一个不错的选择</h3>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 mb-24 mb-lg-0">
+                    <div class="step-block">
+                        <h1 class="mb-32">01</h1>
+                        <h4 class="mb-8">界面美观</h4>
+                        <p>采用现代化的界面设计，注重简洁性和美感。</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-24 mb-lg-0">
+                    <div class="step-block">
+                        <h1 class="mb-32">02</h1>
+                        <h4 class="mb-8">极致绿色</h4>
+                        <p>运行响应快，无配置要求，最小资源使用。</p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="step-block">
+                        <h1 class="mb-32">03</h1>
+                        <h4 class="mb-8">易于使用</h4>
+                        <p>提供了高效且直观的文件浏览和管理功能。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="benefits p-40" id="tips">
+        <div class="container">
+            <div class="heading mb-48">
+                <h3>欢迎你反馈使用时遇到的问题或给予宝贵的意见</h3>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <br>
+                    <br>
+                    <br>
+                    <div class="benefit-block mb-24">
+                        <h5 class="mb-16">软件下载</h5>
+                        <p>软件二次分发存在巨大风险，因此请尽量通过本网站提供的下载地址下载。</p>
+                    </div>
+                    <div class="benefit-block mb-24">
+                        <h5 class="mb-16">软件图像</h5>
+                        <p>本软件所有图像均来自网络，你可以进行<a target="_blank" href="https://www.iconfont.cn">图像自定义</a>。</p>
+                    </div>
+                    <div class="benefit-block mb-24">
+                        <h5 class="mb-16">优势对比</h5>
+                        <p>与其他的第三方文件管理软件相比可能有很多不足，但是它是为数不多的纯原生开发、无任何依赖的tkinter软件，会持续优化，敬请期待！</p>
+                    </div>
+
+
+                    <div class="benefit-block mb-48 mb-lg-0">
+                        <h5 class="mb-16">持续开发</h5>
+                        <p>如果你希望ttk file explorer长久持续开发下去并保持维护不断加入新功能，请在<a
+                                target="_blank" href="https://github.com/pyheight/ttk-file-explorer/">GitHub</a>给我一个star并且分享给更多人。</p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="img-block text-center">
+                        <img src="assets/media/loading.png" alt="">
+                        <br>
+                        <img src="assets/media/menu_in.png" alt="">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section id="information">
+        <footer class="p-40">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="widget">
+                            <a href="index.html" class="mb-24"><img src="assets/media/logo.png" alt=""> <strong>ttk file
+                                    explorer</strong></a>
+                            <p class="mb-24">感谢所有支持ttk file explorer的小伙伴们</p>
+                            <ul class="social-icons unstyled mb-24">
+                                <li><a target="_blank" href="https://github.com/"><img src="./assets/media/github.png" alt=""></a></li>
+                                <li><a target="_blank" href="https://pan.baidu.com/"><img src="assets/media/baiduwangpan.png"
+                                            alt=""></a></li>
+                                <li><a target="_blank" href="https://www.aliyundrive.com/"><img src="assets/media/aliyun.png"
+                                            alt=""></a></li>
+                                <li><a target="_blank" href="https://zhuanlan.zhihu.com/"><img src="assets/media/zhihu.png" alt=""></a>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-sm-6 offset-xxl-1">
+                        <div class="widget">
+                            <h4 class="mb-32">关于</h4>
+                            <ul class="list unstyled">
+                                <li class="mb-12"><a
+                                        target="_blank" href="https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE">使用协议</a>
+                                </li>
+                                <li class="mb-12"><a
+                                        target="_blank" href="https://github.com/pyheight/ttk-file-explorer/blob/main/CONTRIBUTING.md">开发环境</a>
+                                </li>
+                                <li class="mb-12"><a
+                                        target="_blank" href="https://github.com/pyheight/ttk-file-explorer/blob/main/SECURITY.md">计划更新</a>
+                                </li>
+                                <li class="mb-12"><a
+                                        target="_blank" href="https://github.com/pyheight/ttk-file-explorer/releases">发行版</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-sm-6">
+                        <div class="widget">
+                            <h4 class="mb-32">导航</h4>
+                            <ul class="list unstyled">
+                                <li class="mb-12"><a target="_blank" href="https://github.com/pyheight/ttk-file-explorer/">GitHub</a>
+                                </li>
+                                <li class="mb-12"><a href="https://www.zhihu.com/people/height-8">知乎</a></li>
+                                <li class="mb-12"><a target="_blank" href="mailto:276581780@qq.com">邮箱</a></li>
+                                <li class="mb-12"><a target="_blank" href="https://zhuanlan.zhihu.com/p/671360017">文章</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xxl-3 col-xl-4">
+                        <div class="widget mb-0">
+                            <h4 class="mb-32">下载</h4>
+                            <ul class="list unstyled">
+                                <li class="mb-12"><a
+                                        target="_blank" href="https://github.com/pyheight/ttk-file-explorer/blob/main/0.3-BETA/ttk%20file%20explorer%200.3-BETA-Setup.exe/">GitHub</a>
+                                </li>
+                                <li class="mb-12"><a
+                                        target="_blank" href="https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F">百度网盘</a>
+                                </li>
+                                <li class="mb-12"><a target="_blank" href="https://www.aliyundrive.com/s/kooYQY65teA/">阿里云盘</a></li>
+
+                            </ul>
+                            <p></p>
+                            <p>©2023 <a target="_blank" target="_blank" href="https://github.com/pyheight">pyheight</a>. All Rights Reserved.</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </section>
+
+    </div>
+    <script src="assets/js/vendor/jquery-3.6.3.min.js"></script>
+    <script src="assets/js/vendor/bootstrap.min.js"></script>
+    <script src="assets/js/vendor/slick.min.js"></script>
+    <script src="assets/js/vendor/jquery-appear.js"></script>
+    <script src="assets/js/vendor/jquery-validator.js"></script>
+
+    <script src="assets/js/app.js"></script>
+
+</body>
+
+</html>

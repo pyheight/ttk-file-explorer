@@ -1,0 +1,186 @@
+/*-------------------------
+  Form Styling
+-------------------------*/
+.form-group {
+  position: relative;
+}
+.input-group {
+  background: $lightest-gray;
+  padding: 16px;
+  position: relative;
+  box-shadow: none;
+  border: 0;
+  border-radius: 5px;
+  max-width: 416px;
+  @media(max-width: 492px) {
+    padding: 12px 8px;
+  }
+  input{
+    border: none;
+    background: transparent;
+    width: 75%;
+    color: $dark-gray;
+    font-size: 16px;
+    padding: 0;
+    box-shadow: none;
+    @media(max-width: 492px) {
+      width: 65%;
+    }
+    &:focus {
+      outline: 0;
+      box-shadow: none;
+      background: transparent;
+      border: none;
+    }
+    &::placeholder {
+      color: $dark-gray;
+      opacity: 1;
+    }
+  }
+  button{
+    border: none;
+    background: transparent;
+    width: 25%;
+    color: $black;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 150%; /* 24px */
+    letter-spacing: 0.32px;
+    text-align: end;
+    padding-left: 16px;
+    border-left: 1px solid $black;
+    @media(max-width: 492px) {
+      width: 35%;
+      text-align: center;
+      padding-left: 8;
+    }
+  }
+}
+.form-control {
+  border-radius: 5px;
+  padding: 16px;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  color: $black;
+  border: 0;
+  background: $gradient;
+  box-shadow: $shadow;
+  &:focus {
+    color: $black;
+    outline: 0;
+    box-shadow: $shadow;
+    border: none;
+    background: $gradient;
+  }
+  &::placeholder {
+    color: $black;
+    opacity: 1;
+  }
+}
+
+
+label {
+  &.error {
+    color: #bc0f0f;
+    margin-top: 10px;
+  }
+}
+
+input[type='checkbox'] {
+  height: auto;
+  width: auto;
+  background-color: $medium-gray;
+}
+
+input[type='checkbox'] {
+  &:checked {
+    accent-color: $accent-1;
+  }
+}
+
+input[type='checkbox']{
+  &:checked {
+    accent-color: $accent-1;
+    background-color: $accent-1;
+    width: 18px;
+    height: 16px;
+    border-radius: 10px;
+  }
+}
+
+input[type='range'] {
+  &::-webkit-slider-thumb {
+    background: $accent-1;
+  }
+}
+
+input[type='radio'] {
+  height: auto;
+  width: auto;
+}
+
+input[type='radio']:checked {
+  accent-color: $accent-1;
+}
+
+.select {
+  position: relative;
+  display: flex;
+  width: 100%;
+  border-radius: 0;
+  &::after {
+    content: "\f078";
+    font-family: $font-awesome;
+    color: $black;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-top: 4px;
+    cursor: pointer;
+    pointer-events: none;
+    transition: 0.25s all ease;
+  }
+  select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    outline: 0 !important;
+    border: 0 ;
+    border-bottom: 1px solid rgba(111, 111, 111, 0.50);
+    background: transparent;
+    background-image: none;
+    flex: 1;
+    padding-bottom: 8px;
+    color: $black;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    border-radius: 0;
+    width: 100%;
+    &::-ms-expand {
+      display: none;
+    }
+    option{
+      background-color: $accent-1;
+      outline: 0 !important;
+      border: 0 ;
+      color: $accent-1;
+      padding: 4px 8px;
+      &:hover{
+        background-color: $accent-1 !important;
+        color: white;
+      }
+      &:checked {
+        background-color: $accent-1;
+        color: white;
+      }
+    }
+  }
+}
+
+.alert-message {
+  display: none;
+}

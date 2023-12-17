@@ -1,0 +1,73 @@
+.back-to-top {
+    position: fixed;
+    bottom: 35px;
+    right: 5px;
+    display: block;
+    width: 120px;
+    height: 120px;
+    line-height: 50px;
+    font-size: 80px;
+    padding: 20px 0;
+    background: $accent-1;
+    color: $white;
+    text-align: center;
+    opacity: 0;
+    text-decoration: none;
+    border-radius: 50%;
+    -webkit-transform: scale(0.3);
+    -ms-transform: scale(0.3);
+    transform: scale(0.3);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+    z-index: 999;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    &.show{
+        opacity: 1;
+    }
+    &:hover{
+        bottom: 38px;
+        transition: $transition;
+    }
+    @include media-query(490px) { 
+        right: -20px;
+        bottom: -20px;
+    }
+    i{
+        color: $white;
+    }
+}
+.cus-btn{
+    padding: 16px 32px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.32px;
+    display: inline-flex;
+    gap: 8px;
+    align-items: center;
+    transition: $transition;
+    color: $white;
+    width: fit-content;
+    @include media-query(492px) {
+        padding: 12px 24px;
+        border-radius: 15px;
+    }
+    &.primary{
+        background: $accent-1;
+        &:hover{
+            color: $white;
+            transform: scale(1.01);
+        }
+    }
+    &.dark{
+        background: $medium-black;
+        &:hover{
+            color: $white;
+            transform: scale(1.01);
+        }
+    }
+}
+button{
+    border: 0;
+}
