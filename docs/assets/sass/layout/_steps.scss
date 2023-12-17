@@ -1,0 +1,22 @@
+.steps{
+    .step-block{
+        padding: 32px;
+        box-shadow: $shadow;
+        border-radius: 30px;
+        background-color: $lightest-gray;
+        transition: $transition;
+        &:hover{
+            background-color: $accent-1;
+            transition: $transition;
+            h1{
+                color: $white;
+            }
+            h4{
+                color: $white;
+            }
+            p{
+                color: $white;
+            }
+        }
+    }
+}

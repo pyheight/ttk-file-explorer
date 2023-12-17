@@ -1,0 +1,28 @@
+footer{
+    .widget{
+        max-width: 500px;
+        @media(max-width: 1199px) {
+            margin-bottom: 48px;
+        }
+        .social-icons{
+            display: flex;
+            align-items: center;
+            gap: 24px;
+        }
+        .list{
+            li{
+                a{
+                    @media(max-width: 992px) {
+                        font-size: 15px;
+                    }
+                    @media(max-width: 767px) {
+                    font-size: 14px;
+                    }
+                }
+            }
+        }
+        .cus-btn{
+            justify-content: center;
+        }
+    }
+}

@@ -1,0 +1,23 @@
+.download-banner{
+    .text-block{
+        height: 100%;
+        display: grid;
+        align-content: center;
+        @include media-query(991px) {
+            padding-top: 32px;
+            padding-bottom: 48px;
+        }
+        @include media-query(768px) {
+            padding-bottom: 32px;
+        }
+        .btn-block{
+            display: flex;
+            align-items: center;
+            gap: 32px;
+            flex-wrap: wrap;
+            @include media-query(1068px) {
+                gap: 24px;
+            }
+        }
+    }
+}

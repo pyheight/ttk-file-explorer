@@ -1,0 +1,31 @@
+.hero-banner{
+    background: $gradient;
+    padding: 64px 0;
+    @include media-query(992px) {
+        margin-top: 62px;
+    }
+    @include media-query(768px) {
+        padding: 48px 0;
+    }
+    .content-block{
+        height: 100%;
+        display: grid;
+        align-content: center;
+        justify-content: center;
+        @include media-query(992px) {
+            padding-bottom: 64px;
+        }
+        @include media-query(492px) {
+            padding-bottom: 42px;
+        }
+        .btn-block{
+            display: flex;
+            align-items: center;
+            gap: 32px;
+            flex-wrap: wrap;
+            @include media-query(768px) {
+                gap: 24px;
+            }
+        }
+    }   
+}
