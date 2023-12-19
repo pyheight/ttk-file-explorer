@@ -1242,7 +1242,6 @@ header.small-screen {
   height: 62px;
   padding: 16px 0 8px;*/
   background: #ECECF2;
-  padding: 1px;
 }
 @media (min-width: 991px) {
   header.small-screen {
@@ -1253,7 +1252,7 @@ header.small-screen .mobile-menu {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 16px;
+  padding: 0 10px;
 }
 header.small-screen .hamburger-menu {
   display: grid;
