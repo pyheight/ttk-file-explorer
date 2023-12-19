@@ -1,5 +1,7 @@
 <h1 align="center"><img src="./icon.png" alt=""/><a href="https://pyheight.github.io/ttk-file-explorer/">ttk file explorer</a></h1>
 
+[官网模板](https://www.templatemonster.com/cn/landing-page-templates)
+
 > [!TIP]
 > 欢迎你下载 *ttk file explorer* `0.3-BETA-setup.exe`
 
@@ -57,5 +59,3 @@
 > 如果你希望*ttk file explorer*长久持续开发下去并保持维护不断加入新功能，请在本页面给我一个`star`并且分享给更多人。
 
 <p align="center">Copyright © 2023 <a href="https://github.com/pyheight">pyheight</a></p>
-
-[官网模板](https://www.templatemonster.com/cn/landing-page-templates)
