@@ -1,59 +1,93 @@
-<h1 align="center"><img src="./icon.png" alt=""/><a href="https://pyheight.github.io/ttk-file-explorer/">ttk file explorer</a></h1>
+<h1 align="center"><img src="./icon.png" alt=""/><a href="https://pyheight.github.io/ttk-file-explorer/">ttk file explorer软件说明书</a></h1>
 
-> [!TIP]
-> 欢迎你下载 *ttk file explorer* `0.3-BETA-setup.exe`
+**欢迎使用ttk file explorer软件！**
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+## 提示
+ 在使用ttk file explorer软件之前，请您务必认真阅读并遵守《ttk file explorer软件说明书》（下称“本说明书”）。请您务必审慎阅读、充分理解各个重点说明内容。加粗字体显示内容，您应重点阅读。
+如果您同意本说明书，那么您就成为ttk file explorer软件的用户（下称“用户”），允许使用ttk file explorer软件提供给您的服务；如果您不同意本说明书，那么请您立即停止使用ttk file explorer软件。
+通过阅读本说明书，用户可以快速上手使用本软件，提高文件管理效率。
+**本说明书适用于任何ttk file explorer软件提供的服务。**
 
-*ttk file explorer* 是一款基于`Python`的标准TkGUI工具包的接口`tkinter`的美化库`ttkbootstrap`开发的**轻量级**的Windows文件浏览软件。
+## 引言
 
-> [!IMPORTANT]
-> 欢迎你[反馈](mailto:276581780@qq.com)使用时遇到的问题或给予宝贵的意见！
+**ttk file explorer**（下称“本软件”）**是一款基于**`Python`**的标准TkGUI工具包的接口**`tkinter`**的美化库**`ttkbootstrap`**开发的轻量级的Windows文件浏览软件。**
+
+### 编写目的
+本软件旨在解决用户在文件浏览和管理等方面的痛点，提供高效、便捷的文件管理体验。
+对于很多windows用户来说会是一个不错的选择。
+与其他的第三方文件管理软件相比可能有很多不足，会持续优化，敬请期待！
+
+### 项目背景
+本软件是由个人开发者[pyheight](https://github.com/pyheight)（下称“本人”）开发的一款文件管理工具。随着计算机技术的不断发展，文件数量和种类不断增加，用户需要一款高效、便捷的文件管理工具来提高工作效率。
+tkinter简单易用，能够满足基本的 GUI 需求。然而，它也有一些限制和缺陷，导致使用它的开发者很少。
+不过，本人开发的本软件，可能是为数不多的纯原生开发、无任何依赖的tkinter软件。
+
+### 运行环境
+支持主流的Windows操作系统，建议至少2GB内存。支持多种文件类型，包括文本、图片、音频和视频等。
+
+## 相关责任
+**本软件二进制程序无病毒、无恶意软件，但无法保证完全符合您的预期。开发者不对任何索赔、损害赔偿或其他责任承担责任。**
+如果您有任何问题或建议，请与本人[联系](mailto:276581780@qq.com)。
+
+## 使用限制
+为了确保软件的安全性和稳定性，用户在使用本软件时需要遵守相关法律法规和本软件的使用协议。请勿使用本软件进行违法活动或侵犯他人权益。
+**本软件免费提供使用，禁止用于商业用途。未经授权，禁止擅自复制或传播本软件的二进制程序的源代码的部分或全部。**
+
+## 数据需求
+使用本软件时，用户需要输入一些数据，例如搜索关键字或文件路径。请确保输入的数据准确无误，以获得最佳的使用体验。
+**本软件无需联网，不会收集或存储用户的个人数据。**
 
 ## 主要优势
+本软件采用简洁明了的设计风格，主界面包括导航栏、表形框和操作按钮等部分。通过右键菜单，用户可以轻松对文件和文件夹执行相关操作。速度与美观并存，让用户在享受流畅体验的同时，还支持自定义主题和布局设置，满足不同用户的个性化需求。
 
-* **界面美观**
- 
- 采用现代化的界面设计，注重简洁性和美感。
+### 界面美观
+采用现代化的界面设计，注重简洁性和美感。
 
-* **极致绿色**
-
+### 极致绿色
 运行响应快，无配置要求，最小资源使用。
 
-* **易于使用**
-
+### 易于使用
 提供了高效且直观的文件浏览和管理功能。
 
+## 功能描述
 
-## 使用原因
+### 文件信息
+支持多种文件类型，包括文本、图片、音频和视频等。通过选择文件夹和文件查看详细信息。
 
-*ttk file explorer* 对于很多windows用户来说会是一个不错的选择。
+### 文件和文件夹管理
+对文件和文件夹进行复制、移动、删除、重命名、新建、选择等操作，支持批量处理。提供查看文件属性功能。
 
-当然，与其他的第三方文件管理软件相比可能有很多不足，但是它是为数不多的**纯原生开发**、**无任何依赖**的`tkinter`软件，会持续优化，敬请期待！
+### 其他功能
+提供界面皮肤修改、主题设置等实用功能。满足用户的不同需求，提高文件管理的灵活性和便利性。
 
-> [!NOTE]
-> 本软件所有图像均来自网络，你可以进行[图像自定义](https://iconfont.cn)。
+### 关闭软件
+请右键系统托盘图标，在退出按钮处点击，即可退出本软件。
 
-##  下载地址
+## 性能表现
 
-[GitHub](https://github.com/pyheight/ttk-file-explorer/)
-[阿里云盘](https://www.aliyundrive.com/s/kooYQY65teA/)
-[百度网盘](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F)
+本软件的性能表现稳定，能够快速加载和浏览大量文件，提供流畅的用户体验。
+对于极大规模的文件系统，本软件可能需要一些时间来加载和索引文件，请耐心等待。
+**建议定期更新软件版本以获取最新的性能优化和功能升级。**
 
-> [!WARNING]
-> 软件二次分发存在巨大风险，因此请尽量通过本文档提供的下载地址下载。
+## 故障措施
 
-## 更多信息
+### 软件无法启动
+请确认计算机是否支持本软件，再运行本软件。如果问题仍然存在，请检查本软件目录下配置文件夹内的运行日志文件。
+如果问题仍未解决，请通过邮箱联系开发者并提供报错信息以获取更多帮助。
 
-[使用协议](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE)
-[开发环境](https://github.com/pyheight/ttk-file-explorer/blob/main/CONTRIBUTING.md)
-[计划更新](https://github.com/pyheight/ttk-file-explorer/blob/main/SECURITY.md)
-  
-## 温馨提示
+### 无法浏览某些文件和文件夹
+这是由于系统安全限制所致。如有需要，请右键系统托盘图标，以管理员运行本软件。
 
-感谢所有支持*ttk file explorer*的小伙伴们。
+## 注意事项
+### 软件下载
+软件二次分发存在巨大风险，因此请尽量通过[官网](https://pyheight.github.io/ttk-file-explorer/)提供的下载地址下载。
 
-> [!TIP]
-> 如果你希望*ttk file explorer*长久持续开发下去并保持维护不断加入新功能，请在本页面给我一个`star`并且分享给更多人。
+### 软件图像
+本软件所有图像均来自网络，用户可以进行[图像自定义](https://www.iconfont.cn/)。
 
-<p align="center">Copyright © 2023 <a href="https://github.com/pyheight">pyheight</a></p>
+### 软件操作
+在进行文件操作前，请务必确认目标位置和操作内容，以避免误删或误移动重要文件。
+对于系统文件夹或受保护的文件夹，请谨慎操作，以免对系统造成不必要的损坏。
+
+## 持续开发
+**如果用户希望本软件长久持续开发下去并保持维护不断加入新功能，请在[GitHub](https://github.com/pyheight/ttk-file-explorer/)给本人一个`star`并且分享给更多人。**
