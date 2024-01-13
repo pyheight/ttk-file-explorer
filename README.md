@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./icon.png" alt=""/><a href="https://pyheight.github.io/ttk-file-explorer/">ttk file explorer软件说明书</a></h1>
+<h1 align="center"><img src="./icon.png" alt=""/><a href="https://pyheight.github.io/ttk-file-explorer/">ttk file explorer</a></h1>
 
 > [!TIP]
 >**欢迎使用ttk file explorer软件！**
@@ -6,16 +6,16 @@
 ## 提示
  在使用ttk file explorer软件之前，请您务必认真阅读并遵守《ttk file explorer软件说明书》（下称“本说明书”）。请您务必审慎阅读、充分理解各个重点说明内容。加粗字体显示内容，您应重点阅读。
  
-如果您同意本说明书，那么您就成为ttk file explorer软件的用户（下称“用户”），允许使用ttk file explorer软件提供给您的服务；如果您不同意本说明书，那么请您立即停止使用ttk file explorer软件。
+如果您同意本说明书，那么您就成为ttk file explorer软件（下称“本软件”）的用户（下称“用户”），允许使用本软件提供给您的服务；如果您不同意本说明书，那么请您立即停止使用本软件。
 
 通过阅读本说明书，用户可以快速上手使用本软件，提高文件管理效率。
 
 > [!TIP]
->**本说明书适用于任何ttk file explorer软件提供的服务。**
+>**本说明书适用于任何本软件提供的服务。**
 
 ## 引言
 
-**ttk file explorer**（下称“本软件”）**是一款基于**`Python`**的标准TkGUI工具包的接口**`tkinter`**的美化库**`ttkbootstrap`**开发的轻量级的Windows文件浏览软件。**
+**本软件****是一款基于**`Python`**的标准TkGUI工具包的接口**`tkinter`**的美化库**`ttkbootstrap`**开发的轻量级的Windows文件浏览软件。**
 
 ### 编写目的
 本软件旨在解决用户在文件浏览和管理等方面的痛点，提供高效、便捷的文件管理体验。
