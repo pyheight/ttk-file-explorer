@@ -1,14 +1,24 @@
-ttk file explorer软件许可证-版本0.3-BETA-2023年12月19日
+BSD 2-Clause License
 
-特此免费向任何个人或组织授予许可
-获取软件副本和随附文档，涵盖
-使用、复制、展示、分发，
-执行和传输软件，并准备
-软件，并允许软件提供给的第三方
-这样做时，应遵守以下所有规定:
+Copyright (c) 2024, height
 
-1、授权：本软件免费供非商业用途使用，禁止用于商业用途。
-2、版权：未经授权，禁止擅自复制或传播本软件的二进制程序的源代码的部分或全部。
-3、责任：本软件二进制程序无病毒、无恶意软件，但无法保证完全符合您的预期。开发者不对任何索赔、损害赔偿或其他责任承担责任。
-4、反馈：如果您有任何问题或建议，请与开发者联系。
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
 
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
