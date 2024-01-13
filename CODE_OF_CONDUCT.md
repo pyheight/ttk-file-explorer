@@ -92,8 +92,8 @@
 
 ## 属性
 
-本行为准则改编自[贡献者契约][主页],
-2.0版，可从以下网址获得
+本行为准则改编自[贡献者契约][主页],2.0版，可从以下网址获得
+
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 社区影响指南的灵感来自于[Mozilla的行为准则执行阶梯](https://github.com/mozilla/diversity).
@@ -101,6 +101,9 @@ https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 [主页]: https://www.contributor-covenant.org
 
 有关本行为准则常见问题的解答，请参见
+
 https://www.contributor-covenant.org/faq.
+
 翻译可从以下网址获得
+
 https://www.contributor-covenant.org/translations.
