@@ -36,25 +36,23 @@
 
 社区领导有责任阐明和执行我们的标准
 可接受的行为，并将采取适当和公平的纠正措施
-对任何他们认为不恰当的、威胁性的、冒犯性的行为做出反应，或者有害。
+对任何他们认为不恰当的、威胁性的、冒犯性的行为做出反应
 
 社区领导有权利和责任删除、编辑或拒绝，评论、提交、代码、维基编辑、问题和其他贡献
 不符合本行为准则，并将传达适度的理由，在适当的时候做出决定。
 
 ## 范围
 
-本行为准则适用于所有社区空间，也适用于以下情况
-个人在公共场所正式代表社区。
-代表我们社区的例子包括使用官方电子邮件地址，通过官方社交媒体账户发帖，或作为指定的线上或线下活动的代表。
+本行为准则适用于所有社区空间，也适用于以下情况：
+个人在公共场所正式代表社区
+代表我们社区的例子包括使用官方电子邮件地址，通过官方社交媒体账户发帖，或作为指定的线上或线下活动的代表
 
 ## 执行
 
 辱骂、骚扰或其他不可接受的行为可能
 向负责执法的社区领导报告
-所有投诉都将得到及时公正的审查和调查。
-
-所有社区领袖都有义务尊重
-任何事件的记者。
+所有投诉都将得到及时公正的审查和调查
+所有社区领袖都有义务尊重任何事件的记者
 
 ## 实施指南
 
@@ -92,18 +90,12 @@
 
 ## 属性
 
-本行为准则改编自[贡献者契约][主页],2.0版，可从以下网址获得
+本行为准则改编自[贡献者契约][主页],2.0版，可从网址 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html 获得。
 
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
-社区影响指南的灵感来自于[Mozilla的行为准则执行阶梯](https://github.com/mozilla/diversity).
+社区影响指南的灵感来自于[Mozilla的行为准则执行阶梯](https://github.com/mozilla/diversity)。
 
 [主页]: https://www.contributor-covenant.org
 
-有关本行为准则常见问题的解答，请参见
+有关本行为准则常见问题的解答，请参见 https://www.contributor-covenant.org/faq。
 
-https://www.contributor-covenant.org/faq.
-
-翻译可从以下网址获得
-
-https://www.contributor-covenant.org/translations.
+翻译可从网址 https://www.contributor-covenant.org/translations 获得。
