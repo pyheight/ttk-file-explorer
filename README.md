@@ -54,17 +54,17 @@
 **界面美观**
 
 采用现代化的界面设计，注重简洁性和美感。
-![](./0.3-BETA/images/main.png)
+![](./images/0.3-BETA/main.png)
 
 **极致绿色**
 
 运行响应快，无配置要求，最小资源使用。
-![](./0.3-BETA/images/menu_in.png)
+![](./images//0.3-BETA/menu_in.png)
 
 **易于使用**
 
 提供高效且直观的文件浏览和管理功能。
-![](./0.3-BETA/images/file.png)
+![](./images/0.3-BETA/file.png)
 
 ## 功能描述
 
