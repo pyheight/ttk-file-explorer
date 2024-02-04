@@ -59,12 +59,12 @@
 **极致绿色**
 
 运行响应快，无配置要求，最小资源使用。
-![](./images//0.3-BETA/menu_in.png)
+![](./images//0.3-BETA/del.png)
 
 **易于使用**
 
 提供高效且直观的文件浏览和管理功能。
-![](./images/0.3-BETA/file.png)
+![](./images/0.3-BETA/menu_in.png)
 
 ## 功能描述
 
