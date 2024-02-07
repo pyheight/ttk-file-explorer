@@ -1,6 +1,6 @@
 <h1 align="center"><img src="./images/icon.png" alt=""/><a href="https://pyheight.github.io/ttk-file-explorer/">面向广大用户的的轻量级的Windows文件浏览软件</a></h1>
 
-**欢迎使用ttk file explorer，无论您是否具有编程能力，都可以下载安装包进行探索！**
+**欢迎使用ttk file explorer，您可以在[executable](https://github.com/pyheight/ttk-file-explorer/tree/7634557d3086b73bc22c9a0542c63dc49e0c0426/executable)下载安装包进行探索！**
 
 ## 引言
 
