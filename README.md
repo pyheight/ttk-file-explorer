@@ -123,4 +123,4 @@
 
 ## 帮助开发
 > [!IMPORTANT]
-> 为了长久持续开发下去并保持维护不断加入新功能，**0.4-Beta**将在[GitHub](https://github.com/pyheight/ttk-file-explorer/)上开源！
+> 为了长久持续开发下去并保持维护不断加入新功能，**新版本**将在[GitHub](https://github.com/pyheight/ttk-file-explorer/)上开源！
