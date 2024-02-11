@@ -12,19 +12,22 @@ ttk file explorer 是一个基于`Python`的标准TkGUI工具包的接口`tkinte
 
 ### 特殊性  
 
-`tkinter` 简单易用，能够满足基本的GUI需求。然而，它也有一些限制和缺陷，导致使用它的开发者很少。
+* `tkinter`简单易用，能够满足基本的GUI需求。然而，它也有一些限制和缺陷，导致使用它的开发者很少。
 
-### 不错的地方 
+### 不错的体验
 
 **界面美观**
+
 采用现代化的界面设计，注重简洁性和美感。
 ![](./images/0.3-BETA/main.png)
 
 **极致绿色**
+
 运行响应快，无配置要求，最小资源使用。
 ![](./images//0.3-BETA/del.png)
 
 **易于使用**
+
 提供高效且直观的文件浏览和管理功能。
 ![](./images/0.3-BETA/menu_in.png)
   
@@ -40,11 +43,11 @@ ttk file explorer 是一个基于`Python`的标准TkGUI工具包的接口`tkinte
 
 ### 说明
 
-项目重构后的新版本将开源！
+* 项目重构后的新版本将开源！
 
 ### 运行  
   
-目前你可以在[executable](https://github.com/pyheight/ttk-file-explorer/tree/7634557d3086b73bc22c9a0542c63dc49e0c0426/executable)下载安装包进行探索！
+* 目前你可以在[executable](https://github.com/pyheight/ttk-file-explorer/tree/7634557d3086b73bc22c9a0542c63dc49e0c0426/executable)下载安装包进行探索！
   
 ### 使用  
 
@@ -58,7 +61,7 @@ ttk file explorer 是一个基于`Python`的标准TkGUI工具包的接口`tkinte
   
 * **文档**：本项目的GitHub仓库中包含了详细的文档和使用指南。  
 * **社区支持**：你可以通过GitHub上的项目页面提出问题或寻求帮助，作者会提供支持。  
-* **贡献者**：如果你熟悉Python和Tkinter，并且愿意为项目做出贡献，请随时提交拉取请求或提供建议。  
+* **贡献者**：如果你熟悉`Python`和`tkinter`，并且愿意为项目做出贡献，请随时提交拉取请求或提供建议。  
   
 ## 贡献  
   
@@ -71,7 +74,7 @@ ttk file explorer 是一个基于`Python`的标准TkGUI工具包的接口`tkinte
   
 ## 许可证和责任  
   
-* 本项目使用[许可证](LICENSE)。  
+* 本项目使用的[许可证](LICENSE)。  
 * 所有代码和文档归原作者所有。
 * 本软件无需联网，不会收集或存储用户的个人数据。
 * 安装包二进制程序无病毒、无恶意软件，但无法保证完全符合你的预期。开发者不对任何索赔、损害赔偿或其他责任承担责任。
@@ -79,7 +82,7 @@ ttk file explorer 是一个基于`Python`的标准TkGUI工具包的接口`tkinte
 
 ## 致谢  
   
-* 感谢ttkbootstrap团队为Tkinter提供的出色美化库。  
+* 感谢`ttkbootstrap`团队为`tkinter`提供的出色美化库。  
 * 感谢所有为本项目做出贡献的开发者和社区成员。  
   
 ## 联系方式  
