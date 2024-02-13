@@ -2,17 +2,17 @@
   
 ## 简介  
   
-ttk file explorer 是一个基于`Python`的标准TkGUI工具包的接口`tkinter`的美化库`ttkbootstrap`开发的应用程序。
+ttk file explorer 是一个基于`Python` `tkinter`的美化库`ttkbootstrap`开发的文件管理器。
 
 它专为Windows操作系统设计，旨在解决用户在文件浏览和管理等方面的痛点，提供高效、便捷的文件管理体验。
 
-通过简洁、直观且可定制的界面提供了文件管理所需的基本功能。
-  
+它只有最基本的功能，因此用户不会被莫名其妙的界面吓倒。通过简洁、直观且可定制的界面提供了文件管理所需的基本功能。
+
 ## 为什么这个项目有用？  
 
 ### 特殊性  
 
-* `tkinter`简单易用，能够满足基本的GUI需求。然而，它也有一些限制和缺陷，导致使用它的开发者很少。
+`tkinter`简单易用，能够满足基本的GUI需求。然而，它也有一些限制和缺陷，导致使用它的开发者很少。
 
 ### 不错的体验
 
@@ -33,21 +33,21 @@ ttk file explorer 是一个基于`Python`的标准TkGUI工具包的接口`tkinte
   
 ### 运行兼容性  
   
-* **适用于Windows**：作为一个Windows软件，它充分利用了Windows系统的特性，提供了与操作系统紧密结合的体验。  
+**适用于Windows**：作为一个Windows软件，它充分利用了Windows系统的特性，提供了与操作系统紧密结合的体验。  
   
 ### 开源和免费  
   
-* **开源项目**：作为一个开源项目，用户可以根据自己的需求进行扩展和定制，提高文件管理的灵活性和便利性。 
+**开源项目**：作为一个开源项目，用户可以根据自己的需求进行扩展和定制，提高文件管理的灵活性和便利性。 
   
 ## 如何开始？  
 
 ### 说明
 
-* 项目重构后的新版本将开源！
+项目重构后的新版本将开源！
 
 ### 运行  
   
-* 目前你可以在[executable](https://github.com/pyheight/ttk-file-explorer/tree/7634557d3086b73bc22c9a0542c63dc49e0c0426/executable)下载安装包进行探索！
+目前你可以在[executable](https://github.com/pyheight/ttk-file-explorer/tree/7634557d3086b73bc22c9a0542c63dc49e0c0426/executable)下载安装包进行探索！
   
 ### 使用  
 
@@ -65,7 +65,7 @@ ttk file explorer 是一个基于`Python`的标准TkGUI工具包的接口`tkinte
   
 ## 贡献  
   
-* 如果你对本项目感兴趣，并希望为其做出贡献，请查阅[贡献指南](CONTRIBUTING.md)。  
+如果你对本项目感兴趣，并希望为其做出贡献，请查阅[贡献指南](CONTRIBUTING.md)。  
   
 ## 目标和愿景  
   
@@ -87,5 +87,5 @@ ttk file explorer 是一个基于`Python`的标准TkGUI工具包的接口`tkinte
   
 ## 联系方式  
   
-* 如有任何疑问或建议，请通过[邮箱](mailto:276581780@qq.com)与我们联系。
+如有任何疑问或建议，请通过[邮箱](mailto:276581780@qq.com)与我们联系。
   
