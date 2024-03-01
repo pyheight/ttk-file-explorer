@@ -45,7 +45,7 @@ It has only the most basic features, so users won't be intimidated by the inexpl
 
 At present, you can download the installation package to explore, and the source code will be released after refactoring! 
 
-### use
+### How to use
 
 * Supports a variety of file types, including text, images, audio, and video. View details by selecting folders and files.
 * Copy, move, delete, rename, create, select, etc. files and folders can be processed in batches.
