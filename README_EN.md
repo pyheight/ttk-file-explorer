@@ -1,5 +1,10 @@
 <p align="center"> <img src="images/icon.png" height=45><strong>ttk file explorer</strong> </p>
-<div align="center"><b><a href="README.md">简体中文</a> | <a href="README_EN.md">English</a></b></div>
+
+## <div align="center"><b><a href="README.md">简体中文</a> | <a href="README_EN.md">English</a></b></div>
+
+[<img src="https://img.shields.io/github/stars/pyheight/ttk-file-explorer?style=social">](https://github.com/pyheight/ttk-file-explorer/stargazers)
+[![LICENSE](https://img.shields.io/github/license/pyheight/ttk-file-explorer.svg)](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE)
+[![Open issue](https://img.shields.io/github/issues/pyheight/ttk-file-explorer)](https://github.com/pyheight/ttk-file-explorer/issues)
 
 ## Introduction 
 
