@@ -1,5 +1,5 @@
 <p align="center"> <img src="images/icon.png" height=45><strong>ttk file explorer</strong> </p>
-<div align="center"><b><a href="README.md">Chinese Simplified</a> | <a href="README_EN.md">English</a></b></div>
+<div align="center"><b><a href="README.md">简体中文</a> | <a href="README_EN.md">English</a></b></div>
 
 ## Introduction 
 
@@ -12,12 +12,12 @@ It has only the most basic features, so users won't be intimidated by the inexpl
 * Fast operation response, no configuration requirements, minimal resource usage.
 * Provides efficient and intuitive file browsing and management functions.
 
- ## Download
+## Download
 
 * Official website download: [website](https://pyheight.github.io/ttk-file-explorer/)
 * Github: [executable](https://github.com/pyheight/ttk-file-explorer/tree/main/executable)
 
- ## Why this project is useful
+## Why this project is useful
 
 * Specificity: `tkinter` is easy to use and can meet the basic GUI requirements. However, it also has some limitations and flaws that result in very few developers using it.
 
