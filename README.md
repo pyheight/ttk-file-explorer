@@ -1,5 +1,9 @@
-# ttk file explorer  
-  
+<p align="center">
+  <img src="images/icon.png" height=45><strong>ttk file explorer</strong>
+</p>
+
+<div align="center"><b><a href="README.md">简体中文</a> | <a href="README_EN.md">English</a></b></div>
+
 ## 简介  
   
 ttk file explorer 是一款文件管理器，基于`tkinter`语法和`ttkbootstrap`美化库开发。
