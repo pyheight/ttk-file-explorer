@@ -69,7 +69,7 @@ If you are interested in this project and would like to contribute to it, please
 
 ## Licenses and Responsibilities
 
-* This project uses the [Apache-2.0 license] (LICENSE) open source license.
+* This project uses the [Apache-2.0 license](LICENSE) open source license.
 * All code and documentation are owned by the project owner. 
 * This software does not require an Internet connection and does not collect or store the user's personal data.
 * The installation package binary is virus- and malware-free, but it cannot be guaranteed to be exactly what you expect. The developer is not responsible for any claims, damages, or other liabilities.
