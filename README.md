@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="images/icon.png" height=45><strong>ttk file explorer</strong>
-</p>
+<h1 align="center"><img src="images/icon.png" height=45>ttk file explorer</h1>
+
 
 ## <div align="center"><b><a href="README.md">简体中文</a> | <a href="README_EN.md">English</a></b></div>
 
