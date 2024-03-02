@@ -9,7 +9,7 @@
 
 ## Introduction 
 
-ttk file explorer is a file manager developed based on the `tkinter` syntax and the `ttkbootstrap` beautification library.
+ttk file explorer is a lightweight file manager developed based on the `tkinter` syntax and the `ttkbootstrap` beautification library.
 
 Designed for Windows, it aims to solve users' pain points in file browsing and management, and provide an efficient and convenient file management experience.
 
