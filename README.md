@@ -10,7 +10,7 @@
 
 ## 简介  
   
-ttk file explorer 是一款文件管理器，基于`tkinter`语法和`ttkbootstrap`美化库开发。
+ttk file explorer 是一款轻量级的文件管理器，基于`tkinter`语法和`ttkbootstrap`美化库开发。
 
 目前专为Windows设计，旨在解决用户在文件浏览和管理等方面的痛点，提供高效、便捷的文件管理体验。
 
