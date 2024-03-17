@@ -65,9 +65,17 @@ At present, you can download the installation package to explore, and the source
 * **Community Support**: You can ask questions or ask for help through the project page on GitHub, and the author will provide support. 
 * **Contributors**: If you are familiar with `Python` and `tkinter` and would like to contribute to the project, please feel free to submit a pull request or provide suggestions.
 
-## Contribute
-
-If you are interested in this project and would like to contribute to it, please check out the [Contribution Guidelines](CONTRIBUTING.md)。 
+## Contributors are welcome  
+  
+Our project uses the `Apache License, Version 2.0`, which is a widely recognized open source license that allows the freedom to use, modify, and distribute our code. We chose this protocol because it provides a balance that protects the rights of the original authors while encouraging broad community participation.  
+  
+We welcome and appreciate every contributor. Whether you submit a simple `bug` fix or implement a completely new feature, your contribution will be respected and recognized by us and the community.  
+  
+To help you better understand how to contribute to the project, we have provided a detailed [Contribution Guide](CONTRIBUTING.md). Be sure to follow the instructions to ensure that your code can be smoothly integrated into our project.  
+  
+We are committed to maintaining a friendly, open and inclusive community environment. No matter who you are, no matter your skill level, we welcome you to participate in our project and drive it forward together.  
+  
+Finally, rest assured that we are proactive in responding to the needs and issues of the community, and are constantly maintaining and updating our project to ensure its stability and security. Let's contribute to the open source community together!
 
 ## Goals & Vision
 * **Short-term Goals**: Optimize existing features, improve user experience, and fix known issues. 
