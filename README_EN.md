@@ -72,7 +72,7 @@ To help you better understand how to contribute to the project, we have provided
 * **Long-term vision**: Expand the project into a full-featured file management tool, support more operating systems, and build an active community. 
 
 ## Licenses and Responsibilities
-[![license](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large&issueType=license)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large&issueType=license)
 
 * This project uses the [Apache-2.0 license](LICENSE) open source license.
 * All code and documentation are owned by the project owner. 
