@@ -59,18 +59,20 @@ ttk file explorer 是一款轻量级的文件管理器，基于`tkinter`语法�
 * **贡献者**：如果您熟悉`Python`和`tkinter`，并且愿意为项目做出贡献，请随时提交拉取请求或提供建议。  
   
 ## 欢迎贡献者  
-[![Apache-2.0 license](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large&issueType=license)
-  
+<a href="https://github.com/pyheight/ttk-file-explorer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pyheight/ttk-file-explorer" />
+</a>
+
 我们非常欢迎并感激每一位贡献者。无论您是提交了一个简单的`bug`修复，还是实现了一个全新的功能，您的贡献都将得到我们和社区的尊重和认可。  
+为了帮助您更好地了解如何为项目做出贡献，我们提供了一份详细的[贡献指南](CONTRIBUTING.md)。请务必遵循其中的指示，以确保您的代码能够顺利地集成到我们的项目中。  
   
-为了帮助您更好地了解如何为项目做出贡献，我们提供了一份详细的 [贡献指南](CONTRIBUTING.md)。请务必遵循其中的指示，以确保您的代码能够顺利地集成到我们的项目中。  
-  
-## 目标和愿景  
+## 目标和愿景 
 * **短期目标**：优化现有功能，提高用户体验，修复已知问题。  
 * **长期愿景**：将项目扩展为一个功能全面的文件管理工具，支持更多的操作系统，并建立一个活跃的社区。  
   
 ## 许可证和责任  
-* 我们的项目使用[Apache-2.0 license](LICENSE)开源协议。  
+[![Apache-2.0 license](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large&issueType=license)
+* 我们的项目使用[Apache-2.0 license](LICENSE)开源协议。
 * 所有代码和文档归项目拥有者所有。
 * 本软件无需联网，不会收集或存储用户的个人数据。
 * 安装包二进制程序无病毒、无恶意软件，但无法保证完全符合您的预期。开发者不对任何索赔、损害赔偿或其他责任承担责任。
