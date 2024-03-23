@@ -71,7 +71,7 @@ ttk file explorer 是一款轻量级的文件管理器，基于`tkinter`语法�
 * **长期愿景**：将项目扩展为一个功能全面的文件管理工具，支持更多的操作系统，并建立一个活跃的社区。  
   
 ## 许可证和责任  
-[![license](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large&issueType=license)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large&issueType=license)
 * 我们的项目使用[Apache-2.0 license](LICENSE)开源协议。
 * 所有代码和文档归项目拥有者所有。
 * 本软件无需联网，不会收集或存储用户的个人数据。
