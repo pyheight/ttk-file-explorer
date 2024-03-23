@@ -84,7 +84,3 @@ ttk file explorer 是一款轻量级的文件管理器，基于`tkinter`语法�
   
 ## 联系方式  
 如有任何疑问或建议，请通过[邮箱](mailto:276581780@qq.com)与我们联系。
-
-
-## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large)
