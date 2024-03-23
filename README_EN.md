@@ -4,11 +4,11 @@
 [<img src="https://img.shields.io/github/stars/pyheight/ttk-file-explorer?style=social">](https://github.com/pyheight/ttk-file-explorer/stargazers)
 [<img src="https://img.shields.io/github/forks/pyheight/ttk-file-explorer.svg?style=social">](https://github.com/pyheight/ttk-file-explorer/network/members)
 [<img src="https://img.shields.io/github/release/pyheight/ttk-file-explorer.svg">](https://github.com/pyheight/ttk-file-explorer/releases)
-[![LICENSE](https://img.shields.io/github/license/pyheight/ttk-file-explorer.svg)](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE)
-[<img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer.svg">](https://github.com/pyheight/ttk-file-explorer/commits/main)
-[<img src="https://img.shields.io/github/issues-pr/pyheight/ttk-file-explorer.svg">](https://github.com/pyheight/ttk-file-explorer/pulls)
-[![Open issue](https://img.shields.io/github/issues/pyheight/ttk-file-explorer)](https://github.com/pyheight/ttk-file-explorer/issues)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield)
+[<img src="https://img.shields.io/github/license/pyheight/ttk-file-explorer.svg">](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE)
+[<img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer.svg?color=cyan">](https://github.com/pyheight/ttk-file-explorer/commits/main)
+[<img src="https://img.shields.io/github/issues-pr/pyheight/ttk-file-explorer.svg?color=yellow">](https://github.com/pyheight/ttk-file-explorer/pulls)
+[<img src="https://img.shields.io/github/issues/pyheight/ttk-file-explorer?color=yellow">](https://github.com/pyheight/ttk-file-explorer/issues)
+[<img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield">](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield)
 
 ## Introduction 
 ttk file explorer is a lightweight file manager developed based on the `tkinter` syntax and the `ttkbootstrap` beautification library.
