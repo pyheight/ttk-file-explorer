@@ -21,8 +21,8 @@ It has only the most basic features, so users won't be intimidated by the inexpl
 * Provides efficient and intuitive file browsing and management functions.
 
 ## Download
-* Official website download: [website](https://pyheight.github.io/ttk-file-explorer/)
-* Github: [executable](https://github.com/pyheight/ttk-file-explorer/tree/main/executable)
+* [Website](https://pyheight.github.io/ttk-file-explorer/)
+* [Github](https://github.com/pyheight/ttk-file-explorer/releases/)
 
 ## Why this project is useful
 * Specificity: `tkinter` is easy to use and can meet the basic GUI requirements. However, it also has some limitations and flaws that result in very few developers using it.
