@@ -1,14 +1,13 @@
 <h1 align="center"><img src="images/icon.png" height=45>ttk file explorer</h1>
 
-## <div align="center"><b><a href="README.md">简体中文</a> | <a href="README_EN.md">English</a></b></div>
-
+### <div align="center"><b><a href="README.md">简体中文</a> | <a href="README_EN.md">English</a></b></div>
+[<img src="https://img.shields.io/github/forks/pyheight/ttk-file-explorer.svg?style=social">](https://github.com/pyheight/ttk-file-explorer/network/members)
 [<img src="https://img.shields.io/github/stars/pyheight/ttk-file-explorer?style=social">](https://github.com/pyheight/ttk-file-explorer/stargazers)
 [<img src="https://img.shields.io/github/release/pyheight/ttk-file-explorer.svg">](https://github.com/pyheight/ttk-file-explorer/releases)
 [![LICENSE](https://img.shields.io/github/license/pyheight/ttk-file-explorer.svg)](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE)
 [![Open issue](https://img.shields.io/github/issues/pyheight/ttk-file-explorer)](https://github.com/pyheight/ttk-file-explorer/issues)
 
 ## Introduction 
-
 ttk file explorer is a lightweight file manager developed based on the `tkinter` syntax and the `ttkbootstrap` beautification library.
 
 Designed for Windows, it aims to solve users' pain points in file browsing and management, and provide an efficient and convenient file management experience.
@@ -19,12 +18,10 @@ It has only the most basic features, so users won't be intimidated by the inexpl
 * Provides efficient and intuitive file browsing and management functions.
 
 ## Download
-
 * Official website download: [website](https://pyheight.github.io/ttk-file-explorer/)
 * Github: [executable](https://github.com/pyheight/ttk-file-explorer/tree/main/executable)
 
 ## Why this project is useful
-
 * Specificity: `tkinter` is easy to use and can meet the basic GUI requirements. However, it also has some limitations and flaws that result in very few developers using it.
 
 * For Windows: As a Windows software, it makes full use of the features of the Windows system and provides an experience that is tightly integrated with the operating system.
@@ -32,7 +29,6 @@ It has only the most basic features, so users won't be intimidated by the inexpl
 * Open source and free: As an open source project, users can expand and customize according to their own needs, improving the flexibility and convenience of file management.
   
 ## Software Preview
-
 * **Beautiful interface**
 
 ![](./images/0.3-BETA/main.png)
@@ -46,13 +42,10 @@ It has only the most basic features, so users won't be intimidated by the inexpl
 ![](./images/0.3-BETA/menu_in.png)
 
 ## How do I get started?
-
 ### Note 
-
 At present, you can download the installation package to explore, and the source code will be released after refactoring! 
 
 ### How to use
-
 * Supports a variety of file types, including text, images, audio, and video. View details by selecting folders and files.
 * Copy, move, delete, rename, create, select, etc. files and folders can be processed in batches.
 * Provide practical functions such as viewing file attributes, interface skin modification, theme settings, etc.
@@ -60,29 +53,24 @@ At present, you can download the installation package to explore, and the source
 * Please be cautious to avoid accidentally deleting or moving important files.
 
 ## Get Help 
-
 * **Documentation**: Detailed documentation and usage guides are included in the project's GitHub repository. 
 * **Community Support**: You can ask questions or ask for help through the project page on GitHub, and the author will provide support. 
 * **Contributors**: If you are familiar with `Python` and `tkinter` and would like to contribute to the project, please feel free to submit a pull request or provide suggestions.
 
 ## Contributors are welcome  
-  
+[![Apache-2.0 license](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large&issueType=license)
+
 Our project uses the `Apache License, Version 2.0`, which is a widely recognized open source license that allows the freedom to use, modify, and distribute our code. We chose this protocol because it provides a balance that protects the rights of the original authors while encouraging broad community participation.  
   
 We welcome and appreciate every contributor. Whether you submit a simple `bug` fix or implement a completely new feature, your contribution will be respected and recognized by us and the community.  
   
 To help you better understand how to contribute to the project, we have provided a detailed [Contribution Guide](CONTRIBUTING.md). Be sure to follow the instructions to ensure that your code can be smoothly integrated into our project.  
-  
-We are committed to maintaining a friendly, open and inclusive community environment. No matter who you are, no matter your skill level, we welcome you to participate in our project and drive it forward together.  
-  
-Finally, rest assured that we are proactive in responding to the needs and issues of the community, and are constantly maintaining and updating our project to ensure its stability and security. Let's contribute to the open source community together!
 
 ## Goals & Vision
 * **Short-term Goals**: Optimize existing features, improve user experience, and fix known issues. 
 * **Long-term vision**: Expand the project into a full-featured file management tool, support more operating systems, and build an active community. 
 
 ## Licenses and Responsibilities
-
 * This project uses the [Apache-2.0 license](LICENSE) open source license.
 * All code and documentation are owned by the project owner. 
 * This software does not require an Internet connection and does not collect or store the user's personal data.
@@ -90,7 +78,6 @@ Finally, rest assured that we are proactive in responding to the needs and issue
 * In order to ensure the security and stability of the software, you need to comply with relevant laws and regulations and the terms of use of the software. Do not engage in illegal activities or infringe on the rights and interests of others.
 
 ## Special thanks to you
-
 * Thanks to the `ttkbootstrap` team for the great beautification library for `tkinter`.
 * Thank you to all the developers and community members who contributed to this project.
 
