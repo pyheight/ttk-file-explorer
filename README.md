@@ -1,10 +1,12 @@
 <h1 align="center"><img src="images/icon.png" height=45>ttk file explorer</h1>
 
 ### <div align="center"><b><a href="README.md">简体中文</a> | <a href="README_EN.md">English</a></b></div>
-[<img src="https://img.shields.io/github/forks/pyheight/ttk-file-explorer.svg?style=social">](https://github.com/pyheight/ttk-file-explorer/network/members)
 [<img src="https://img.shields.io/github/stars/pyheight/ttk-file-explorer?style=social">](https://github.com/pyheight/ttk-file-explorer/stargazers)
+[<img src="https://img.shields.io/github/forks/pyheight/ttk-file-explorer.svg?style=social">](https://github.com/pyheight/ttk-file-explorer/network/members)
 [<img src="https://img.shields.io/github/release/pyheight/ttk-file-explorer.svg">](https://github.com/pyheight/ttk-file-explorer/releases)
 [![LICENSE](https://img.shields.io/github/license/pyheight/ttk-file-explorer.svg)](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE)
+[<img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer.svg">](https://github.com/pyheight/ttk-file-explorer/commits/main)
+[<img src="https://img.shields.io/github/issues-pr/pyheight/ttk-file-explorer.svg">](https://github.com/pyheight/ttk-file-explorer/pulls)
 [![Open issue](https://img.shields.io/github/issues/pyheight/ttk-file-explorer)](https://github.com/pyheight/ttk-file-explorer/issues)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield)
 
