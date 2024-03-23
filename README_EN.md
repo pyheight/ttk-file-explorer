@@ -59,9 +59,9 @@ At present, you can download the installation package to explore, and the source
 * **Contributors**: If you are familiar with `Python` and `tkinter` and would like to contribute to the project, please feel free to submit a pull request or provide suggestions.
 
 ## Contributors are welcome  
-[![Apache-2.0 license](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large&issueType=license)
-
-Our project uses the `Apache License, Version 2.0`, which is a widely recognized open source license that allows the freedom to use, modify, and distribute our code. We chose this protocol because it provides a balance that protects the rights of the original authors while encouraging broad community participation.  
+<a href="https://github.com/pyheight/ttk-file-explorer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pyheight/ttk-file-explorer" />
+</a>
   
 We welcome and appreciate every contributor. Whether you submit a simple `bug` fix or implement a completely new feature, your contribution will be respected and recognized by us and the community.  
   
@@ -72,6 +72,8 @@ To help you better understand how to contribute to the project, we have provided
 * **Long-term vision**: Expand the project into a full-featured file management tool, support more operating systems, and build an active community. 
 
 ## Licenses and Responsibilities
+[![license](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large&issueType=license)
+
 * This project uses the [Apache-2.0 license](LICENSE) open source license.
 * All code and documentation are owned by the project owner. 
 * This software does not require an Internet connection and does not collect or store the user's personal data.
