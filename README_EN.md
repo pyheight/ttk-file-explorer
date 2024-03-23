@@ -32,16 +32,13 @@ It has only the most basic features, so users won't be intimidated by the inexpl
 * Open source and free: As an open source project, users can expand and customize according to their own needs, improving the flexibility and convenience of file management.
   
 ## Software Preview
-* **Beautiful interface**
-
+- **Beautiful interface**
 ![](./images/0.3-BETA/main.png)
 
-* **Extreme Green**
-
+- **Extreme Green**
 ![](./images//0.3-BETA/del.png)
 
-* **Easy to use**
-
+- **Easy to use**
 ![](./images/0.3-BETA/menu_in.png)
 
 ## How do I get started?
