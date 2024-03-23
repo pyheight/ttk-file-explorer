@@ -32,17 +32,14 @@ ttk file explorer 是一款轻量级的文件管理器，基于`tkinter`语法�
 * 开源和免费：作为一个开源项目，用户可以根据自己的需求进行扩展和定制，提高文件管理的灵活性和便利性。 
  
 ## 软件预览
-* **界面美观**
-
-![](./images/0.3-BETA/main.png)
-
-* **极致绿色**
-
-![](./images//0.3-BETA/del.png)
-
-* **易于使用**
-
-![](./images/0.3-BETA/menu_in.png)
+- **界面美观**  
+  <img src="./images/0.3-BETA/main.png">  
+    
+- **极致绿色**  
+  <img src="./images/0.3-BETA/del.png">  
+    
+- **易于使用**  
+  <img src="./images/0.3-BETA/menu_in.png">
 
 ## 如何开始？  
 ### 说明
