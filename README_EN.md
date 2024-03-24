@@ -33,13 +33,13 @@ It has only the most basic features, so users won't be intimidated by the inexpl
   
 ## Software Preview
 - **Beautiful interface**
-![](./images/0.3-BETA/main.png)
+![](./images/v0.3.0-beta/main.png)
 
 - **Extreme Green**
-![](./images//0.3-BETA/del.png)
+![](./images/v0.3.0-beta/del.png)
 
 - **Easy to use**
-![](./images/0.3-BETA/menu_in.png)
+![](./images/v0.3.0-beta/menu_in.png)
 
 ## How do I get started?
 ### Note 
