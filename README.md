@@ -33,13 +33,13 @@ ttk file explorer 是一款轻量级的文件管理器，基于`tkinter`语法�
  
 ## 软件预览
 - **界面美观**
-![](./images/0.3-BETA/main.png)
+![](./images/v0.3.0-beta/main.png)
 
 - **极致绿色**
-![](./images//0.3-BETA/del.png)
+![](./images/v0.3.0-beta/del.png)
 
 - **易于使用**
-![](./images/0.3-BETA/menu_in.png)
+![](./images/v0.3.0-beta/menu_in.png)
 
 ## 如何开始？  
 ### 说明
