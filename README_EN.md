@@ -45,9 +45,9 @@ It has only the most basic features, so users won't be intimidated by the inexpl
 ### Note 
 At present, you can download the installation package for preliminary exploration and experience, and our source code is undergoing in-depth refactoring work, and will be shared with you as soon as it is completed.
 
-The following is a preview of the 'v1.0.0' version, which is currently in the intense development stage, please be patient, I believe it will bring you surprises!
+The following is a preview of the `v1.0.0` version, which is currently in the intense development stage, please be patient, I believe it will bring you surprises!
 
-! [](./images/v1.0.0-test-interface.png)
+![](./images/v1.0.0-test-interface.png)
 
 ### How to use
 * Supports a variety of file types, including text, images, audio, and video. View details by selecting folders and files.
