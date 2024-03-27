@@ -70,6 +70,8 @@ We welcome and appreciate every contributor. Whether you submit a simple `bug` f
   
 To help you better understand how to contribute to the project, we have provided a detailed [Contribution Guide](CONTRIBUTING.md). Be sure to follow the instructions to ensure that your code can be smoothly integrated into our project.  
 
+[Join QQ Group Chat](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=R4uH_nKM46Y60l56vDyJ6sjhFU5_GXVf&authKey=nY01qekfcNEM2bDDRfBLCwtq6A2Qw82ZzS67GwxEA2SOYE35TPc245R%2FuOFuwBBQ&noverify=0&group_code=789181284)
+
 ## Goals & Vision
 * **Short-term Goals**: Optimize existing features, improve user experience, and fix known issues. 
 * **Long-term vision**: Expand the project into a full-featured file management tool, support more operating systems, and build an active community. 
