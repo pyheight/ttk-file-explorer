@@ -68,7 +68,10 @@ ttk file explorer 是一款轻量级的文件管理器，基于`tkinter`语法�
 
 我们非常欢迎并感激每一位贡献者。无论您是提交了一个简单的`bug`修复，还是实现了一个全新的功能，您的贡献都将得到我们和社区的尊重和认可。  
 为了帮助您更好地了解如何为项目做出贡献，我们提供了一份详细的[贡献指南](CONTRIBUTING.md)。请务必遵循其中的指示，以确保您的代码能够顺利地集成到我们的项目中。  
-  
+
+
+[加入QQ群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=R4uH_nKM46Y60l56vDyJ6sjhFU5_GXVf&authKey=nY01qekfcNEM2bDDRfBLCwtq6A2Qw82ZzS67GwxEA2SOYE35TPc245R%2FuOFuwBBQ&noverify=0&group_code=789181284)
+
 ## 目标和愿景 
 * **短期目标**：优化现有功能，提高用户体验，修复已知问题。  
 * **长期愿景**：将项目扩展为一个功能全面的文件管理工具，支持更多的操作系统，并建立一个活跃的社区。  
