@@ -26,11 +26,9 @@ It has only the most basic features, so users won't be intimidated by the inexpl
 * [Github](https://github.com/pyheight/ttk-file-explorer/releases/)
 
 ## Why this project is useful
-* Specificity: `tkinter` is easy to use and can meet the basic GUI requirements. However, it also has some limitations and flaws that result in very few developers using it.
-
-* For Windows: As a Windows software, it makes full use of the features of the Windows system and provides an experience that is tightly integrated with the operating system.
-
-* Open source and free: As an open source project, users can expand and customize according to their own needs, improving the flexibility and convenience of file management.
+* **Specificity**: `tkinter` is easy to use and can meet the basic GUI requirements. However, it also has some limitations and flaws that result in very few developers using it.
+* **For Windows**: As a Windows software, it makes full use of the features of the Windows system and provides an experience that is tightly integrated with the operating system.
+* **Open source and free**: As an open source project, users can expand and customize according to their own needs, improving the flexibility and convenience of file management. 
   
 ## Software Preview
 - **Beautiful interface**
