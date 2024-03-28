@@ -8,6 +8,7 @@
 [<img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer.svg?color=cyan">](https://github.com/pyheight/ttk-file-explorer/commits/main)
 [<img src="https://img.shields.io/github/issues-pr/pyheight/ttk-file-explorer.svg?color=yellow">](https://github.com/pyheight/ttk-file-explorer/pulls)
 [<img src="https://img.shields.io/github/issues/pyheight/ttk-file-explorer?color=yellow">](https://github.com/pyheight/ttk-file-explorer/issues)
+<a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fylYo5AJ1qdt2re9zKKO7ONDT7cSF_X9&authKey=unaCiKPadeZ1spH%2BGnLAHWzCNLqdeRSGwHRw5q5fC2MdZdOoygZvYZ%2FVIrtGP7gk&noverify=0&group_code=789181284" target="_blank"><img src="https://img.shields.io/badge/QQ-789181284-white.svg" alt="QQ 789181284"></a>
 [<img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield">](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield)
 
 ## Introduction 
@@ -69,8 +70,6 @@ The following is a preview of the `v1.0.0` version, which is currently in the in
 We welcome and appreciate every contributor. Whether you submit a simple `bug` fix or implement a completely new feature, your contribution will be respected and recognized by us and the community.  
   
 To help you better understand how to contribute to the project, we have provided a detailed [Contribution Guide](CONTRIBUTING.md). Be sure to follow the instructions to ensure that your code can be smoothly integrated into our project.  
-
-[Join QQ Group Chat](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=R4uH_nKM46Y60l56vDyJ6sjhFU5_GXVf&authKey=nY01qekfcNEM2bDDRfBLCwtq6A2Qw82ZzS67GwxEA2SOYE35TPc245R%2FuOFuwBBQ&noverify=0&group_code=789181284)
 
 ## Goals & Vision
 * **Short-term Goals**: Optimize existing features, improve user experience, and fix known issues. 
