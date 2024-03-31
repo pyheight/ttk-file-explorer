@@ -8,8 +8,7 @@
 <div align="center">  
   <a href="https://github.com/pyheight/ttk-file-explorer/stargazers">  
     <img src="https://img.shields.io/github/stars/pyheight/ttk-file-explorer?style=social&logo=github" alt="GitHub Stars">
-  </a>  
-  <a href="https://github.com/pyheight/ttk-file-explorer/network/members">  
+  </a><a href="https://github.com/pyheight/ttk-file-explorer/network/members">  
     <img src="https://img.shields.io/github/forks/pyheight/ttk-file-explorer?style=social&logo=github" alt="GitHub Forks">
   </a>  
   <a href="http://qm.qq.com/cgi-bin/qm/qr?wv=1027&k=fylYo5AJ1qdt2re9zKKO7ONDT7cSF_X9&authKey=unaCiKPadeZ1spH%2BGnLAHWzCNLqdeRSGwHRw5q5fC2MdZdOoygZvYZ%2FVIrtGP7gk&noverify=0&group_code=789181284">
