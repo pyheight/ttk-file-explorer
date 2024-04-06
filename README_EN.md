@@ -13,7 +13,7 @@
 <div align="center" style="margin-top: 20px;">  
 <a href="https://github.com/pyheight/ttk-file-explorer/releases"><img src="https://img.shields.io/github/v/release/pyheight/ttk-file-explorer?color=blue&style=flat-square" alt="Latest Release"></a>  
 <a href="https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE"><img src="https://img.shields.io/github/license/pyheight/ttk-file-explorer?color=blue&style=flat-square" alt="License"></a>  
-<a href="https://github.com/pyheight/ttk-file-explorer/commits/main"><img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer?color=cyan&style=flat-square" alt="Last Commit"></a>  
+<a href="https://github.com/pyheight/ttk-file-explorer/commits/main"><img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer?style=flat-square" alt="Last Commit"></a>  
 <a href="https://github.com/pyheight/ttk-file-explorer/pulls"><img src="https://img.shields.io/github/issues-pr/pyheight/ttk-file-explorer?color=yellow&style=flat-square" alt="Pull Requests"></a>  
 <a href="https://github.com/pyheight/ttk-file-explorer/issues"><img src="https://img.shields.io/github/issues/pyheight/ttk-file-explorer?color=yellow&style=flat-square" alt="Issues"></a> 
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>  
