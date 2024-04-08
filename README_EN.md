@@ -2,7 +2,8 @@
   <img src="images/icon.png" height="45" alt="">  
   ttk file explorer  
 </h1>  
-  
+<div align="center"><img src="images/logo.png" alt=""></div>
+
 ### <div align="center"><a href="README.md">简体中文</a> | <a href="README_EN.md">English</a></div> 
   
 <div align="center">  
