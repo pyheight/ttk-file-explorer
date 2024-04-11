@@ -89,6 +89,6 @@ ttk file explorer 是一款轻量级的文件管理器，基于`tkinter`语法�
 * 安装包二进制程序无病毒、无恶意软件，但无法保证完全符合您的预期。开发者不对任何索赔、损害赔偿或其他责任承担责任。
 * 为了确保软件的安全性和稳定性，您在使用时需要遵守相关法律法规和本软件的使用协议。请勿进行违法活动或侵犯他人权益。
 
-### 星星历史图
+## 星星历史图
 [![Stargazers over time](https://starchart.cc/pyheight/ttk-file-explorer.svg?variant=adaptive)](https://starchart.cc/pyheight/ttk-file-explorer)
 
