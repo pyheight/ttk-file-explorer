@@ -91,9 +91,5 @@ To help you better understand how to contribute to the project, we have provided
 * The installation package binary is virus- and malware-free, but it cannot be guaranteed to be exactly what you expect. The developer is not responsible for any claims, damages, or other liabilities.
 * In order to ensure the security and stability of the software, you need to comply with relevant laws and regulations and the terms of use of the software. Do not engage in illegal activities or infringe on the rights and interests of others.
 
-## Special thanks to you
-* Thanks to the `ttkbootstrap` team for the great beautification library for `tkinter`.
-* Thank you to all the developers and community members who contributed to this project.
-
-## Contact Us
-If you have any questions or suggestions, please contact us at [E-mail](mailto:276581780@qq.com).
+## Star history chart
+[![Stargazers over time](https://starchart.cc/pyheight/ttk-file-explorer.svg?variant=adaptive)](https://starchart.cc/pyheight/ttk-file-explorer)
