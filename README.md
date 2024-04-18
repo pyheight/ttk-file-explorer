@@ -33,6 +33,7 @@ ttk file explorer 是一款轻量级的文件管理器，基于`tkinter`语法�
 ## 下载
 * [官网](https://pyheight.github.io/ttk-file-explorer/)
 * [Github](https://github.com/pyheight/ttk-file-explorer/releases/)
+* [GitCode](https://gitcode.com/2302_82330415/ttk-file-explorer)
 
 ## 为什么这个项目有用
 * **特殊性**：`tkinter`简单易用，能够满足基本的GUI需求。然而，它也有一些限制和缺陷，导致使用它的开发者很少。
