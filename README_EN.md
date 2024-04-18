@@ -33,6 +33,7 @@ It has only the most basic features, so users won't be intimidated by the inexpl
 ## Download
 * [Website](https://pyheight.github.io/ttk-file-explorer/)
 * [Github](https://github.com/pyheight/ttk-file-explorer/releases/)
+* [Gitcode](https://gitcode.com/2302_82330415/ttk-file-explorer)
 
 ## Why this project is useful
 * **Specificity**: `tkinter` is easy to use and can meet the basic GUI requirements. However, it also has some limitations and flaws that result in very few developers using it.
