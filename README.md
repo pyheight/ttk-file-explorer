@@ -57,6 +57,7 @@ ttk file explorer 是一款轻量级的文件管理器，基于`tkinter`语法�
 以下是`v1.0.0`版本的界面预览图，目前正处于紧张的开发阶段，敬请各位耐心等待，相信它一定会给您带来惊喜！
 
 ![](./images/v1.0.0-test-interface.png)
+![](./images/v1.0.0-test-interface-dark.png)
 
 ### 使用  
 * 支持多种文件类型，包括文本、图片、音频和视频等。通过选择文件夹和文件查看详细信息。
