@@ -1,8 +1,9 @@
+<div align="center"><img src="images/splash.png" alt="logo" height="200"></div>
+
 <h1 align="center">  
   <img src="images/icon.png" height="45" alt="">  
   ttk file explorer  
 </h1>  
-<div align="center"><img src="images/splash.png" alt=""></div>
 
 ### <div align="center"><a href="README.md">简体中文</a> | <a href="README_EN.md">English</a></div> 
   
