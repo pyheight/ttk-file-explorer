@@ -1,4 +1,4 @@
-<div align="center"><img src="images/splash.png" alt="logo" height="200"></div>
+<div align="center"><img src="images/splash.png" alt="logo" height="150"></div>
 
 <h1 align="center">  
   <img src="images/icon.png" height="45" alt="">  
