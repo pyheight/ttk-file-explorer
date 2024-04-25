@@ -1,8 +1,9 @@
+<div align="center"><img src="images/splash.png" alt=""></div>
+
 <h1 align="center">  
   <img src="images/icon.png" height="45" alt="">  
   ttk file explorer  
-</h1>  
-<div align="center"><img src="images/splash.png" alt=""></div>
+</h1>
 
 ### <div align="center"><a href="README.md">简体中文</a> | <a href="README_EN.md">English</a></div> 
   
@@ -41,14 +42,9 @@ It has only the most basic features, so users won't be intimidated by the inexpl
 * **Open source and free**: As an open source project, users can expand and customize according to their own needs, improving the flexibility and convenience of file management. 
   
 ## Software Preview
-- **Beautiful interface**
-![](./images/v0.3.0-beta/main.png)
-
-- **Extreme Green**
-![](./images/v0.3.0-beta/del.png)
-
-- **Easy to use**
-![](./images/v0.3.0-beta/menu_in.png)
+|Beautiful interface|Extreme Green|Easy to use|
+|--|--|--|
+|![main](./images/v0.3.0-beta/main.png)|![del](./images/v0.3.0-beta/del.png)|![menu_in](./images/v0.3.0-beta/menu_in.png)|
 
 ## How do I get started?
 ### Note 
@@ -56,8 +52,9 @@ At present, you can download the installation package for preliminary exploratio
 
 The following is a preview of the `v1.0.0` version, which is currently in the intense development stage, please be patient, I believe it will bring you surprises!
 
-![](./images/v1.0.0-test-interface.png)
-![](./images/v1.0.0-test-interface-dark.png)
+|light style|dark style|
+|--|--|
+|![light](./images/v1.0.0-test-interface.png)|![dark](./images/v1.0.0-test-interface-dark.png)|
 
 ### How to use
 * Supports a variety of file types, including text, images, audio, and video. View details by selecting folders and files.
