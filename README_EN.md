@@ -19,11 +19,12 @@
 <a href="https://github.com/pyheight/ttk-file-explorer/pulls"><img src="https://img.shields.io/github/issues-pr/pyheight/ttk-file-explorer?color=yellow&style=flat-square" alt="Pull Requests"></a>  
 <a href="https://github.com/pyheight/ttk-file-explorer/issues"><img src="https://img.shields.io/github/issues/pyheight/ttk-file-explorer?color=yellow&style=flat-square" alt="Issues"></a> 
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>  
-</div>
 <br>
 
 | 🏠 [`Website`](https://pyheight.github.io/ttk-file-explorer/) | 💻 [`Github`](https://github.com/pyheight/ttk-file-explorer/releases/) | 📕 [`Gitcode`](https://gitcode.com/2302_82330415/ttk-file-explorer) |
 | :--: | :--: | :--: |
+
+</div>
 
 ## Introduction 
 ttk file explorer is a lightweight file manager developed based on the **tkinter** syntax and the **ttkbootstrap** beautification library.
@@ -62,7 +63,7 @@ The following is a preview of the `v1.0.0` version, which is currently in the in
 * Please right-click on the system tray icon and click on the exit button to exit.
 * Please be cautious to avoid accidentally deleting or moving important files.
 
-## Get Help 
+### Get Help 
 * **Documentation**: Detailed documentation and usage guides are included in the project's GitHub repository. 
 * **Community Support**: You can ask questions or ask for help through the project page on GitHub, and the author will provide support. 
 * **Contributors**: If you are familiar with `Python` and `tkinter` and would like to contribute to the project, please feel free to submit a pull request or provide suggestions.
