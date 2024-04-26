@@ -18,13 +18,14 @@
 <a href="https://github.com/pyheight/ttk-file-explorer/commits/main"><img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer?style=flat-square" alt="Last Commit"></a>  
 <a href="https://github.com/pyheight/ttk-file-explorer/pulls"><img src="https://img.shields.io/github/issues-pr/pyheight/ttk-file-explorer?color=yellow&style=flat-square" alt="Pull Requests"></a>  
 <a href="https://github.com/pyheight/ttk-file-explorer/issues"><img src="https://img.shields.io/github/issues/pyheight/ttk-file-explorer?color=yellow&style=flat-square" alt="Issues"></a> 
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>  
-</div>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a> 
 <br>
 
 | 🏠 [`Website`](https://pyheight.github.io/ttk-file-explorer/) | 💻 [`Github`](https://github.com/pyheight/ttk-file-explorer/releases/) | 📕 [`Gitcode`](https://gitcode.com/2302_82330415/ttk-file-explorer) |
 | :--: | :--: | :--: |
-    
+
+</div>
+
 ## 简介  
 ttk file explorer 是一款轻量级的文件管理器，基于**tkinter**语法和**ttkbootstrap**美化库开发。
 
@@ -36,7 +37,7 @@ ttk file explorer 是一款轻量级的文件管理器，基于**tkinter**语法
 * 提供高效且直观的文件浏览和管理功能。
 
 ## 为什么这个项目有用
-* **特殊性**：`tkinter`简单易用，能够满足基本的GUI需求。然而，它也有一些限制和缺陷，导致使用它的开发者很少。
+* **特殊性**：tkinter简单易用，能够满足基本的GUI需求。然而，它也有一些限制和缺陷，导致使用它的开发者很少。
 * **适用于Windows**：作为一个Windows软件，它充分利用了Windows系统的特性，提供了与操作系统紧密结合的体验。  
 * **开源和免费**：作为一个开源项目，用户可以根据自己的需求进行扩展和定制，提高文件管理的灵活性和便利性。  
 
@@ -62,7 +63,7 @@ ttk file explorer 是一款轻量级的文件管理器，基于**tkinter**语法
 * 请右键系统托盘图标，在退出按钮处点击，即可退出。
 * 请谨慎操作，以免误删或误移动重要文件。
   
-## 获得帮助  
+### 获得帮助  
 * **文档**：本项目的GitHub仓库中包含了详细的文档和使用指南。  
 * **社区支持**：您可以通过GitHub上的项目页面提出问题或寻求帮助，作者会提供支持。  
 * **贡献者**：如果您熟悉`Python`和`tkinter`，并且愿意为项目做出贡献，请随时提交拉取请求或提供建议。  
