@@ -20,6 +20,9 @@
 <a href="https://github.com/pyheight/ttk-file-explorer/issues"><img src="https://img.shields.io/github/issues/pyheight/ttk-file-explorer?color=yellow&style=flat-square" alt="Issues"></a> 
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>  
 </div>
+
+| 🏠 [`Website`](https://pyheight.github.io/ttk-file-explorer/) | 💻 [`Github`](https://github.com/pyheight/ttk-file-explorer/releases/) | 📕 [`Gitcode`](https://gitcode.com/2302_82330415/ttk-file-explorer) |
+| :--: | :--: | :--: |
     
 ## 简介  
 ttk file explorer 是一款轻量级的文件管理器，基于**tkinter**语法和**ttkbootstrap**美化库开发。
@@ -30,9 +33,6 @@ ttk file explorer 是一款轻量级的文件管理器，基于**tkinter**语法
 * 采用现代化的界面设计，注重简洁性和美感。
 * 运行响应快，无配置要求，最小资源使用。
 * 提供高效且直观的文件浏览和管理功能。
-
-| 🏠 [`官网`](https://pyheight.github.io/ttk-file-explorer/) | 💻 [`Github`](https://github.com/pyheight/ttk-file-explorer/releases/) | 📕 [`Gitcode`](https://gitcode.com/2302_82330415/ttk-file-explorer) |
-| :--: | :--: | :--: |
 
 ## 为什么这个项目有用
 * **特殊性**：`tkinter`简单易用，能够满足基本的GUI需求。然而，它也有一些限制和缺陷，导致使用它的开发者很少。
