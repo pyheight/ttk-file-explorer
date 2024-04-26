@@ -20,12 +20,12 @@
 <a href="https://github.com/pyheight/ttk-file-explorer/issues"><img src="https://img.shields.io/github/issues/pyheight/ttk-file-explorer?color=yellow&style=flat-square" alt="Issues"></a> 
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>  
 </div>
-
+<br>
 | 🏠 [`Website`](https://pyheight.github.io/ttk-file-explorer/) | 💻 [`Github`](https://github.com/pyheight/ttk-file-explorer/releases/) | 📕 [`Gitcode`](https://gitcode.com/2302_82330415/ttk-file-explorer) |
 | :--: | :--: | :--: |
 
 ## Introduction 
-ttk file explorer is a lightweight file manager developed based on the tkinter` syntax and the `ttkbootstrap` beautification library.
+ttk file explorer is a lightweight file manager developed based on the **tkinter** syntax and the **ttkbootstrap** beautification library.
 
 Designed for Windows, it aims to solve users' pain points in file browsing and management, and provide an efficient and convenient file management experience.
 
