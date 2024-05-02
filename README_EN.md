@@ -37,6 +37,10 @@ It has only the most basic features, so users won't be intimidated by the inexpl
 * Provides efficient and intuitive file browsing and management functions.
 
 ## Why this project is useful
+In today's market, there is a wide variety of file managers, including many outstanding ones with exquisite Windows UI and advanced underlying functions. However, ttk file explorer undoubtedly serves as a valuable reference case for creators passionate about tkinter development.
+
+It shows us that with careful design and refinement, tkinter can also create stunning GUI applications that catch people's attention.
+
 * **Specificity**: If I didn't tell you, no one would think this is developed with tkinter, for its exquisite interface and complete functions make it hard to connect with the traditional image of tkinter.
 * **For Windows**: As a Windows software, it makes full use of the features of the Windows system and provides an experience that is tightly integrated with the operating system.
 * **Open source and free**: As an open source project, users can expand and customize according to their own needs, improving the flexibility and convenience of file management. 
