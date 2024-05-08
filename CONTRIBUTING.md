@@ -23,7 +23,7 @@ If you'd like to contribute through coding, that's fantastic! Here are some guid
 
 ## Becoming a Contributor
 
-Once your Pull Request is merged into the main branch, you will become an official contributor to ttk file explorer, and your name will be displayed in the software's list of contributors. We are deeply grateful for your dedication and contribution!
+Once your Pull Request is merged into the `main` branch, you will become an official contributor to ttk file explorer, and your name will be displayed in the software's list of contributors. We are deeply grateful for your dedication and contribution!
 
 ## How to Get Started
 
@@ -37,6 +37,6 @@ Once your Pull Request is merged into the main branch, you will become an offici
 
 5. Commit Changes: Commit your changes to Git and push them to your remote repository.
 
-6. Create a Pull Request: On GitHub, create a Pull Request to merge your changes into the `main` branch.
+6. Create a Pull Request: On GitHub, create a Pull Request to merge your changes into the main branch.
 
 Thank you again for your contribution to the ttk file explorer project! We eagerly await your participation!
