@@ -1,29 +1,37 @@
-# Contributing to ttk file explorer  
-  
-首先，感谢你对 ttk file explorer 的兴趣！很高兴你考虑为这个项目做出贡献。  
-  
-## 如何做出贡献  
-  
-1. **报告问题**：如果你在使用 ttk file explorer 的过程中遇到了问题，你可以在 GitHub 上创建一个问题 `issue`。请确保提供足够的详细信息，以便我们理解和解决问题。  
-2. **提交代码**：如果你想要修复问题或添加新功能，你可以创建一个拉取请求 `Pull Request`。在提交代码之前，请确保你已经阅读并遵循了以下准则。  
-  
-## 代码准则  
-  
-* **风格一致性**：请遵循项目中的现有代码风格。  
-* **编写测试**：为新增的功能或修复的问题编写测试，以确保代码的质量和稳定性。  
-* **文档更新**：如果你的更改影响到了用户或开发者的使用，请更新相应的文档。  
-  
-## 拉取请求流程  
-  
-1. **创建分支**：从主分支 `main` 创建一个新分支，用于你的更改。  
-2. **提交更改**：使用 `git add` 和 `git commit` 命令提交你的更改。请确保提交信息清晰明了，描述你所做的更改和目的。  
-3. **推送分支**：将你的更改推送到你的远程仓库。  
-4. **创建拉取请求**：在 GitHub 上创建一个新的拉取请求，将你的分支与主分支进行比较。  
-5. **等待审核**：项目维护者将审核你的拉取请求，并在必要时提供反馈。请根据反馈进行相应的更改。  
-6. **合并拉取请求**：一旦你的拉取请求被批准，它将被合并到主分支中。  
-  
-## 其他资源  
-  
-* [官网](https://pyheight.github.io/ttk-file-explorer/)
-  
-再次感谢你对 ttk file explorer 的贡献！
+# Contributing to ttk file explorer
+
+First and foremost, thank you for your interest and contribution to the ttk file explorer project! We warmly welcome and greatly appreciate any form of participation, regardless of its size. Here are some guidelines on how you can contribute to the project.
+
+## What You Can Contribute Reporting 
+
+1. **Issues or Providing**
+SuggestionsIf you encounter any issues while using ttk file explorer, or have any suggestions or ideas related to the project, please create an issue on GitHub. When creating an `issue`, please provide a detailed description, including the steps you took to encounter the problem, your operating system, Python version, and other relevant information. This will help us locate and resolve the issue more quickly.
+
+2. **Documentation**
+Contributions Documentation is a crucial part of the project, as it helps users understand how to use and comprehend the project. You can contribute to the documentation in the following ways:
+* Modifying MD Files: If you find any spelling errors, grammatical errors, or areas for improvement, please directly modify the corresponding Markdown files and submit a `Pull Request`.
+* Enhancing the Official Website Files: You can help refine the official website files in the `docs` folder, including adding descriptions of new features, updating user guides, and more.
+
+3. **Code Contributions**
+If you'd like to contribute through coding, that's fantastic! Here are some guidelines for code contributions:
+* Selecting an Issue or Feature: You can choose an issue from the existing ones that interests you to fix, or propose a new feature and implement it.
+* Creating a Pull Request: Once you've completed coding and testing, you can create a Pull Request. Before submitting the Pull Request, please ensure that your code follows the existing coding style of the project.
+* Waiting for Review and Merging: Your Pull Request will be reviewed by project members. If the code is sound and meets the project's needs and standards, it will be merged into the main branch.
+
+## Becoming a Contributor
+Once your Pull Request is merged into the main branch, you will become an official contributor to ttk file explorer, and your name will be displayed in the software's list of contributors. We are deeply grateful for your dedication and contribution!
+
+## How to Get Started
+1. Fork the Repository: First, you need to fork our repository to your personal account on GitHub.
+
+2. Clone the Repository: Clone the forked repository to your local machine.
+
+3. Create a Branch: Create a new branch on your local machine for your development work.
+
+4. Write Code or Documentation: Perform code writing or documentation modifications on your branch.
+
+5. Commit Changes: Commit your changes to Git and push them to your remote repository.
+
+6. Create a Pull Request: On GitHub, create a Pull Request to merge your changes into the `main` branch.
+
+Thank you again for your contribution to the ttk file explorer project! We eagerly await your participation!
