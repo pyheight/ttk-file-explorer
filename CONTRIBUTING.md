@@ -28,15 +28,10 @@ Once your Pull Request is merged into the `main` branch, you will become an offi
 ## How to Get Started
 
 1. Fork the Repository: First, you need to fork our repository to your personal account on GitHub.
-
 2. Clone the Repository: Clone the forked repository to your local machine.
-
 3. Create a Branch: Create a new branch on your local machine for your development work.
-
 4. Write Code or Documentation: Perform code writing or documentation modifications on your branch.
-
 5. Commit Changes: Commit your changes to Git and push them to your remote repository.
-
 6. Create a Pull Request: On GitHub, create a Pull Request to merge your changes into the main branch.
 
 Thank you again for your contribution to the ttk file explorer project! We eagerly await your participation!
