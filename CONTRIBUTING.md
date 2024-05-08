@@ -4,17 +4,17 @@ First and foremost, thank you for your interest and contribution to the ttk file
 
 ## What You Can Contribute Reporting 
 
-1. **Issues or Providing**
+### **Issues or Providing**
 
 SuggestionsIf you encounter any issues while using ttk file explorer, or have any suggestions or ideas related to the project, please create an issue on GitHub. When creating an `issue`, please provide a detailed description, including the steps you took to encounter the problem, your operating system, Python version, and other relevant information. This will help us locate and resolve the issue more quickly.
 
-2. **Documentation**
+### **Documentation**
 
 Contributions Documentation is a crucial part of the project, as it helps users understand how to use and comprehend the project. You can contribute to the documentation in the following ways:
 * Modifying MD Files: If you find any spelling errors, grammatical errors, or areas for improvement, please directly modify the corresponding Markdown files and submit a `Pull Request`.
 * Enhancing the Official Website Files: You can help refine the official website files in the `docs` folder, including adding descriptions of new features, updating user guides, and more.
 
-3. **Code Contributions**
+### **Code Contributions**
 
 If you'd like to contribute through coding, that's fantastic! Here are some guidelines for code contributions:
 * Selecting an Issue or Feature: You can choose an issue from the existing ones that interests you to fix, or propose a new feature and implement it.
