@@ -11,6 +11,7 @@
 <a href="https://github.com/pyheight/ttk-file-explorer/stargazers"><img src="https://img.shields.io/github/stars/pyheight/ttk-file-explorer?style=social&logo=github" alt="GitHub Stars"></a>
 <a href="https://github.com/pyheight/ttk-file-explorer/network/members"><img src="https://img.shields.io/github/forks/pyheight/ttk-file-explorer?style=social&logo=github" alt="GitHub Forks"></a>  
 <a href="http://qm.qq.com/cgi-bin/qm/qr?wv=1027&k=fylYo5AJ1qdt2re9zKKO7ONDT7cSF_X9&authKey=unaCiKPadeZ1spH%2BGnLAHWzCNLqdeRSGwHRw5q5fC2MdZdOoygZvYZ%2FVIrtGP7gk&noverify=0&group_code=789181284"><img src="https://img.shields.io/badge/QQ-789181284-blue?style=social&logo=tencentqq" alt="QQ Group"></a>  
+<img src="https://img.shields.io/badge/=" long-press-able-img" src="https://img.shields.io/badge/Platform-Windows%2010-blue.svg?style=social&logo=windows" alt="Windows 10">
 </div>  
 <div align="center" style="margin-top: 20px;">  
 <a href="https://github.com/pyheight/ttk-file-explorer/releases"><img src="https://img.shields.io/github/v/release/pyheight/ttk-file-explorer?color=blue&style=flat-square" alt="Latest Release"></a>  
@@ -19,12 +20,6 @@
 <a href="https://github.com/pyheight/ttk-file-explorer/pulls"><img src="https://img.shields.io/github/issues-pr/pyheight/ttk-file-explorer?color=yellow&style=flat-square" alt="Pull Requests"></a>  
 <a href="https://github.com/pyheight/ttk-file-explorer/issues"><img src="https://img.shields.io/github/issues/pyheight/ttk-file-explorer?color=yellow&style=flat-square" alt="Issues"></a> 
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a> 
-
-<br>
-
-| 🏠 [`Website`](https://pyheight.github.io/ttk-file-explorer/) | 💻 [`Github`](https://github.com/pyheight/ttk-file-explorer/releases/) | 📕 [`Gitcode`](https://gitcode.com/2302_82330415/ttk-file-explorer) |
-| :--: | :--: | :--: |
-
 </div>
 
 ## 简介  
