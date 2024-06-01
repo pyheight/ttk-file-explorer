@@ -22,6 +22,9 @@
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>
 </div>
 
+> [!WARNING]
+> Due to computer issues, project development and maintenance are temporarily suspended...
+
 ## Introduction 
 ttk file explorer is a lightweight file manager developed based on the **tkinter** syntax and the **ttkbootstrap** beautification library.
 
