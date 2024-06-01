@@ -22,6 +22,9 @@
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a> 
 </div>
 
+> [!WARNING]
+> 由于电脑问题，项目开发和维护暂时被暂停......
+
 ## 简介  
 ttk file explorer 是一款轻量级的文件管理器，基于**tkinter**语法和**ttkbootstrap**美化库开发。
 
