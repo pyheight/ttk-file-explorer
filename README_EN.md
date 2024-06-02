@@ -39,7 +39,8 @@ Designed for Windows, it aims to solve users' pain points in file browsing and m
 ## Why this project is useful
 In today's market, there is a wide variety of file managers, including many outstanding ones with exquisite Windows UI and advanced underlying functions. However, ttk file explorer undoubtedly serves as a valuable reference case for creators passionate about tkinter development.
 
-It shows us that with careful design and refinement, tkinter can also create stunning GUI applications that catch people's attention.
+> [!IMPORTANT]
+> It shows us that with careful design and refinement, tkinter can also create stunning GUI applications that catch people's attention.
 
 * **Specificity**: If I didn't tell you, no one would think this is developed with tkinter, for its exquisite interface and complete functions make it hard to connect with the traditional image of tkinter.
 * **For Windows**: As a Windows software, it makes full use of the features of the Windows system and provides an experience that is tightly integrated with the operating system.
