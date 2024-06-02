@@ -53,7 +53,8 @@ In today's market, there is a wide variety of file managers, including many outs
 
 ## How do I get started?
 ### Note 
-At present, you can download the installation package for preliminary exploration and experience, and our source code is undergoing in-depth refactoring work, and will be shared with you as soon as it is completed.
+> [!NOTE]
+> At present, you can download the installation package for preliminary exploration and experience, and our source code is undergoing in-depth refactoring work, and will be shared with you as soon as it is completed.
 
 The following is a preview of the `v1.0.0` version, which is currently in the intense development stage, please be patient, I believe it will bring you surprises!
 
