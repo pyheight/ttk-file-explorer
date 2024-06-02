@@ -30,7 +30,8 @@ ttk file explorer is a lightweight file manager developed based on the **tkinter
 
 Designed for Windows, it aims to solve users' pain points in file browsing and management, and provide an efficient and convenient file management experience.
 
-It has only the most basic features, so users won't be intimidated by the inexplicable interface. Provides the essential functionality needed for file management through a clean, intuitive, and customizable interface. 
+> [!TIP]
+> It has only the most basic features, so users won't be intimidated by the inexplicable interface. Provides the essential functionality needed for file management through a clean, intuitive, and customizable interface. 
 * Adopt a modern interface design with a focus on simplicity and aesthetics.
 * Fast operation response, no configuration requirements, minimal resource usage.
 * Provides efficient and intuitive file browsing and management functions.
