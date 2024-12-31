@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/splash.png" alt=""></p>
 
-<h1 align="center">TTK File Explorer</h1>  
+<h1 align="center">ttk file explorer</h1>  
 
 <p align="center"><a href="README.md">简体中文</a> | <a href="README_EN.md">English</a></p> 
 
