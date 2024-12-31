@@ -11,10 +11,13 @@
 
 一款开源的、轻量的*Windows*文件管理器，致力于*GUI*打造与应用实现。体验简洁的操作界面，依托*tkinter*语法和*ttkbootstrap*美化库，确保流畅且高效的文件操作。
 
-![演示](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/v1.0.0-test-interface.png)
+![demo](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/v1.0.0-test-interface.png)
 ---
 
 ## 特性
+
+> [!IMPORTANT]
+> 只要用心设计，*tkinter*也能打造出惊艳的*GUI*应用。
 
 - **简洁美观** 🌟：现代界面设计，注重用户交互体验。
 - **轻量高效** 🍃：快速响应，无繁琐配置，资源占用低。
@@ -23,33 +26,27 @@
 - **开源精神** 🦦：源码托管在GitHub，便于用户根据需求进行修改和优化。
 - **完全免费** 💸：无任何隐藏费用，永久免费使用。
 
-> [!IMPORTANT]
-> 只要用心设计，*tkinter*也能打造出惊艳的*GUI*应用。
-
 ## 使用
 
 > [!NOTE]
 > 可下载体验版[v0.3.0-beta安装包](https://github.com/pyheight/ttk-file-explorer/releases/tag/v0.3.0-beta)。源码重构中，完成后将及时更新。
 
-> [!TIP]
-v1.0.0版本界面预览，开发进行中，敬请期待。
-
 |浅色|深色|
 |--|--| 
 |![light](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/v1.0.0-test-interface.png)|![dark](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/v1.0.0-test-interface-dark.png)|
 
-> [!WARNING]
-> 因电脑问题，项目开发维护暂时中断，敬请谅解。
+> [!TIP]
+v1.0.0版本界面预览，开发进行中，敬请期待。
 
 ## 许可
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large&issueType=license)
 
 - 项目采用[Apache-2.0 license](LICENSE)许可证。
 - 代码和文档所有权归项目所有者。
 - 软件离线使用，不收集个人信息。
 - 安装包无毒无害，但不保证完全符合预期，开发者不承担任何责任。
-- 使用时请遵守软件协议，禁止侵权。
+
+> [!WARNING]
+> 使用时请遵守软件协议，禁止侵权。
 
 ## 贡献
 
