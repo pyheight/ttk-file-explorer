@@ -11,7 +11,6 @@
 
 一款开源的、轻量的*Windows*文件管理器，致力于*GUI*打造与应用实现。体验简洁的操作界面，依托*tkinter*语法和*ttkbootstrap*美化库，确保流畅且高效的文件操作。
 
-![demo](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/v1.0.0-test-interface.png)
 ---
 
 ## 特性
@@ -29,7 +28,7 @@
 ## 使用
 
 > [!NOTE]
-> 可下载体验版[v0.3.0-beta安装包](https://github.com/pyheight/ttk-file-explorer/releases/tag/v0.3.0-beta)。源码重构中，完成后将及时更新。
+> 可下载体验版[v0.3.0-beta安装包](https://github.com/pyheight/ttk-file-explorer/releases/tag/v0.3.0-beta)。
 
 |浅色|深色|
 |--|--| 

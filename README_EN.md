@@ -11,7 +11,6 @@
 
 An open-source, lightweight *Windows* file manager dedicated to *GUI* creation and application implementation. Experience a simple and intuitive interface, relying on *tkinter* syntax and the *ttkbootstrap* beautification library to ensure smooth and efficient file operations.
 
-![demo](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/v1.0.0-test-interface.png)
 ---
 
 ## Features
@@ -29,7 +28,7 @@ An open-source, lightweight *Windows* file manager dedicated to *GUI* creation a
 ## Usage
 
 > [!NOTE]
-> You can download the experience version [v0.3.0-beta installer](https://github.com/pyheight/ttk-file-explorer/releases/tag/v0.3.0-beta). The source code is being refactored and will be updated promptly upon completion.
+> You can download the experience version [v0.3.0-beta installer](https://github.com/pyheight/ttk-file-explorer/releases/tag/v0.3.0-beta). 
 
 |Light|Dark|
 |--|--| 
