@@ -44,13 +44,13 @@ The following is an example command:
 
 ## Icon Source  
   
-All icons used in this project are from [Icons8] (https://icons8.com/). 
+All icons used in this project are from [Icons8](https://icons8.com/). 
 
 This project would like to express our heartfelt gratitude to Icons8 for providing high-quality icon resources.
 
 ## License  
   
-This project is licensed under the [Apache License, Version 2.0] (http://www.apache.org/licenses/LICENSE-2.0). 
+This project is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0). 
   
 This means that you are free to use, modify, distribute, and sublicense the project, subject to the Apache License.
 
