@@ -34,9 +34,6 @@
 |--|--| 
 |![light](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/v1.0.0-test-interface.png)|![dark](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/v1.0.0-test-interface-dark.png)|
 
-> [!TIP]
-v1.0.0版本界面预览，开发进行中，敬请期待。
-
 ## 许可
 
 - 项目采用[Apache-2.0 license](LICENSE)许可证。
@@ -45,12 +42,12 @@ v1.0.0版本界面预览，开发进行中，敬请期待。
 - 安装包无毒无害，但不保证完全符合预期，开发者不承担任何责任。
 
 > [!WARNING]
-> 使用时请遵守软件协议，禁止侵权。
+> 使用时请遵守软件协议。
 
 ## 贡献
 
 <a href="https://github.com/pyheight/ttk-file-explorer/graphs/contributors">  <img src="https://contrib.rocks/image?repo=pyheight/ttk-file-explorer" /></a>  
-感谢每一位贡献者。无论是修复小 bug 还是添加新功能，您的努力都倍受珍视。请查阅[贡献指南](CONTRIBUTING.md)了解如何参与项目🥰。
+感谢每一位贡献者。请查阅[贡献指南](CONTRIBUTING.md)了解如何参与项目🥰。
 
 ## 星标
 
