@@ -33,9 +33,6 @@ An open-source, lightweight *Windows* file manager dedicated to *GUI* creation a
 |Light|Dark|
 |--|--| 
 |![light](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/v1.0.0-test-interface.png)|![dark](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/v1.0.0-test-interface-dark.png)|
-
-> [!TIP]
-Preview of the v1.0.0 interface, development in progress, stay tuned.
  
 ## License
 
@@ -45,12 +42,12 @@ Preview of the v1.0.0 interface, development in progress, stay tuned.
 - The installer package is harmless, but no guarantee is made that it will meet all expectations, and the developer assumes no responsibility.
 
 > [!WARNING]
-> Please comply with the software agreement when using and refrain from infringement.
+> Please comply with the software agreement when using it.
 
 ## Contribution
 
 <a href="https://github.com/pyheight/ttk-file-explorer/graphs/contributors">  <img src="https://contrib.rocks/image?repo=pyheight/ttk-file-explorer" /></a>  
-Thank you to every contributor. Whether it's fixing a small bug or adding a new feature, your efforts are greatly valued. Please check out the [contribution guidelines](CONTRIBUTING.md) to learn how to get involved in the project 🥰.
+Thank you to every contributor. Please check out the [contribution guidelines](CONTRIBUTING.md) to learn how to get involved in the project 🥰.
 
 ## Stargazers
 
