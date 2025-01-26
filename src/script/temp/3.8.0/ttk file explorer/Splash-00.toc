@@ -1,0 +1,247 @@
+('C:\\Users\\Administrator\\Desktop\\ttk_file_explorer_v1.0.0-beta_Windows7\\src\\script\\images\\splash.png',
+ 'C:\\Users\\Administrator\\Desktop\\ttk_file_explorer_v1.0.0-beta_Windows7\\src\\script\\temp\\3.8.0\\ttk '
+ 'file explorer\\Splash-00.res',
+ 'C:\\Users\\Administrator\\Desktop\\ttk_file_explorer_v1.0.0-beta_Windows7\\src\\script\\temp\\3.8.0\\ttk '
+ 'file explorer\\Splash-00_script.tcl',
+ (30, 345),
+ 12,
+ 'TkDefaultFont',
+ 'black',
+ 'Initializing',
+ False,
+ False,
+ True,
+ '__splash',
+ (760, 480),
+ True,
+ 'proc _ipc_server {channel clientaddr clientport} {\n'
+ 'set client_name [format <%s:%d> $clientaddr $clientport]\n'
+ 'chan configure $channel \\\n'
+ '-buffering none \\\n'
+ '-encoding utf-8 \\\n'
+ '-eofchar \\x04 \\\n'
+ '-translation cr\n'
+ 'chan event $channel readable [list _ipc_caller $channel $client_name]\n'
+ '}\n'
+ 'proc _ipc_caller {channel client_name} {\n'
+ 'chan gets $channel cmd\n'
+ 'if {[chan eof $channel]} {\n'
+ 'chan close $channel\n'
+ 'exit\n'
+ '} elseif {![chan blocked $channel]} {\n'
+ 'if {[string match "update_text*" $cmd]} {\n'
+ 'global status_text\n'
+ 'set first [expr {[string first "(" $cmd] + 1}]\n'
+ 'set last [expr {[string last ")" $cmd] - 1}]\n'
+ 'set status_text [string range $cmd $first $last]\n'
+ '}\n'
+ '}\n'
+ '}\n'
+ 'set server_socket [socket -server _ipc_server -myaddr localhost 0]\n'
+ 'set server_port [fconfigure $server_socket -sockname]\n'
+ 'set env(_PYIBoot_SPLASH) [lindex $server_port 2]\n'
+ 'image create photo splash_image\n'
+ 'splash_image put $_image_data\n'
+ 'unset _image_data\n'
+ 'proc canvas_text_update {canvas tag _var - -} {\n'
+ 'upvar $_var var\n'
+ '$canvas itemconfigure $tag -text $var\n'
+ '}\n'
+ 'package require Tk\n'
+ 'set image_width [image width splash_image]\n'
+ 'set image_height [image height splash_image]\n'
+ 'set display_width [winfo screenwidth .]\n'
+ 'set display_height [winfo screenheight .]\n'
+ 'set x_position [expr {int(0.5*($display_width - $image_width))}]\n'
+ 'set y_position [expr {int(0.5*($display_height - $image_height))}]\n'
+ 'frame .root\n'
+ 'canvas .root.canvas \\\n'
+ '-width $image_width \\\n'
+ '-height $image_height \\\n'
+ '-borderwidth 0 \\\n'
+ '-highlightthickness 0\n'
+ '.root.canvas create image \\\n'
+ '[expr {$image_width / 2}] \\\n'
+ '[expr {$image_height / 2}] \\\n'
+ '-image splash_image\n'
+ 'font create myFont {*}[font actual TkDefaultFont]\n'
+ 'font configure myFont -size 12\n'
+ '.root.canvas create text \\\n'
+ '30 \\\n'
+ '345 \\\n'
+ '-fill black \\\n'
+ '-justify center \\\n'
+ '-font myFont \\\n'
+ '-tag vartext \\\n'
+ '-anchor sw\n'
+ 'trace variable status_text w \\\n'
+ '[list canvas_text_update .root.canvas vartext]\n'
+ 'set status_text "Initializing"\n'
+ 'wm attributes . -transparentcolor magenta\n'
+ '.root.canvas configure -background magenta\n'
+ 'pack .root\n'
+ 'grid .root.canvas -column 0 -row 0 -columnspan 1 -rowspan 2\n'
+ 'wm overrideredirect . 1\n'
+ 'wm geometry . +${x_position}+${y_position}\n'
+ 'wm attributes . -topmost 0\n'
+ 'raise .',
+ ('tcl86t.dll',
+  'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python38\\DLLs\\tcl86t.dll'),
+ ('tk86t.dll',
+  'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python38\\DLLs\\tk86t.dll'),
+ {'VCRUNTIME140.dll',
+  'api-ms-win-core-console-l1-1-0.dll',
+  'api-ms-win-core-datetime-l1-1-0.dll',
+  'api-ms-win-core-debug-l1-1-0.dll',
+  'api-ms-win-core-errorhandling-l1-1-0.dll',
+  'api-ms-win-core-file-l1-1-0.dll',
+  'api-ms-win-core-file-l1-2-0.dll',
+  'api-ms-win-core-file-l2-1-0.dll',
+  'api-ms-win-core-handle-l1-1-0.dll',
+  'api-ms-win-core-heap-l1-1-0.dll',
+  'api-ms-win-core-interlocked-l1-1-0.dll',
+  'api-ms-win-core-libraryloader-l1-1-0.dll',
+  'api-ms-win-core-localization-l1-2-0.dll',
+  'api-ms-win-core-memory-l1-1-0.dll',
+  'api-ms-win-core-namedpipe-l1-1-0.dll',
+  'api-ms-win-core-processenvironment-l1-1-0.dll',
+  'api-ms-win-core-processthreads-l1-1-0.dll',
+  'api-ms-win-core-processthreads-l1-1-1.dll',
+  'api-ms-win-core-profile-l1-1-0.dll',
+  'api-ms-win-core-rtlsupport-l1-1-0.dll',
+  'api-ms-win-core-string-l1-1-0.dll',
+  'api-ms-win-core-synch-l1-1-0.dll',
+  'api-ms-win-core-synch-l1-2-0.dll',
+  'api-ms-win-core-sysinfo-l1-1-0.dll',
+  'api-ms-win-core-timezone-l1-1-0.dll',
+  'api-ms-win-core-util-l1-1-0.dll',
+  'api-ms-win-crt-convert-l1-1-0.dll',
+  'api-ms-win-crt-environment-l1-1-0.dll',
+  'api-ms-win-crt-heap-l1-1-0.dll',
+  'api-ms-win-crt-math-l1-1-0.dll',
+  'api-ms-win-crt-runtime-l1-1-0.dll',
+  'api-ms-win-crt-stdio-l1-1-0.dll',
+  'api-ms-win-crt-string-l1-1-0.dll',
+  'api-ms-win-crt-time-l1-1-0.dll',
+  'api-ms-win-crt-utility-l1-1-0.dll',
+  'tcl86t.dll',
+  'tk86t.dll',
+  'tk\\license.terms',
+  'tk\\text.tcl',
+  'tk\\tk.tcl',
+  'tk\\ttk\\cursors.tcl',
+  'tk\\ttk\\fonts.tcl',
+  'tk\\ttk\\ttk.tcl',
+  'tk\\ttk\\utils.tcl',
+  'ucrtbase.dll'},
+ [('tcl86t.dll',
+   'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python38\\DLLs\\tcl86t.dll',
+   'BINARY'),
+  ('tk86t.dll',
+   'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python38\\DLLs\\tk86t.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll', 'C:\\Windows\\system32\\VCRUNTIME140.dll', 'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll', 'C:\\Windows\\system32\\ucrtbase.dll', 'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Windows\\system32\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY')],
+ 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python38\\DLLs\\_tkinter.pyd')

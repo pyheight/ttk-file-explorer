@@ -1,0 +1,35 @@
+VSVersionInfo(
+    ffi=FixedFileInfo(
+        filevers=(1, 0, 0, 0),
+        prodvers=(1, 0, 0, 0),
+        mask=0x3f,
+        flags=0x0,
+        OS=0x40004,
+        fileType=0x1,
+        subtype=0x0,
+        date=(0, 0)
+    ),
+    kids=[
+        StringFileInfo(
+            [
+                StringTable(
+                    u'040904b0',
+                    [
+                        
+                        StringStruct(u'FileDescription', u'Explore files, all within your grasp.'),
+                        StringStruct(u'FileVersion', u'v1.0.0-beta'),
+                        StringStruct(u'ProductVersion', u'v1.0.0-beta'), 
+                        StringStruct(u'CompanyName', u'pyheight'),
+                        StringStruct(u'LegalCopyright', u'pyheight'),
+                        StringStruct(u'OriginalFilename', u'ttk file explorer.exe'),
+                        StringStruct(u'InternalName', u'ttk file explorer'),
+                        StringStruct(u'ProductName', u'ttk file explorer'),
+                        StringStruct(u'InternalName', u'ttk file explorer'),
+                        
+                    ]
+                )
+            ]
+        ),
+        VarFileInfo([VarStruct(u'Translation', [2052, 1200])])
+    ]
+)
