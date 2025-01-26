@@ -28,7 +28,7 @@ An open-source, lightweight *Windows* file manager dedicated to *GUI* creation a
 ## Usage
 
 > [!NOTE]
-> You can download the experience version [v1.0.0-beta](https://github.com/pyheight/ttk-file-explorer/releases/tag/v1.0.0-beta)
+> You can download the experience version [v1.0.0-beta](https://github.com/pyheight/ttk-file-explorer/releases/tag/v1.0.0-beta).
 
 |Light|Dark|
 |--|--| 
