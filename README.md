@@ -28,7 +28,7 @@
 ## 使用
 
 > [!NOTE]
-> 可下载体验版[v0.3.0-beta安装包](https://github.com/pyheight/ttk-file-explorer/releases/tag/v0.3.0-beta)。
+> 可下载[v1.0.0-beta](https://github.com/pyheight/ttk-file-explorer/releases/tag/v1.0.0-beta))。
 
 |浅色|深色|
 |--|--| 
