@@ -40,9 +40,9 @@ assignees: ''
 请提供以下信息：
 
 - 操作系统: [例如: Windows 7，Windows 10，Windows 11]
-- 软件版本 (如果适用): [例如: v0.3.0-beta，v1.0.0]
+- 软件版本 (如果适用): [例如: v0.3.0-beta，v1.0.0-beta]
 - 相关库/框架的版本: [例如: 
-Python 3.7.0，ttkbootstrap 1.10.0,]
+Python 3.8.0，ttkbootstrap 1.10.0,]
 
 ## 其他信息
 
