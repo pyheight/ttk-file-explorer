@@ -87,7 +87,7 @@ Light|Dark|
 
 # 💡 License
 
-**This project is licensed under the [Apache-2.0 license] (LICENSE).**
+**This project is licensed under the [Apache-2.0 license](LICENSE).**
 
 > [!TIP]
 > This means that you are free to use, modify, distribute, and sublicense the project under the Apache license.
