@@ -95,6 +95,7 @@ python main.py
 # 🤝 贡献
 
 <a href="https://github.com/pyheight/ttk-file-explorer/graphs/contributors">  <img src="https://contrib.rocks/image?repo=pyheight/ttk-file-explorer" /></a>  
+
 感谢每一位贡献者。
 
 **请查阅[贡献指南](CONTRIBUTING.md)了解如何参与项目。**
