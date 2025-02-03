@@ -19,20 +19,6 @@ Thank you for your understanding and support! Your feedback and suggestions will
 
 ## Running Instructions
 
-To ensure that you are able to run this project smoothly, please follow these steps:
-
-1. Download or clone a project:
-   - Download or clone the entire project locally via Git or other means.
-
-2. Navigate to the project directory:
-   - Navigate to the `src` directory in your project from the command line.
-
-3. **Install Dependencies**:
-   - Run the `pip install -r requirements.txt` command to install the dependencies required by the project.
-
-4. **Run the program**:
-   - Start the project by running the `python main.py` command on the command line.
-
 The following is an example command:
 
 ```shell
