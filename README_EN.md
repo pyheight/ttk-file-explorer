@@ -106,4 +106,4 @@ Thank you to every contributor.
 
 ---
 
-![Stargazers over time](https://starchart.cc/pyheight/ttk-file-explorer.svg?variant=adaptive)](https://starchart.cc/pyheight/ttk-file-explorer)
+[![Stargazers over time](https://starchart.cc/pyheight/ttk-file-explorer.svg?variant=adaptive)](https://starchart.cc/pyheight/ttk-file-explorer)
