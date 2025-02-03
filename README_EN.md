@@ -37,7 +37,7 @@ ttk file explorer is an open-source, lightweight *Windows* file manager dedicate
 
 - `Clean and beautiful` - Modern interface design with a focus on user interaction 🌟
 - `Lightweight and efficient` - Fast response, no cumbersome configuration, low resource usage 🍃
-- `Easy-to-use` - Efficient and intuitive file browsing and management, simplifying the use process 🖥️
+- `Easy to use` - Efficient and intuitive file browsing and management, simplifying the use process 🖥️
 - `Free customization` - Free expansion and personalization to improve management efficiency 🛠️
 - `Open Source Ethos` - The source code is hosted on GitHub, making it easy for users to modify and optimize according to their needs 🦦
 - `Completely free` - No hidden fees, free to use forever 💸
