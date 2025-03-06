@@ -91,7 +91,7 @@ python main.py
 
 # 💡 许可
 
-**本项目根据[Apache-2.0 license](LICENSE)获得许可。**
+**本项目根据 [Apache-2.0 license](LICENSE) 获得许可。**
 
 > [!TIP]
 > 这意味着您可以根据Apache许可证自由使用、修改、分发和再许可项目。
@@ -102,7 +102,7 @@ python main.py
 
 感谢每一位贡献者。
 
-**请查阅[贡献指南](CONTRIBUTING.md)了解如何参与项目。**
+**请查阅 [贡献指南](CONTRIBUTING.md) 了解如何参与项目。**
 
 # 📈 活动
 
