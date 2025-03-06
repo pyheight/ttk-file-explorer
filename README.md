@@ -53,6 +53,9 @@
 
 <summary>🚄 开发者自行安装</summary>
 
+> [!TIP]
+> 确保你已经安装了`Python 3.x`环境。
+
 ## 下载或克隆仓库
 
 ```bash
