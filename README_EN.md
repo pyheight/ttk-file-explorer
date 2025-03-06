@@ -53,6 +53,10 @@
 
 <summary>🚄 Developers install it themselves</summary>
 
+<br>
+
+**Make sure you have installed the `Python 3.x` environment.**
+
 ## Download or clone the repository
 
 ```bash
