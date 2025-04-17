@@ -13,7 +13,7 @@
 
 ## 报告
 
-如果您在*ttk file explorer*中发现了问题，请在 GitHub 上创建问题或通过电子邮件报告至[276581780@qq.com](mailto:276581780@qq.com)。
+如果您在*ttk file explorer*中发现了问题，请在 GitHub 上创建问题或通过电子邮件报告至[pyheight@qq.com](mailto:pyheight@qq.com)。
 
 请在报告中尽可能提供详细的信息，包括：
 
