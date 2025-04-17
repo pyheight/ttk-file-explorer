@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.  
  
 Project home page: https://github.com/pyheight/ttk-file-explorer  
-Contact: pyheight (276581780@qq.com)  
+Contact: pyheight@qq.com
  
 This copyright and license notice applies to all files in this project,  
 unless otherwise indicated.  
