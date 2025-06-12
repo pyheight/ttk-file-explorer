@@ -81,6 +81,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Packing software
+
+```bash
+python script/package.py
+```
+
 </details>
 
 # 👀 Preview
