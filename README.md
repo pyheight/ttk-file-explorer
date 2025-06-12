@@ -81,6 +81,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## 打包软件
+
+```bash
+python script/package.py
+```
+
 </details>
 
 # 👀 预览
