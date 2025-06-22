@@ -2,7 +2,7 @@
 
 ## 支持的版本
 
-**仅*ttk file explorer*的最新版本会积极接收更新。**
+**仅最新版本会积极接收更新。**
 
 | 版本号 | 更新内容 | 发布日期 | 支持情况 |
 |--------|---------|----------|----------|
@@ -13,7 +13,7 @@
 
 ## 报告
 
-如果您在*ttk file explorer*中发现了问题，请在 GitHub 上创建问题或通过电子邮件报告至[pyheight@qq.com](mailto:pyheight@qq.com)。
+如果您发现了问题，请在 GitHub 上创建问题或通过电子邮件报告至[pyheight@qq.com](mailto:pyheight@qq.com)。
 
 请在报告中尽可能提供详细的信息，包括：
 
