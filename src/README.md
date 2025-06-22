@@ -26,6 +26,7 @@ The following is an example command:
 > cd ttk-file-explorer/src
 > pip install -r requirements.txt
 > python main.py
+> python script/package.py
 ```
 
 ## Icon Source  
