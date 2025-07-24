@@ -28,4 +28,4 @@ class MkDocsManager:
 
 
 if __name__ == "__main__":
-    MkDocsManager().run('build')
+    MkDocsManager().run()
