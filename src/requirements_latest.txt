@@ -1,0 +1,18 @@
+beautifulsoup4 # 解析HTML和XML文档，提取和操作网页中的内容
+chardet # 检测字符编码
+darkdetect # 检测操作系统当前主题（亮色或暗色）
+fpdf # 生成PDF文件
+Markdown # 将Markdown文本转换为HTML或其他格式
+openpyxl # 创建和操作Excel工作表和单元格
+Pillow # 处理图像
+psutil # 实现获取系统运行的进程和系统利用率（包括CPU、内存、磁盘、网络等）信息
+pyinstaller # 将Python项目打包成独立的exe应用
+pystray # 创建系统托盘图标，并设置菜单和通知功能
+python_dateutil # 简化日期和时间处理
+python_docx # 创建和更新DOCX文件
+python_pptx # 创建和编辑PPT文件
+pywin32 # 快速调用windows API
+Requests # HTTP请求
+ttkbootstrap # tkinter和ttk的扩展
+watchdog # 监控文件系统事件
+winshell # 简化在Windows平台上进行桌面管理的任务
