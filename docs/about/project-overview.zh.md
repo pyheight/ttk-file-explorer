@@ -14,15 +14,15 @@
 
     通过这个项目：
 
-    - :material-school: 深入理解GUI编程核心概念
+    - :material-school: 深入理解 GUI 编程核心概念
     - :material-puzzle: 掌握复杂界面组件交互设计
-    - :material-rocket: 探索Python桌面应用的极限
+    - :material-rocket: 探索 Python 桌面应用的极限
 
 ## :material-star-shooting: 核心优势
 
 ```mermaid
 graph LR
-    A[开发者] --> B(学习GUI编程)
+    A[开发者] --> B(学习 GUI 编程)
     B --> C{应用场景}
     C --> D[桌面应用]
     C --> E[工具开发]
