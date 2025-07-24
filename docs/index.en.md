@@ -1,0 +1,110 @@
+---
+hide:
+  - navigation
+  - toc
+  - footer
+---
+
+<center>
+
+# :octicons-file-directory-open-fill-24: ttk file explorer
+
+<div>  
+<a href="https://github.com/pyheight/ttk-file-explorer/stargazers"><img src="https://img.shields.io/github/stars/pyheight/ttk-file-explorer?style=social&logo=github" alt="GitHub Stars"></a>
+<a href="https://github.com/pyheight/ttk-file-explorer/network/members"><img src="https://img.shields.io/github/forks/pyheight/ttk-file-explorer?style=social&logo=github" alt="GitHub Forks"></a>
+<img src="https://img.shields.io/badge/Platform-Windows-blue.svg?style=social&logo=GitHub" alt="Windows">
+</div>  
+<div>  
+<a href="https://github.com/pyheight/ttk-file-explorer/releases"><img src="https://img.shields.io/github/v/release/pyheight/ttk-file-explorer?color=blue&style=flat-square" alt="Latest Release"></a>
+<a href="https://github.com/pyheight/ttk-file-explorer/commits/main"><img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer?style=flat-square" alt="Last Commit"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>
+</div>  
+
+<h3>An open-source, lightweight Windows file manager dedicated to GUI development and application implementation.</h3>
+
+</center>
+
+<center>
+<div style="width: 65%">
+<div class="admonition success">
+  <p class="admonition-title" align="left" style="color: #1a531b";>A Different Kind of File Manager</p>
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img align="left" width="50" src="../assets/images/favicon.png" alt="LOGO" style="flex-shrink: 0;"/>    
+    <p style="margin: 0; font-size: 1.25em;">
+      Experience a clean interface built with <em>tkinter</em> syntax and <em>ttkbootstrap</em> library, ensuring smooth and efficient file operations.
+    </p>
+  </div>
+</div>
+</div>
+</center>
+
+<center>
+[:material-rocket-launch: Quick Start](./download/installation/#download-latest-version){: .md-button .md-button--primary }
+[:material-dots-horizontal-circle: Learn More](./about/project-overview/){: .md-button }
+</center>
+
+## :octicons-eye-24: Preview
+
+<figure>
+  <div style="float: left; width: 48%; text-align: center;">
+    <img src="../assets/images/light.png" alt="LIGHT" style="max-width: 100%;">
+    <figcaption>Light Theme</figcaption>
+  </div>
+  <div style="float: right; width: 48%; text-align: center;">
+    <img src="../assets/images/dark.png" alt="DARK" style="max-width: 100%;">
+    <figcaption>Dark Theme</figcaption>
+  </div>
+  <div style="clear: both;"></div>
+</figure>
+
+## :material-star-shooting-outline: Core Advantages
+
+<div class="grid cards" markdown>
+
+- :material-star-face:{ .lg .middle } __Sleek & Modern__  
+Modern interface design focused on user interaction experience.
+
+- :material-lightning-bolt:{ .lg .middle } __Lightweight & Efficient__  
+Fast response, no complex configurations, low resource usage.
+
+- :material-folder-multiple:{ .lg .middle } __Easy Operations__  
+Efficient and intuitive file browsing and management to simplify workflows.
+
+- :material-palette:{ .lg .middle } __Customizable__  
+Freely extendable and customizable to enhance management efficiency.
+
+- :material-github:{ .lg .middle } __Open Source & Free__  
+Allows users to modify and optimize source code according to their needs.
+
+- :material-update:{ .lg .middle } __Continuous Updates__  
+Regular releases of new features and improvements.
+
+</div>
+
+## :octicons-graph-16: Project Activity
+
+<div class="graphs-container">
+  <div class="graph-item">
+    <img src="https://repobeats.axiom.co/api/embed/20d6c7c443b43d705d0c358d0164fc905511be15.svg" alt="Repobeats analytics image">
+  </div>
+  
+  <div class="vertical-divider"></div>
+  
+  <div class="graph-item">
+    <a href="https://starchart.cc/pyheight/ttk-file-explorer" target="_blank">
+      <img src="https://starchart.cc/pyheight/ttk-file-explorer.svg?variant=adaptive" alt="Stars over time">
+    </a>
+  </div>
+</div>
+
+---
+
+<center>
+  <span style="font-size:1.6em;color:#ff6b6b">:material-heart-outline:</span> 
+  <span style="font-size:1.4em;color:#ff8e8e">:material-heart-half-full:</span> 
+  <span style="font-size:1.2em;color:#ffaaaa">:material-heart:</span> 
+  Made with Love 
+  <span style="font-size:1.2em;color:#ffaaaa">:material-heart:</span> 
+  <span style="font-size:1.4em;color:#ff8e8e">:material-heart-half-full:</span> 
+  <span style="font-size:1.6em;color:#ff6b6b">:material-heart-outline:</span>
+</center>

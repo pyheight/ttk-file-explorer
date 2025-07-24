@@ -1,0 +1,217 @@
+# 站点基本信息配置
+site_name: ttk file explorer
+site_url: https://pyheight.github.io/ttk-file-explorer
+site_description: A lightweight file manager based on ttkbootstrap developed by personal interests...
+site_author: pyheight
+copyright: Copyright &copy; 2023 - 2025 pyheight
+
+# 仓库信息配置
+repo_url: https://github.com/pyheight/ttk-file-explorer
+repo_name: pyheight/ttk-file-explorer
+edit_uri: edit/main/docs/
+
+# 主题配置
+theme:
+  name: material
+  language: zh
+  favicon: assets/images/favicon.ico
+  logo: assets/images/favicon.png
+  custom_dir: overrides  # 主题覆盖目录（用于深度自定义主题组件）
+  features:
+    - announce
+    - announce.dismiss
+    - navigation.tabs      
+    - navigation.tabs.sticky 
+    - navigation.footer
+    - navigation.top
+    - toc.follow   
+    - content.action.edit
+    - content.action.view   
+    - content.code.annotate 
+    - content.code.copy 
+    - content.code.select
+    - search.suggest
+    - search.share  
+
+    # - header.autohide         
+    # - toc.integrate   
+    # - content.tabs.link    
+    # - navigation.tracking        
+    # - navigation.prune
+    # - navigation.expand
+    # - navigation.indexes  
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+  
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: pink
+      toggle:
+        icon: material/lightbulb-outline
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: red
+      toggle:
+        icon: material/lightbulb
+
+  font: 
+    text: Roboto        # 正文字体
+    code: Roboto Mono   # 代码字体
+  static_templates:
+    - 404.html
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+# 文档目录设置
+docs_dir: docs 
+
+# 插件配置
+plugins:
+  - mkdocstrings:
+      handlers:
+        python:
+          paths: [src]  # 指定Python源代码路径
+          show_root_heading: true  # 显示根标题
+          options:
+            heading_level: 3  # 生成的标题级别
+  - search
+  # - autorefs           # 自动交叉引用（自动链接类/函数等）
+  - i18n:
+     fallback_to_default: true
+     docs_structure: suffix
+     languages:
+       - locale: zh
+         default: true
+         name: 简体中文
+         build: true
+         link: /zh/
+         nav:  # 添加中文导航
+           - 主页: index.zh.md
+           - 下载安装:
+               - 系统要求: download/system-requirements.zh.md
+               - 安装指南: download/installation.zh.md
+               - 从源代码构建: download/building-from-source.zh.md
+           # - 使用指南:
+           #     - 快速入门: guide/quickstart.zh.md
+           #     - 界面介绍: guide/user-interface.zh.md
+           #     - 文件操作: guide/file-operations.zh.md
+           #     - 自定义配置: guide/customization.zh.md
+           #     - 常见问题: guide/faq.zh.md
+           - 开发日志:
+               - 更新记录: development/changelog.zh.md
+               - 里程碑: development/milestones.zh.md
+               - 开发计划: development/roadmap.zh.md
+           # - API参考:
+           #     - 核心模块: api/core-modules.zh.md
+           #     - 文件操作API: api/file-operations-api.zh.md
+           #     - 界面组件API: api/ui-components-api.zh.md
+           #     - 事件系统: api/event-system.zh.md
+           #     - 完整API索引: api/full-index.zh.md
+           - 社区:
+               - 问题反馈: community/issue-reporting.zh.md
+               - 贡献指南: community/contribution-guide.zh.md
+           - 关于:
+               - 项目介绍: about/project-overview.zh.md
+               - 致谢: about/acknowledgments.zh.md 
+               - 许可: about/license.zh.md
+               - 作者: about/author.zh.md
+               
+       - locale: en
+         name: English
+         build: true
+         link: /en/
+         nav:  # 添加英文导航
+           - Home: index.en.md
+           - Download & Install:
+               - System Requirements: download/system-requirements.en.md
+               - Installation Guide: download/installation.en.md
+               - Building from Source: download/building-from-source.en.md
+           # - User Guide:
+           #     - Quickstart: guide/quickstart.en.md
+           #     - User Interface: guide/user-interface.en.md
+           #     - File Operations: guide/file-operations.en.md
+           #     - Customization: guide/customization.en.md
+           #     - FAQ: guide/faq.en.md
+           - Development Log:
+               - Changelog: development/changelog.en.md
+               - Milestones: development/milestones.en.md
+               - Development Plan: development/roadmap.en.md
+           # - API Reference:
+           #     - Core Modules: api/core-modules.en.md
+           #     - File Operations API: api/file-operations-api.en.md
+           #     - UI Components API: api/ui-components-api.en.md
+           #     - Event System: api/event-system.en.md
+           #     - Full API Index: api/full-index.en.md
+           - Community:
+               - Issue Reporting: community/issue-reporting.en.md
+               - Contribution Guide: community/contribution-guide.en.md
+           - About:
+               - Project Overview: about/project-overview.en.md
+               - Acknowledgments: about/acknowledgments.en.md 
+               - License: about/license.en.md
+               - Author: about/author.en.md
+               
+  # - git-revision-date # 每页底部显示文档最后更新日期
+  # - git-revision-date-localized  # 每个页面底部添加本地化更新和创建日期
+  #     type: date  # 日期格式，有效值为date、datetime、iso_date、iso_datetimetimeago
+  #     fallback_to_build_date: true  # 默认false，启用则回退到mkdocs build执行的时间
+  #     enable_creation_date: true  # 最后更新日期旁边显示与页面关联的文件的创建日期
+
+# 额外配置
+extra:
+  social: 
+    - icon: fontawesome/brands/github  
+      link: https://github.com/pyheight/ttk-file-explorer
+    - icon: octicons/mail-24 
+      link: mailto:<pyheight@qq.com>
+  alternate:  # 多语言切换链接（需配合i18n插件）
+    - name: 简体中文  
+      link: /ttk-file-explorer/  
+      lang: zh  
+    - name: English
+      link: /ttk-file-explorer/en/
+      lang: en
+  generator: false  # 隐藏"MkDocs"生成器标识
+
+# Markdown扩展配置
+markdown_extensions:
+  - attr_list
+  - tables
+  - md_in_html
+  - toc:
+      permalink: ⚓︎
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.highlight:    # 代码高亮增强
+      anchor_linenums: true # 为行号添加锚点
+      # line_spans: __span   # 行范围标记（用于高亮特定行）
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
+  - admonition     
+  - pymdownx.details
+  - pymdownx.tasklist:     # 任务列表功能
+      custom_checkbox: true  # 使用自定义复选框样式
+  - pymdownx.emoji:        # Twemoji表情支持
+      emoji_index: !!python/name:material.extensions.emoji.twemoji  
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg  
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.magiclink:    
+      repo_url_shorthand: true 
+      user: pyheight  
+      repo: ttk-file-explorer  
