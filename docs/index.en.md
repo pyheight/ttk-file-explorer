@@ -38,7 +38,7 @@ hide:
 </div>
 </center>
 
-<center>
+<center markdown>
 [:material-rocket-launch: Quick Start](./download/installation/#download-latest-version){: .md-button .md-button--primary }
 [:material-dots-horizontal-circle: Learn More](./about/project-overview/){: .md-button }
 </center>
@@ -99,12 +99,12 @@ Regular releases of new features and improvements.
 
 ---
 
-<center>
-  <span style="font-size:1.6em;color:#ff6b6b">:material-heart-outline:</span> 
-  <span style="font-size:1.4em;color:#ff8e8e">:material-heart-half-full:</span> 
-  <span style="font-size:1.2em;color:#ffaaaa">:material-heart:</span> 
-  Made with Love 
-  <span style="font-size:1.2em;color:#ffaaaa">:material-heart:</span> 
-  <span style="font-size:1.4em;color:#ff8e8e">:material-heart-half-full:</span> 
-  <span style="font-size:1.6em;color:#ff6b6b">:material-heart-outline:</span>
+<center markdown>
+<span style="font-size:1.6em;color:#ff6b6b">:material-heart-outline:</span> 
+<span style="font-size:1.4em;color:#ff8e8e">:material-heart-half-full:</span> 
+<span style="font-size:1.2em;color:#ffaaaa">:material-heart:</span> 
+Made with Love 
+<span style="font-size:1.2em;color:#ffaaaa">:material-heart:</span> 
+<span style="font-size:1.4em;color:#ff8e8e">:material-heart-half-full:</span> 
+<span style="font-size:1.6em;color:#ff6b6b">:material-heart-outline:</span>
 </center>
