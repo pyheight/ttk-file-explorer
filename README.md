@@ -27,13 +27,13 @@
 
 <img align="right" height="96px" src="https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/icon.png" alt="" />
 
-**ttk file explorer** 是一款开源的、轻量的*Windows*文件管理器，致力于*GUI*打造与应用实现。体验简洁的操作界面，依托*tkinter*语法和*ttkbootstrap*美化库，确保流畅且高效的文件操作。
+**ttk file explorer** 是一款开源的、轻量的 *Windows* 文件管理器，致力于 *GUI* 打造与应用实现。体验简洁的操作界面，依托 *tkinter* 语法和 *ttkbootstrap* 美化库，确保流畅且高效的文件操作。
 
 
 # 🔥 特征
 
 > [!IMPORTANT]
-> 使用*tkinter*打造出惊艳的*GUI*应用。
+> 使用 *tkinter* 打造出惊艳的 *GUI* 应用。
 
 - `简洁美观` - 现代界面设计，注重用户交互体验 🌟
 - `轻量高效` - 快速响应，无繁琐配置，资源占用低 🍃
@@ -100,7 +100,7 @@ python script/package.py
 **本项目根据 [Apache-2.0 license](LICENSE) 获得许可。**
 
 > [!TIP]
-> 这意味着您可以根据Apache许可证自由使用、修改、分发和再许可项目。
+> 这意味着您可以根据 Apache 许可证自由使用、修改、分发和再许可项目。
 
 # 🤝 贡献
 
