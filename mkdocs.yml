@@ -78,13 +78,13 @@ docs_dir: docs
 
 # 插件配置
 plugins:
-  - mkdocstrings:
-      handlers:
-        python:
-          paths: [src]  # 指定Python源代码路径
-          show_root_full_path: true  # 显示根标题
-          options:
-            heading_level: 3  # 生成的标题级别
+  # - mkdocstrings:
+  #     handlers:
+  #       python:
+  #         paths: [src]  # 指定Python源代码路径
+  #         show_root_full_path: true  # 显示根标题
+  #         options:
+  #           heading_level: 3  # 生成的标题级别
   - search
   # - autorefs           # 自动交叉引用（自动链接类/函数等）
   - i18n:
