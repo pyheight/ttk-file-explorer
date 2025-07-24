@@ -5,7 +5,7 @@ hide:
   - footer
 ---
 
-<center>
+<center markdown>
 
 # :octicons-file-directory-open-fill-24: ttk File Explorer
 
