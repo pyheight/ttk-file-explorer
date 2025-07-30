@@ -8,7 +8,7 @@
 <p align="center">
     <a href="#-Features"><kbd>🔥 Features</kbd></a>
     <a href="https://github.com/pyheight/ttk-file-explorer/issues/new" target="_blank"><kbd>📌 issue</kbd></a>
-    <a href="https://pyheight.github.io/ttk-file-explorer/" target="_blank"><kbd>🌍 Website</kbd></a>
+    <a href="https://pyheight.github.io/ttk-file-explorer/en/" target="_blank"><kbd>🌍 Website</kbd></a>
     <a href="#-Getting-Started"><kbd>🚀 Getting Started</kbd></a>
     <a href="#-Contributing"><kbd>🤝 Contributing</kbd></a>
 </p>
