@@ -16,7 +16,7 @@ theme:
   language: zh
   favicon: assets/images/favicon.ico
   logo: assets/images/favicon.png
-  custom_dir: overrides  # 主题覆盖目录
+  custom_dir: docs/overrides  # 主题覆盖目录
   features:
     - announce
     - announce.dismiss
@@ -215,7 +215,7 @@ markdown_extensions:
       custom:
         overrides:
           - name: aliyunpan
-            svg: overrides/.icons/aliyunpan.svg
+            svg: docs/overrides/.icons/aliyunpan.svg
   - pymdownx.magiclink:    
       repo_url_shorthand: true 
       user: pyheight  
