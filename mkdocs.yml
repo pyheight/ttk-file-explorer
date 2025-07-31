@@ -59,7 +59,7 @@ theme:
       toggle:
         icon: material/lightbulb
   font: 
-    text: Roboto        # 正文字体
+    text: Ubuntu        # 正文字体
     code: Roboto Mono   # 代码字体
   static_templates:
     - 404.html

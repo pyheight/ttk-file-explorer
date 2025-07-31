@@ -448,31 +448,6 @@ html {
   border-bottom-left-radius: var(--base-border-radius);
 }
 
-.highlight span.filename {
-  border-bottom: none;
-  border-radius: var(--base-border-radius);
-  display: inline;
-  font-family: var(--md-code-font-family);
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-  margin-bottom: 5px;
-  text-align: center;
-}
-.highlight span.filename + pre > code,
-.md-typeset pre > code {
-  border-radius: var(--base-border-radius);
-  border-top-left-radius: 0;
-}
-.md-typeset .admonition {
-  border-width: 0px;
-  border-left-width: var(--admonition-border-left-width);
-}
-[dir="ltr"] .md-typeset blockquote {
-  border-radius: 0.2rem;
-  border-left-width: var(--admonition-border-left-width);
-}
-
-
 .md-typeset .admonition,
 .md-typeset details {
   border-radius: 1.5em;
