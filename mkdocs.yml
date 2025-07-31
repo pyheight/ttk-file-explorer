@@ -16,7 +16,7 @@ theme:
   language: zh
   favicon: assets/images/favicon.ico
   logo: assets/images/favicon.png
-  custom_dir: docs/overrides  # 主题覆盖目录
+  custom_dir: overrides  # 主题覆盖目录
   features:
     - announce
     - announce.dismiss
