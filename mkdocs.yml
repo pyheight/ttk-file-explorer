@@ -157,11 +157,15 @@ plugins:
                - Acknowledgments: about/acknowledgments.en.md 
                - License: about/license.en.md
                - Author: about/author.en.md
-  - git-revision-date # 每页底部显示文档最后更新日期
-  - git-revision-date-localized  # 每个页面底部添加本地化更新和创建日期
-      type: date  # 日期格式，有效值为date、datetime、iso_date、iso_datetimetimeago
-      fallback_to_build_date: true  # 默认false，启用则回退到mkdocs build执行的时间
-      enable_creation_date: true  # 最后更新日期旁边显示与页面关联的文件的创建日期
+  - git-revision-date-localized:
+      type: iso_date                                
+      enable_creation_date: true                       
+      fallback_to_build_date: false
+      exclude: 
+          - index.zh.md
+          - index.en.md
+      enabled: true 
+      strict: true
 
 # 额外配置
 extra:
