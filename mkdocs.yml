@@ -209,13 +209,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg  
       options:
         custom_icons:
-          - overrides/.icons
-  # - pymdownx.icons:
-  #     icons: fontawesome, material, octicons
-  #     custom:
-  #       overrides:
-  #         - name: aliyunpan
-  #           svg: docs/overrides/.icons/aliyunpan.svg
+          - docs/overrides/.icons
   - pymdownx.magiclink:    
       repo_url_shorthand: true 
       user: pyheight  
