@@ -1,7 +1,7 @@
 # 站点基本信息配置
 site_name: ttk file explorer
 site_url: https://pyheight.github.io/ttk-file-explorer
-site_description: A lightweight file manager based on ttkbootstrap developed by personal interests...
+site_description: A lightweight file manager based on ttkbootstrap developed by personal interests.
 site_author: pyheight
 copyright: Copyright &copy; 2023 - 2025 pyheight
 
@@ -16,7 +16,7 @@ theme:
   language: zh
   favicon: assets/images/favicon.ico
   logo: assets/images/favicon.png
-  custom_dir: overrides  # 主题覆盖目录（用于深度自定义主题组件）
+  custom_dir: overrides  # 主题覆盖目录
   features:
     - announce
     - announce.dismiss
@@ -32,7 +32,6 @@ theme:
     - content.code.select
     - search.suggest
     - search.share  
-
     # - header.autohide         
     # - toc.integrate   
     # - content.tabs.link    
@@ -43,7 +42,6 @@ theme:
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
-  
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -60,7 +58,6 @@ theme:
       accent: red
       toggle:
         icon: material/lightbulb
-
   font: 
     text: Roboto        # 正文字体
     code: Roboto Mono   # 代码字体
@@ -78,6 +75,7 @@ docs_dir: docs
 
 # 插件配置
 plugins:
+  - search
   # - mkdocstrings:
   #     handlers:
   #       python:
@@ -85,7 +83,6 @@ plugins:
   #         show_root_full_path: true  # 显示根标题
   #         options:
   #           heading_level: 3  # 生成的标题级别
-  - search
   # - autorefs           # 自动交叉引用（自动链接类/函数等）
   - i18n:
      fallback_to_default: true
@@ -96,7 +93,7 @@ plugins:
          name: 简体中文
          build: true
          link: /zh/
-         nav:  # 添加中文导航
+         nav:  # 中文导航
            - 主页: index.zh.md
            - 下载安装:
                - 系统要求: download/system-requirements.zh.md
@@ -126,12 +123,11 @@ plugins:
                - 致谢: about/acknowledgments.zh.md 
                - 许可: about/license.zh.md
                - 作者: about/author.zh.md
-               
        - locale: en
          name: English
          build: true
          link: /en/
-         nav:  # 添加英文导航
+         nav:  # 英文导航
            - Home: index.en.md
            - Download & Install:
                - System Requirements: download/system-requirements.en.md
@@ -161,7 +157,6 @@ plugins:
                - Acknowledgments: about/acknowledgments.en.md 
                - License: about/license.en.md
                - Author: about/author.en.md
-               
   # - git-revision-date # 每页底部显示文档最后更新日期
   # - git-revision-date-localized  # 每个页面底部添加本地化更新和创建日期
   #     type: date  # 日期格式，有效值为date、datetime、iso_date、iso_datetimetimeago
