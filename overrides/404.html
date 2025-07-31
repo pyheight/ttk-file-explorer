@@ -1,0 +1,38 @@
+{% extends "main.html" %} 
+
+{% block content %} 
+
+<style>
+  .eyes {
+    font-size: 5rem;
+    margin-bottom: -1rem;
+  }
+  .error-title {
+    font-size: 4rem;
+    font-weight: 900;
+    letter-spacing: -2px;
+    background: linear-gradient(90deg, #ff0000, #ff9900, #33cc33, #3399ff, #cc33ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 3px 3px 0 rgba(0,0,0,0.1);
+  }
+  .not-found {
+    display: block;
+    font-size: 2.5rem;
+    color: #ff5722;
+    margin-top: -1rem;
+  }
+</style>
+
+<center>
+  <div class="eyes">👀 👀</div>
+  <h1 class="error-title">
+    <span class="not-found">404 - Not found</span>
+  </h1>
+  <h2 style="font-size: 1.8rem; color: #666; margin-top: 1rem;">
+    why.....?
+  </h2>
+</center>
+
+{% endblock %}
