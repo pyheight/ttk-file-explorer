@@ -210,12 +210,12 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
-  - pymdownx.icons:
-      icons: fontawesome, material, octicons
-      custom:
-        overrides:
-          - name: aliyunpan
-            svg: docs/overrides/.icons/aliyunpan.svg
+  # - pymdownx.icons:
+  #     icons: fontawesome, material, octicons
+  #     custom:
+  #       overrides:
+  #         - name: aliyunpan
+  #           svg: docs/overrides/.icons/aliyunpan.svg
   - pymdownx.magiclink:    
       repo_url_shorthand: true 
       user: pyheight  
