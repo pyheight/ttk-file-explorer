@@ -1,4 +1,4 @@
-# :material-image-multiple: 界面画廊
+# :material-image-multiple: 画廊
 
 ## :material-package-variant: v1.0.0-beta
 
