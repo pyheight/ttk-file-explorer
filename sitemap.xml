@@ -57,6 +57,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://pyheight.github.io/ttk-file-explorer/en/development/changelog/"/>
     </url>
     <url>
+        <loc>https://pyheight.github.io/ttk-file-explorer/development/gallery/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pyheight.github.io/ttk-file-explorer/development/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pyheight.github.io/ttk-file-explorer/en/development/gallery/"/>
+    </url>
+    <url>
         <loc>https://pyheight.github.io/ttk-file-explorer/development/milestones/</loc>
         <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
@@ -146,6 +153,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pyheight.github.io/ttk-file-explorer/en/development/changelog/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://pyheight.github.io/ttk-file-explorer/development/changelog/"/>
+    </url>
+    <url>
+        <loc>https://pyheight.github.io/ttk-file-explorer/en/development/gallery/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pyheight.github.io/ttk-file-explorer/en/development/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pyheight.github.io/ttk-file-explorer/development/gallery/"/>
     </url>
     <url>
         <loc>https://pyheight.github.io/ttk-file-explorer/en/development/milestones/</loc>
