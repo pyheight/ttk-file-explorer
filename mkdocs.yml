@@ -108,6 +108,7 @@ plugins:
            - 开发日志:
                - 更新记录: development/changelog.zh.md
                - 里程碑: development/milestones.zh.md
+               - 画廊: development/gallery.zh.md               
                - 开发计划: development/roadmap.zh.md
            # - API参考:
            #     - 核心模块: api/core-modules.zh.md
@@ -142,6 +143,7 @@ plugins:
            - Development Log:
                - Changelog: development/changelog.en.md
                - Milestones: development/milestones.en.md
+               - Gallery: development/gallery.en.md
                - Roadmap: development/roadmap.en.md
            # - API Reference:
            #     - Core Modules: api/core-modules.en.md
@@ -157,15 +159,15 @@ plugins:
                - Acknowledgments: about/acknowledgments.en.md 
                - License: about/license.en.md
                - Author: about/author.en.md
-  - git-revision-date-localized:
-      type: iso_date                                
-      enable_creation_date: true                       
-      fallback_to_build_date: true
-      exclude: 
-          - index.zh.md
-          - index.en.md
-      enabled: true 
-      strict: true
+  # - git-revision-date-localized:
+  #     type: iso_date                                
+  #     enable_creation_date: true                       
+  #     fallback_to_build_date: true
+  #     exclude: 
+  #         - index.zh.md
+  #         - index.en.md
+  #     enabled: true 
+  #     strict: true
 
 # 额外配置
 extra:
