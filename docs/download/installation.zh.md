@@ -20,7 +20,7 @@
 
 ---
 
-## :material-download-box: 下载最新版
+## :material-download-box: 下载最新版本
 
 :octicons-download-24: **当前最新版本：**  ![Latest Release](https://img.shields.io/github/v/release/pyheight/ttk-file-explorer?color=blue&style=for-the-badge)
 
