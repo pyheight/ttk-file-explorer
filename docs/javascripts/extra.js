@@ -222,7 +222,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 
-//雪花特效
+// 雪花特效
 const fps = 30;
 const mspf = Math.floor(1000 / fps) ; 
 
