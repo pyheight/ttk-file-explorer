@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/splash.png" alt=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/docs/assets/images/v1.0.0-beta/splash.png" alt=""></p>
 
 <h3 align="center">📂 ttk file explorer</h3>
  
@@ -25,7 +25,7 @@
 
 # ⚡ 介绍
 
-<img align="right" height="96px" src="https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/icon.png" alt="" />
+<img align="right" height="96px" src="https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/docs/assets/images/favicon.png" alt="" />
 
 **ttk file explorer** 是一款开源的、轻量的 *Windows* 文件管理器，致力于 *GUI* 打造与应用实现。体验简洁的操作界面，依托 *tkinter* 语法和 *ttkbootstrap* 美化库，确保流畅且高效的文件操作。
 
@@ -93,7 +93,7 @@ python script/package.py
 
 |浅色|深色|
 |--|--| 
-|![light](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/v1.0.0-test-interface.png)|![dark](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/images/v1.0.0-test-interface-dark.png)|
+|![light](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/docs/assets/images/v1.0.0-beta/main-light.png)|![dark](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/docs/assets/images/v1.0.0-beta/main-dark.png)|
 
 # 💡 许可
 

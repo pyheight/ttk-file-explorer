@@ -47,11 +47,11 @@ hide:
 
 <figure>
   <div style="float: left; width: 48%; text-align: center;">
-    <img src="assets/images/light.png" alt="LIGHT" style="max-width: 100%;">
+    <img src="assets/images/v1.0.0-beta/main-light.png" alt="main-light" style="max-width: 100%;">
     <figcaption>浅色</figcaption>
   </div>
   <div style="float: right; width: 48%; text-align: center;">
-    <img src="assets/images/dark.png" alt="DARK" style="max-width: 100%;">
+    <img src="assets/images/v1.0.0-beta/main-dark.png" alt="main-dark" style="max-width: 100%;">
     <figcaption>深色</figcaption>
   </div>
   <div style="clear: both;"></div>
