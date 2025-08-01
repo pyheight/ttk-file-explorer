@@ -159,15 +159,15 @@ plugins:
                - Acknowledgments: about/acknowledgments.en.md 
                - License: about/license.en.md
                - Author: about/author.en.md
-  # - git-revision-date-localized:
-  #     type: iso_date                                
-  #     enable_creation_date: true                       
-  #     fallback_to_build_date: true
-  #     exclude: 
-  #         - index.zh.md
-  #         - index.en.md
-  #     enabled: true 
-  #     strict: true
+  - git-revision-date-localized:
+      type: iso_date                                
+      enable_creation_date: true                       
+      fallback_to_build_date: true
+      exclude: 
+          - index.zh.md
+          - index.en.md
+      enabled: true 
+      strict: true
 
 # 额外配置
 extra:
