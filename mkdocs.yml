@@ -142,7 +142,7 @@ plugins:
            - Development Log:
                - Changelog: development/changelog.en.md
                - Milestones: development/milestones.en.md
-               - Development Plan: development/roadmap.en.md
+               - Roadmap: development/roadmap.en.md
            # - API Reference:
            #     - Core Modules: api/core-modules.en.md
            #     - File Operations API: api/file-operations-api.en.md
