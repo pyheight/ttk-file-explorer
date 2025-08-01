@@ -160,7 +160,7 @@ plugins:
   - git-revision-date-localized:
       type: iso_date                                
       enable_creation_date: true                       
-      fallback_to_build_date: false
+      fallback_to_build_date: true
       exclude: 
           - index.zh.md
           - index.en.md
@@ -174,7 +174,7 @@ extra:
       link: https://github.com/pyheight/ttk-file-explorer
     - icon: octicons/mail-24 
       link: mailto:<pyheight@qq.com>
-  alternate:  # 多语言切换链接（需配合i18n插件）
+  alternate:  # 多语言切换链接（需配合 i18n 插件）
     - name: 简体中文  
       link: /ttk-file-explorer/  
       lang: zh  
@@ -204,7 +204,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tasklist:     # 任务列表功能
       custom_checkbox: true  # 使用自定义复选框样式
-  - pymdownx.emoji:        # Twemoji表情支持
+  - pymdownx.emoji:      
       emoji_index: !!python/name:material.extensions.emoji.twemoji  
       emoji_generator: !!python/name:material.extensions.emoji.to_svg  
       options:
