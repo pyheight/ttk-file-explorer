@@ -27,12 +27,12 @@ Experience a clean interface built with *tkinter* syntax and *ttkbootstrap* styl
 
 ## 🔥 Features
 
-- **Sleek & Modern** ——— Modern interface design focused on user interaction experience.
-- **Lightweight & Efficient** ——— Fast response, no complex configurations, low resource usage.
-- **Easy Operations** ——— Efficient and intuitive file browsing and management.
-- **Customizable** ——— Freely extendable and personalized for better management efficiency.
-- **Open Source & Free** ——— Allows users to modify and optimize source code as needed.
-- **Continuous Updates** ——— Regular releases of new features and improvements.
+- **Sleek & Modern** - Modern interface design focused on user interaction experience.
+- **Lightweight & Efficient** - Fast response, no complex configurations, low resource usage.
+- **Easy Operations** - Efficient and intuitive file browsing and management.
+- **Customizable** - Freely extendable and personalized for better management efficiency.
+- **Open Source & Free** - Allows users to modify and optimize source code as needed.
+- **Continuous Updates** - Regular releases of new features and improvements.
 
 > [!IMPORTANT]
 > Creating stunning *GUI* applications with *tkinter*.
