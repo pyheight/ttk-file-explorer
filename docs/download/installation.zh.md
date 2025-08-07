@@ -24,7 +24,7 @@
 
 :octicons-download-24: **当前最新版本：**  ![Latest Release](https://img.shields.io/github/v/release/pyheight/ttk-file-explorer?color=blue&style=for-the-badge)
 
-[ :material-github: Github 下载 ](https://github.com/pyheight/ttk-file-explorer/releases/){ .md-button .md-button--primary }
+[ :material-github: Github下载 ](https://github.com/pyheight/ttk-file-explorer/releases/){ .md-button .md-button--primary }
 [ :material-folder-zip: 百度网盘 ](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F){ .md-button }
 [ :aliyunpan: 阿里云盘 ](https://www.aliyundrive.com/s/kooYQY65teA/){ .md-button }
 
@@ -55,3 +55,4 @@
 | :material-github: Github | ★★★★★ | ★★★★ | 实时 | .exe，.zip，.tar.gz | 官方首选 |
 | :material-folder-zip: 百度网盘 | ★★★☆☆ | ★★☆☆ | 延迟 | .exe，.zip | 需要登录 |
 | :aliyunpan: 阿里云盘 | ★★★★☆ | ★★★★ | 延迟 | .exe | 推荐备用 |
+
