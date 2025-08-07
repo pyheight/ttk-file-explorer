@@ -47,7 +47,7 @@
 
 ### 🎉 安装体验
 
-- [Github 下载](https://github.com/pyheight/ttk-file-explorer/releases/)
+- [Github下载](https://github.com/pyheight/ttk-file-explorer/releases/)
 - [百度网盘](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F)
 - [阿里云盘](https://www.aliyundrive.com/s/kooYQY65teA/)
 
