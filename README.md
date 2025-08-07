@@ -101,7 +101,7 @@ python script/package.py
 > [!NOTE]
 > 这意味着您可以根据 Apache-2.0 license 自由使用、修改、分发和再许可项目。
 
-## 🤝 贡献
+## 🙌 贡献
 
 <a href="https://github.com/pyheight/ttk-file-explorer/graphs/contributors"><img src="https://contrib.rocks/image?repo=pyheight/ttk-file-explorer" /></a>  
 
