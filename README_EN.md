@@ -101,7 +101,7 @@ python script/package.py
 > [!NOTE]
 > This means you're free to use, modify, distribute and sublicense the project under Apache-2.0 license terms.
 
-## 🤝 Contributing
+## 🙌 Contributing
 
 <a href="https://github.com/pyheight/ttk-file-explorer/graphs/contributors"><img src="https://contrib.rocks/image?repo=pyheight/ttk-file-explorer" /></a>  
 
