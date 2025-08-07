@@ -1,5 +1,1 @@
-*.html linguist-language=Python
-*.tcl linguist-language=Python
-*.xsl linguist-language=Python
-*.toc linguist-language=Python
-* text=auto
+
