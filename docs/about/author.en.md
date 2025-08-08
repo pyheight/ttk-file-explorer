@@ -28,5 +28,6 @@ Specifically, I enjoy exploring new technologies and turning ideas into practica
     </a>
 </p>
 
-!!! tip "Note"
+!!! tip "Tip"
 	Programming is not just technology, but the art of creation.
+
