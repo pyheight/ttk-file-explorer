@@ -72,12 +72,12 @@ ttkbootstrap
 git clone https://github.com/pyheight/ttk-file-explorer.git
 ```
 
-3. :material-folder-move: Navigate to Source Directory
+3. :material-folder-move: **Navigate to Source Directory**
 ```bash
 cd ttk-file-explorer/src
 ```
 
-4. :material-library: Install Dependencies
+4. :material-library: **Install Dependencies**
 
 	=== "Install Specific Versions (Recommended)"
         ```powershell
@@ -89,15 +89,16 @@ cd ttk-file-explorer/src
         pip install -r requirements_latest.txt
         ```
 
-5. :material-play: Launch Application
+5. :material-play: **Launch Application**
 ```bash
 python main.py
 ```
 
-6. :material-package-variant: Package Application
+6. :material-package-variant: **Package Application**
 ```bash
 python script/package.py
 ```
 
 !!! bug "Encountering Issue"
 	[:material-bug: Let's Solve It](../../community/issue-reporting/){ .md-button .md-button--primary }
+
