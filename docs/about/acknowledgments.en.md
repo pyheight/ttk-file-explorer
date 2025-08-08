@@ -6,7 +6,7 @@
 <img src="https://contrib.rocks/image?repo=pyheight/ttk-file-explorer" alt="contributors-image shadow">
 </a>
 
-!!! tip "Note"
+!!! tip "Tip"
 	Sincere gratitude to all contributors who have helped this project grow!
 
 ## :material-open-source-initiative: Open Source Library Acknowledgments
@@ -32,7 +32,7 @@ Packages Python projects into standalone executables.
 
 </div>
 
-!!! tip "Note"
+!!! tip "Tip"
 	The open-source world thrives on sharing, thank you to everyone who contributes to open-source.
 
 ## :material-star: Recommended Projects
@@ -66,3 +66,4 @@ Offers high-quality vector icons.
 
 !!! tip "Special Thanks"
 	:material-heart-flash: **To dear friends and users for your recommendations and affirmations, your support is the driving force behind this project!**
+
