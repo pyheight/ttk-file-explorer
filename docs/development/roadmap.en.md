@@ -30,7 +30,7 @@ graph TD
 - Controller Layer: Coordinates interaction between Model and View
 
 !!! info "Core Objective"
-	Implement a true MVC architecture.
+	**Implement a true MVC architecture.**
 
 ## :material-puzzle-check: Feature Enhancement Plan
 
@@ -75,3 +75,4 @@ Experience beta versions and report issues.
 Share ideas for file manager needs.
 
 </div>
+
