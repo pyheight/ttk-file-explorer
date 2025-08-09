@@ -109,7 +109,7 @@ python script/package.py
 
 **请查阅[完整贡献指南](CONTRIBUTING.md)。**
 
-## 📈 项目活跃度
+## 📈 活跃度
 
 ![Repobeats analytics image](https://repobeats.axiom.co/api/embed/20d6c7c443b43d705d0c358d0164fc905511be15.svg "Repobeats analytics image")
 
