@@ -109,7 +109,7 @@ Thanks to all contributors.
 
 **Please see the [full contribution guide](CONTRIBUTING.md).**
 
-## 📈 Project Activity
+## 📈 Activity
 
 ![Repobeats analytics image](https://repobeats.axiom.co/api/embed/20d6c7c443b43d705d0c358d0164fc905511be15.svg "Repobeats analytics image")
 
