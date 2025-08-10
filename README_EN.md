@@ -21,7 +21,7 @@
 
 <img align="right" height="96px" src="https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/docs/assets/images/favicon.png" alt="" />
 
-**ttk file explorer** is an open-source, lightweight *Windows* file manager dedicated to *GUI* development and application implementation.
+*ttk file explorer* is an open-source, lightweight *Windows* file manager dedicated to *GUI* development and application implementation.
 
 Experience a clean interface built with *tkinter* syntax and *ttkbootstrap* styling library, ensuring smooth and efficient file operations.
 
