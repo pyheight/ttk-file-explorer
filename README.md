@@ -21,7 +21,7 @@
 
 <img align="right" height="96px" src="https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/docs/assets/images/favicon.png" alt="" />
 
-**ttk file explorer** 是一款开源的、轻量的 *Windows* 文件管理器，致力于 *GUI* 打造与应用实现。
+*ttk file explorer* 是一款开源的、轻量的 *Windows* 文件管理器，致力于 *GUI* 打造与应用实现。
 
 体验简洁的操作界面，依托 *tkinter* 语法和 *ttkbootstrap* 美化库，确保流畅且高效的文件操作。
 
