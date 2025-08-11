@@ -53,9 +53,9 @@
 
 **当前无其他第三方 SDK 或服务处理您的个人信息**。如有新增，将在**政策更新时明确告知**。
 
-## 3. :material-cookie: Cookie使用
+## 3. :material-cookie: Cookie 使用
 
-### 3.1 Cookie类型
+### 3.1 Cookie 类型
 
 | 类别 | 名称 | 用途 | 有效期 |
 |------|------|------|--------|
@@ -65,9 +65,9 @@
 
 ### 3.2 您的控制权
 
-您可通过**浏览器设置禁用Cookie**，但可能导致功能受限。
+您可通过**浏览器设置禁用 Cookie**，但可能导致功能受限。
 
-> [**:material-cog: 立即修改Cookie设置**](#__consent)
+> [**:material-cog: 立即修改 Cookie设置**](#__consent)
 
 ## 4. :material-account-key: 您的权利
 
