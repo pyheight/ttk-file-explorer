@@ -67,7 +67,7 @@
 
 您可通过**浏览器设置禁用 Cookie**，但可能导致功能受限。
 
-> [**:material-cog: 立即修改 Cookie设置**](#__consent)
+> [**:material-cog: 立即修改 Cookie 设置**](#__consent)
 
 ## 4. :material-account-key: 您的权利
 
