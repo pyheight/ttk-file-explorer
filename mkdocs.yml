@@ -82,23 +82,11 @@ plugins:
                - 系统要求: download/system-requirements.zh.md
                - 安装指南: download/installation.zh.md
                - 从源代码构建: download/building-from-source.zh.md
-           # - 使用指南:
-           #     - 快速入门: guide/quickstart.zh.md
-           #     - 界面介绍: guide/user-interface.zh.md
-           #     - 文件操作: guide/file-operations.zh.md
-           #     - 自定义配置: guide/customization.zh.md
-           #     - 常见问题: guide/faq.zh.md
            - 开发日志:
                - 更新记录: development/changelog.zh.md
                - 里程碑: development/milestones.zh.md
                - 画廊: development/gallery.zh.md               
                - 开发计划: development/roadmap.zh.md
-           # - API参考:
-           #     - 核心模块: api/core-modules.zh.md
-           #     - 文件操作API: api/file-operations-api.zh.md
-           #     - 界面组件API: api/ui-components-api.zh.md
-           #     - 事件系统: api/event-system.zh.md
-           #     - 完整API索引: api/full-index.zh.md
            - 社区:
                - 问题反馈: community/issue-reporting.zh.md
                - 贡献指南: community/contribution-guide.zh.md
@@ -118,23 +106,11 @@ plugins:
                - System Requirements: download/system-requirements.en.md
                - Installation Guide: download/installation.en.md
                - Building from Source: download/building-from-source.en.md
-           # - User Guide:
-           #     - Quickstart: guide/quickstart.en.md
-           #     - User Interface: guide/user-interface.en.md
-           #     - File Operations: guide/file-operations.en.md
-           #     - Customization: guide/customization.en.md
-           #     - FAQ: guide/faq.en.md
            - Development Log:
                - Changelog: development/changelog.en.md
                - Milestones: development/milestones.en.md
                - Gallery: development/gallery.en.md
                - Roadmap: development/roadmap.en.md
-           # - API Reference:
-           #     - Core Modules: api/core-modules.en.md
-           #     - File Operations API: api/file-operations-api.en.md
-           #     - UI Components API: api/ui-components-api.en.md
-           #     - Event System: api/event-system.en.md
-           #     - Full API Index: api/full-index.en.md
            - Community:
                - Issue Reporting: community/issue-reporting.en.md
                - Contribution Guide: community/contribution-guide.en.md
@@ -172,7 +148,7 @@ extra:
   consent:
     title: Cookie
     description: >
-      本网站使用百度统计进行流量分析，可能收集您的 IP 和浏览行为。
+      本网站使用百度统计进行流量分析，可能收集您的IP和浏览行为。
       详见<a href="https://pyheight.github.io/ttk-file-explorer/about/privacy-policy">隐私政策</a>。
       <br>
       This website uses Baidu statistics for traffic analysis and may collect your IP and browsing behavior.
@@ -186,24 +162,30 @@ extra:
         name: 百度统计
         checked: true
     hooks:
-      # 用户接受时：加载并启用统计
       accept: |
+        // 用户点击"同意"时加载统计
         if (__consent.analytics) {
-          window.baiduTongji.load();
-        } else {
-          window.baiduTongji.disableTracking();
+          window.loadBaiduTongji();
         }
-      
-      # 用户拒绝时：禁用统计
       reject: |
-        window.baiduTongji.disableTracking();
-      
-      # 用户修改设置时：动态切换状态
+        // 用户点击"拒绝"时禁用统计
+        window._hmt = window._hmt || [];
+        _hmt.push(['_setAutoTracking', false]);
       manage: |
+        // 用户在设置中修改时同步状态
         if (__consent.analytics) {
-          window.baiduTongji.enableTracking();
+          // 如果启用统计
+          if (typeof window._hmt === "undefined" || !window._hmt._loaded) {
+            window.loadBaiduTongji();
+          } else {
+            // 如果已加载则重新启用
+            _hmt.push(['_setAutoTracking', true]);
+          }
         } else {
-          window.baiduTongji.disableTracking();
+          // 如果禁用统计
+          if (window._hmt) {
+            _hmt.push(['_setAutoTracking', false]);
+          }
         }
 
 # Markdown扩展配置
