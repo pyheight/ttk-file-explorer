@@ -29,6 +29,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://pyheight.github.io/ttk-file-explorer/en/about/license/"/>
     </url>
     <url>
+        <loc>https://pyheight.github.io/ttk-file-explorer/about/privacy-policy/</loc>
+        <lastmod>2025-08-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pyheight.github.io/ttk-file-explorer/about/privacy-policy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pyheight.github.io/ttk-file-explorer/en/about/privacy-policy/"/>
+    </url>
+    <url>
         <loc>https://pyheight.github.io/ttk-file-explorer/about/project-overview/</loc>
         <lastmod>2025-08-11</lastmod>
         <changefreq>daily</changefreq>
@@ -125,6 +132,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://pyheight.github.io/ttk-file-explorer/en/about/license/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://pyheight.github.io/ttk-file-explorer/about/license/"/>
+    </url>
+    <url>
+        <loc>https://pyheight.github.io/ttk-file-explorer/en/about/privacy-policy/</loc>
+        <lastmod>2025-08-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pyheight.github.io/ttk-file-explorer/en/about/privacy-policy/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pyheight.github.io/ttk-file-explorer/about/privacy-policy/"/>
     </url>
     <url>
         <loc>https://pyheight.github.io/ttk-file-explorer/en/about/project-overview/</loc>
