@@ -31,17 +31,7 @@ theme:
     - content.code.copy 
     - content.code.select
     - search.suggest
-    - search.share  
-    # - header.autohide         
-    # - toc.integrate   
-    # - content.tabs.link    
-    # - navigation.tracking        
-    # - navigation.prune
-    # - navigation.expand
-    # - navigation.indexes  
-    # - navigation.instant
-    # - navigation.instant.prefetch
-    # - navigation.instant.progress
+    - search.share 
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -69,7 +59,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/extra.js
-  # - javascripts/baidu-tongji.js
+  - javascripts/baidu-tongji.js
   
 # 文档目录设置
 docs_dir: docs 
@@ -77,14 +67,6 @@ docs_dir: docs
 # 插件配置
 plugins:
   - search
-  # - mkdocstrings:
-  #     handlers:
-  #       python:
-  #         paths: [src]  # 指定Python源代码路径
-  #         show_root_full_path: true  # 显示根标题
-  #         options:
-  #           heading_level: 3  # 生成的标题级别
-  # - autorefs           # 自动交叉引用（自动链接类/函数等）
   - i18n:
      fallback_to_default: true
      docs_structure: suffix
@@ -122,6 +104,7 @@ plugins:
                - 贡献指南: community/contribution-guide.zh.md
            - 关于:
                - 项目介绍: about/project-overview.zh.md
+               - 隐私政策: about/privacy-policy.zh.md
                - 致谢: about/acknowledgments.zh.md 
                - 许可: about/license.zh.md
                - 作者: about/author.zh.md
@@ -157,6 +140,7 @@ plugins:
                - Contribution Guide: community/contribution-guide.en.md
            - About:
                - Project Overview: about/project-overview.en.md
+               - Privacy Policy: about/privacy-policy.en.md
                - Acknowledgments: about/acknowledgments.en.md 
                - License: about/license.en.md
                - Author: about/author.en.md
@@ -185,6 +169,42 @@ extra:
       link: /ttk-file-explorer/en/
       lang: en
   generator: false  # 隐藏"MkDocs"生成器标识
+  consent:
+    title: Cookie
+    description: >
+      本网站使用百度统计进行流量分析，可能收集您的IP和浏览行为。
+      详见<a href="https://pyheight.github.io/ttk-file-explorer/about/privacy-policy">隐私政策</a>。
+      <br>
+      This website uses Baidu statistics for traffic analysis and may collect your IP and browsing behavior.
+      For details, please see <a href="https://pyheight.github.io/ttk-file-explorer/en/about/privacy-policy">privacy policy</a>.
+    actions:
+      - accept
+      - manage
+      - reject
+    cookies:
+      analytics:
+        name: 百度统计
+        checked: true
+    hooks:
+      # 用户接受时：加载并启用统计
+      accept: |
+        if (__consent.analytics) {
+          window.baiduTongji.load();
+        } else {
+          window.baiduTongji.disableTracking();
+        }
+      
+      # 用户拒绝时：禁用统计
+      reject: |
+        window.baiduTongji.disableTracking();
+      
+      # 用户修改设置时：动态切换状态
+      manage: |
+        if (__consent.analytics) {
+          window.baiduTongji.enableTracking();
+        } else {
+          window.baiduTongji.disableTracking();
+        }
 
 # Markdown扩展配置
 markdown_extensions:
