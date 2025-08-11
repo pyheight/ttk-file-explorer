@@ -5,13 +5,15 @@
 
 ## :material-alert-circle-outline: Important Notice
 
-Before using this website, please read and understand this policy carefully. **Your consent to this policy is voluntary**, and you have the right to agree or disagree. **We will not collect your personal information without your explicit consent**.
+Before using this website, please carefully read and understand this policy. **Your consent to this policy is voluntary**, and you have the right to agree or disagree. **This website will not collect your personal information without your explicit consent**.
+
+This website uses Baidu Analytics (Baidu Tongji) service, which collects certain visit data for traffic analysis. **By continuing to access this site, you acknowledge and accept this data collection practice**.
 
 ## 1. :material-database-arrow-down-outline: Personal Information Processing Statement
 
 ### 1.1 Processing Purposes
 
-We process your personal information only for the following **explicit and legitimate purposes**:
+This website processes your personal information only for the following **explicit and legitimate purposes**:
 
 - :material-chart-bar: Analyze website usage
 
@@ -37,17 +39,13 @@ We process your personal information only for the following **explicit and legit
 
 ### 2.1 Baidu Analytics Service
 
-We use **Baidu Analytics** (**Baidu Tongji**) for data analysis.
+This website uses **Baidu Analytics** (**Baidu Tongji**) for traffic analysis.
 
-As a data processor, Baidu Analytics handles the following information according to the [Baidu Analytics Privacy Policy](https://tongji.baidu.com/web/help/article?id=330&type=0):
+1. Baidu will store relevant data as required by Chinese laws
 
-- Anonymized IP addresses
+2. Raw data is collected and processed by Baidu Analytics. We only receive aggregated statistical analysis data without personal identification
 
-- Cookie identifiers
-
-- Page visit paths
-
-- Basic device information
+3. Complete privacy terms for Baidu Analytics: [Baidu Analytics Privacy Policy](https://tongji.baidu.com/web/help/article?id=330&type=0)
 
 ### 2.2 Other Third-Party Services
 
@@ -65,9 +63,11 @@ As a data processor, Baidu Analytics handles the following information according
 
 ### 3.2 Your Control Rights
 
-You can **disable cookies through browser settings**, but this may limit functionality.
+You can **disable cookies through browser settings**, but this may limit functionality. **Specifically, disabling cookies will prevent Baidu Analytics from collecting your browsing data.**
 
-> [**:material-cog: Modify Cookie Settings Now**](#__consent)
+[**:material-cog: Modify Cookie Settings Now**](#__consent)
+
+> To re-consent to cookie usage, click the management settings button and select Baidu Analytics.
 
 ## 4. :material-account-key: Your Rights
 
@@ -81,11 +81,13 @@ Under the Personal Information Protection Law of China, you have:
 
 4. **:material-comment-question: Explanation Right**: Request clarification of processing rules
 
+> Since some data is collected directly by third-party services (e.g., Baidu Analytics), we may need to forward your requests to these parties or guide you to contact them directly when exercising these rights.
+
 ## 5. :material-alert: Children's Personal Information Protection
 
-**We explicitly declare**:
+**This website explicitly declares**:
 
-- This website **does not** knowingly collect children's personal information
+- We **do not** knowingly collect children's personal information
 
 - If accidentally collected, we will **immediately delete** it
 
