@@ -1,6 +1,6 @@
 # :material-shield-lock-outline: Privacy Policy
 
-**Last Updated: August 11, 2025**  
+**Last Updated: August 12, 2025**  
 **Effective Date: August 11, 2025**  
 
 ## :material-alert-circle-outline: Important Notice
