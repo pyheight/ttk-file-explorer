@@ -161,7 +161,7 @@ extra:
       - reject
     cookies:
       analytics:
-        name: 百度统计 (Baidu Analytics)
+        name: 百度统计（Baidu Analytics）
         checked: true
     hooks:
       accept: |
