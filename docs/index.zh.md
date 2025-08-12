@@ -3,6 +3,7 @@ hide:
   - navigation
   - toc
   - footer
+hide_actions: true
 ---
 
 <center markdown>
