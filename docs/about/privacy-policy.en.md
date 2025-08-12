@@ -83,20 +83,12 @@ Under the Personal Information Protection Law of China, you have:
 
 > Since some data is collected directly by third-party services (e.g., Baidu Analytics), we may need to forward your requests to these parties or guide you to contact them directly when exercising these rights.
 
-## 5. :material-alert: Children's Personal Information Protection
-
-**This website explicitly declares**:
-
-- We **do not** knowingly collect children's personal information
-
-- If accidentally collected, we will **immediately delete** it
-
-## 6. :material-update: Policy Updates
+## 5. :material-update: Policy Updates
 
 1. Major changes will be announced through **website notices**
 
 2. **Continued use after updates constitutes acceptance of the new policy**
 
-## 7. :material-email: Contact Us
+## 6. :material-email: Contact Us
 
 For privacy concerns, please contact: pyheight@qq.com
