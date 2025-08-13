@@ -14,20 +14,19 @@ Specifically, I enjoy exploring new technologies and turning ideas into practica
 </center>
 
 <p align="center">
-    <a href="https://github.com/pyheight">
+    <a href="https://github.com/pyheight" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-pyheight-black?style=social&logo=github" alt="GitHub pyheight">
     </a>
     <a href="mailto:pyheight@qq.com">
         <img src="https://img.shields.io/badge/Email-pyheight@qq.com-blue?style=social&logo=gmail" alt="Email pyheight@qq.com">
     </a>
-    <a href="https://www.zhihu.com/people/height-8">
+    <a href="https://www.zhihu.com/people/height-8" target="_blank">
         <img src="https://img.shields.io/badge/Zhihu-Home-blue?style=plastic&logo=zhihu" alt="Zhihu Home">
     </a>
-    <a href="https://blog.csdn.net/2302_82330415">
+    <a href="https://blog.csdn.net/2302_82330415" target="_blank">
         <img src="https://img.shields.io/badge/CSDN-Blog-orange?style=plastic&logo=blogger&logoColor=orange" alt="CSDN Blog">
     </a>
 </p>
 
 !!! tip "Tip"
 	Programming is not just technology, but the art of creation.
-

@@ -1,6 +1,6 @@
 # :material-shield-lock-outline: Privacy Policy
 
-**Last Updated: August 12, 2025**  
+**Last Updated: August 13, 2025**  
 **Effective Date: August 11, 2025**  
 
 ## :material-alert-circle-outline: Important Notice
@@ -45,7 +45,7 @@ This website uses **Baidu Analytics** (**Baidu Tongji**) for traffic analysis.
 
 2. Raw data is collected and processed by Baidu Analytics. We only receive aggregated statistical analysis data without personal identification
 
-3. Complete privacy terms for Baidu Analytics: [Baidu Analytics Privacy Policy](https://tongji.baidu.com/web/help/article?id=330&type=0)
+3. Complete privacy terms for Baidu Analytics: [Baidu Analytics Privacy Policy](https://tongji.baidu.com/web/help/article?id=330&type=0){ target="_blank" }
 
 ### 2.2 Other Third-Party Services
 

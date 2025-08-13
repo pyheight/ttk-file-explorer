@@ -14,7 +14,7 @@ Free and open source | Strictly prohibited to sell | Welcome to share
 Currently maintained by the author alone, requiring significant personal time and effort. Welcome to [contribute](../../community/contribution-guide/).
 
 - :material-star: **Support the Project**  
-Your support means a lot. Please give me a :material-star: **Star** on [Github](https://github.com/pyheight/ttk-file-explorer)!
+Your support means a lot. Please give me a :material-star: **Star** on [Github](https://github.com/pyheight/ttk-file-explorer){ target="_blank" }!
 
 </div>
 
@@ -24,9 +24,9 @@ Your support means a lot. Please give me a :material-star: **Star** on [Github](
 
 :octicons-download-24: **Current Latest Version:**  ![Latest Release](https://img.shields.io/github/v/release/pyheight/ttk-file-explorer?color=blue&style=for-the-badge)
 
-[ :material-github: Download from Github ](https://github.com/pyheight/ttk-file-explorer/releases/){ .md-button .md-button--primary }
-[ :material-folder-zip: Baidu Netdisk ](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F){ .md-button }
-[ :aliyunpan: Aliyun Drive ](https://www.aliyundrive.com/s/kooYQY65teA/){ .md-button }
+[ :material-github: Download from Github ](https://github.com/pyheight/ttk-file-explorer/releases/){ .md-button .md-button--primary target="_blank" }
+[ :material-folder-zip: Baidu Netdisk ](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F){ .md-button target="_blank" }
+[ :aliyunpan: Aliyun Drive ](https://www.aliyundrive.com/s/kooYQY65teA/){ .md-button target="_blank" }
 
 !!! warning "Security Notice"
     Secondary distribution of the software poses significant security risks. Please download only from official channels.

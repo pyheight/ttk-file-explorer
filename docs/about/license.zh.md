@@ -2,7 +2,7 @@
 
 ##  :material-github: 开源协议
 
-本项目根据 [Apache-2.0 license](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE) 获得许可。
+本项目根据 [Apache-2.0 license](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE){ target="_blank" } 获得许可。
 
 这意味着您可以：
 

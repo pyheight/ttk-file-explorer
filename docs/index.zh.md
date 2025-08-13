@@ -3,7 +3,7 @@ hide:
   - navigation
   - toc
   - footer
-hide_actions: true
+hide_actions: true 
 ---
 
 <center markdown>
@@ -11,14 +11,14 @@ hide_actions: true
 # :octicons-file-directory-open-fill-24: ttk File Explorer
 
 <div>  
-<a href="https://github.com/pyheight/ttk-file-explorer/stargazers"><img src="https://img.shields.io/github/stars/pyheight/ttk-file-explorer?style=social&logo=github" alt="GitHub Stars"></a>
-<a href="https://github.com/pyheight/ttk-file-explorer/network/members"><img src="https://img.shields.io/github/forks/pyheight/ttk-file-explorer?style=social&logo=github" alt="GitHub Forks"></a>
+<a href="https://github.com/pyheight/ttk-file-explorer/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/pyheight/ttk-file-explorer?style=social&logo=github" alt="GitHub Stars"></a>
+<a href="https://github.com/pyheight/ttk-file-explorer/network/members" target="_blank"><img src="https://img.shields.io/github/forks/pyheight/ttk-file-explorer?style=social&logo=github" alt="GitHub Forks"></a>
 <img src="https://img.shields.io/badge/Platform-Windows-blue.svg?style=social&logo=GitHub" alt="Windows">
 </div>  
 <div>  
-<a href="https://github.com/pyheight/ttk-file-explorer/releases"><img src="https://img.shields.io/github/v/release/pyheight/ttk-file-explorer?color=blue&style=flat-square" alt="Latest Release"></a>
-<a href="https://github.com/pyheight/ttk-file-explorer/commits/main"><img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer?style=flat-square" alt="Last Commit"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>
+<a href="https://github.com/pyheight/ttk-file-explorer/releases" target="_blank"><img src="https://img.shields.io/github/v/release/pyheight/ttk-file-explorer?color=blue&style=flat-square" alt="Latest Release"></a>
+<a href="https://github.com/pyheight/ttk-file-explorer/commits/main" target="_blank"><img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer?style=flat-square" alt="Last Commit"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield" target="_blank"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>
 </div>  
 
 <h3>一款开源的、轻量的 Windows 文件管理器，致力于 GUI 打造与应用实现。</h3>

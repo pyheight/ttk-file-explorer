@@ -2,7 +2,7 @@
 
 ## :material-account-group: 贡献者致谢
 
-<a href="https://github.com/pyheight/ttk-file-explorer/graphs/contributors">
+<a href="https://github.com/pyheight/ttk-file-explorer/graphs/contributors" target="_blank">
 <img src="https://contrib.rocks/image?repo=pyheight/ttk-file-explorer" alt="contributors-image shadow">
 </a>
 
@@ -15,19 +15,19 @@
 
 <div class="grid cards" markdown>
 
-- :octicons-link-16: [**tkinter**](https://docs.python.org/3/library/tkinter.html)  
+- :octicons-link-16: [**tkinter**](https://docs.python.org/3/library/tkinter.html){ target="_blank" }  
 Python 的标准 GUI 工具包，为项目提供基础 GUI 支持。
 
-- :octicons-link-16: [**ttkbootstrap**](https://github.com/israel-dryer/ttkbootstrap)  
+- :octicons-link-16: [**ttkbootstrap**](https://github.com/israel-dryer/ttkbootstrap){ target="_blank" }  
 tkinter 和 ttk 的现代风格扩展，带来美观的界面设计。
 
-- :octicons-link-16: [**winshell**](https://github.com/tjguk/winshell)  
+- :octicons-link-16: [**winshell**](https://github.com/tjguk/winshell){ target="_blank" }  
 简化 Windows 平台桌面管理任务。
 
-- :octicons-link-16: [**pystray**](https://github.com/moses-palmer/pystray)  
+- :octicons-link-16: [**pystray**](https://github.com/moses-palmer/pystray){ target="_blank" }  
 实现系统托盘功能。
 
-- :octicons-link-16: [**pyinstaller**](https://github.com/pyinstaller/pyinstaller)  
+- :octicons-link-16: [**pyinstaller**](https://github.com/pyinstaller/pyinstaller){ target="_blank" }  
 将 Python 项目打包成独立可执行文件。
 
 </div>
@@ -41,13 +41,13 @@ tkinter 和 ttk 的现代风格扩展，带来美观的界面设计。
 
 <div class="grid cards" markdown>
 
-- :octicons-link-16: [**Tk-Path-Finder**](https://github.com/domhnallmorr/Tk-Path-Finder)  
+- :octicons-link-16: [**Tk-Path-Finder**](https://github.com/domhnallmorr/Tk-Path-Finder){ target="_blank" }  
 带选项卡的 Windows 文件资源管理器，使用 ttkbootstrap 开发。
 
-- :octicons-link-16: [**biscuit**](https://github.com/tomlin7/biscuit)  
+- :octicons-link-16: [**biscuit**](https://github.com/tomlin7/biscuit){ target="_blank" }  
 快速、可扩展的本机 IDE（大小 < 20MB）。
 
-- :octicons-link-16: [**mkdocs-material**](https://github.com/squidfunk/mkdocs-material)  
+- :octicons-link-16: [**mkdocs-material**](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
 构建本网站的优雅文档框架。
 
 </div>
@@ -56,10 +56,10 @@ tkinter 和 ttk 的现代风格扩展，带来美观的界面设计。
 
 <div class="grid cards" markdown>
 
-- :octicons-link-16: [**Icons8**](https://icons8.com)  
+- :octicons-link-16: [**Icons8**](https://icons8.com){ target="_blank" }  
 提供精美图标资源。
 
-- :octicons-link-16: [**IconFont**](https://www.iconfont.cn)  
+- :octicons-link-16: [**IconFont**](https://www.iconfont.cn){ target="_blank" }  
 提供高质量的矢量图标。
 
 </div>

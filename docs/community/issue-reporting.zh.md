@@ -7,8 +7,8 @@
 
     **您可以选择以下任一方式反馈：**
 
-    [:material-github: GitHub Issues](https://github.com/pyheight/ttk-file-explorer/issues){ .md-button .md-button--primary }
-    [:material-forum: 发起讨论](https://github.com/pyheight/ttk-file-explorer/discussions){ .md-button }
+    [:material-github: GitHub Issues](https://github.com/pyheight/ttk-file-explorer/issues){ .md-button .md-button--primary target="_blank" }
+    [:material-forum: 发起讨论](https://github.com/pyheight/ttk-file-explorer/discussions){ .md-button target="_blank" }
     [:material-email: 电子邮件](mailto:pyheight@qq.com){ .md-button }
     [:material-comment: 在此评论反馈](#giscus-comments){ .md-button }
 
@@ -31,16 +31,16 @@
 
 | 报告类型 | 处理优先级 | 建议提交渠道 |
 |----------|------------|--------------|
-| :material-alert: **严重错误**<br><small>程序崩溃/数据丢失</small> | :material-star: :material-star: :material-star: :material-star: :material-star: | [:material-github: GitHub Issues](https://github.com/pyheight/ttk-file-explorer/issues) |
-| :material-feature-search: **功能请求**<br><small>新功能/改进建议</small> | :material-star: :material-star: :material-star: :material-star: | [:material-forum: 发起讨论](https://github.com/pyheight/ttk-file-explorer/discussions) 或 [:material-comment: 在此评论反馈](#giscus-comments)  |
-| :material-help-box: **使用问题**<br><small>配置/操作指导</small> | :material-star: :material-star: :material-star: | [:material-forum: 发起讨论](https://github.com/pyheight/ttk-file-explorer/discussions) 或 [:material-comment: 在此评论反馈](#giscus-comments) |
+| :material-alert: **严重错误**<br><small>程序崩溃/数据丢失</small> | :material-star: :material-star: :material-star: :material-star: :material-star: | [:material-github: GitHub Issues](https://github.com/pyheight/ttk-file-explorer/issues){ target="_blank" } |
+| :material-feature-search: **功能请求**<br><small>新功能/改进建议</small> | :material-star: :material-star: :material-star: :material-star: | [:material-forum: 发起讨论](https://github.com/pyheight/ttk-file-explorer/discussions){ target="_blank" } 或 [:material-comment: 在此评论反馈](#giscus-comments) |
+| :material-help-box: **使用问题**<br><small>配置/操作指导</small> | :material-star: :material-star: :material-star: | [:material-forum: 发起讨论](https://github.com/pyheight/ttk-file-explorer/discussions){ target="_blank" } 或 [:material-comment: 在此评论反馈](#giscus-comments) |
 
 !!! tip "提示"
     :material-clock: 我们会在收到报告后尽快处理，感谢您的耐心与支持！
 
 ## :material-check-all: 提交前检查
 
-- [x] 已搜索[现有问题](https://github.com/pyheight/ttk-file-explorer/issues)
+- [x] 已搜索[现有问题](https://github.com/pyheight/ttk-file-explorer/issues){ target="_blank" }
 - [x] 包含必要环境信息
 - [ ] 提供清晰的重现步骤
 

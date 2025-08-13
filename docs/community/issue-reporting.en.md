@@ -7,8 +7,8 @@
 
     **You can provide feedback through any of these methods:**
 
-    [:material-github: GitHub Issues](https://github.com/pyheight/ttk-file-explorer/issues){ .md-button .md-button--primary }
-    [:material-forum: Start Discussion](https://github.com/pyheight/ttk-file-explorer/discussions){ .md-button }
+    [:material-github: GitHub Issues](https://github.com/pyheight/ttk-file-explorer/issues){ .md-button .md-button--primary  target="_blank"}
+    [:material-forum: Start Discussion](https://github.com/pyheight/ttk-file-explorer/discussions){ .md-button  target="_blank"}
     [:material-email: Email](mailto:pyheight@qq.com){ .md-button }
     [:material-comment: Comment Here](#giscus-comments){ .md-button }
 
@@ -31,16 +31,16 @@
 
 | Report Type | Priority | Recommended Channel |
 |-------------|----------|---------------------|
-| :material-alert: **Critical Bug**<br><small>Crash/data loss</small> | :material-star: :material-star: :material-star: :material-star: :material-star: | [:material-github: GitHub Issues](https://github.com/pyheight/ttk-file-explorer/issues) |
-| :material-feature-search: **Feature Request**<br><small>New feature/improvement suggestion</small> | :material-star: :material-star: :material-star: :material-star: | [:material-forum: Start Discussion](https://github.com/pyheight/ttk-file-explorer/discussions) or [:material-comment: Comment Here](#giscus-comments)  |
-| :material-help-box: **Usage Question**<br><small>Configuration/operation guidance</small> | :material-star: :material-star: :material-star: | [:material-forum: Start Discussion](https://github.com/pyheight/ttk-file-explorer/discussions) or [:material-comment: Comment Here](#giscus-comments) |
+| :material-alert: **Critical Bug**<br><small>Crash/data loss</small> | :material-star: :material-star: :material-star: :material-star: :material-star: | [:material-github: GitHub Issues](https://github.com/pyheight/ttk-file-explorer/issues){ target="_blank" } |
+| :material-feature-search: **Feature Request**<br><small>New feature/improvement suggestion</small> | :material-star: :material-star: :material-star: :material-star: | [:material-forum: Start Discussion](https://github.com/pyheight/ttk-file-explorer/discussions){ target="_blank" } or [:material-comment: Comment Here](#giscus-comments) |
+| :material-help-box: **Usage Question**<br><small>Configuration/operation guidance</small> | :material-star: :material-star: :material-star: | [:material-forum: Start Discussion](https://github.com/pyheight/ttk-file-explorer/discussions){ target="_blank" } or [:material-comment: Comment Here](#giscus-comments) |
 
 !!! tip "Tip"
     :material-clock: We'll address reports as soon as possible. Thank you for your patience and support!
 
 ## :material-check-all: Pre-submission Checklist
 
-- [x] Searched [existing issues](https://github.com/pyheight/ttk-file-explorer/issues)
+- [x] Searched [existing issues](https://github.com/pyheight/ttk-file-explorer/issues){ target="_blank" }
 - [x] Included necessary environment information
 - [ ] Provided clear reproduction steps
 

@@ -2,7 +2,7 @@
 
 ## :material-account-group: Contributors Wall
 
-<a href="https://github.com/pyheight/ttk-file-explorer/graphs/contributors">
+<a href="https://github.com/pyheight/ttk-file-explorer/graphs/contributors" target="_blank">
 <img src="https://contrib.rocks/image?repo=pyheight/ttk-file-explorer" alt="contributors-image shadow">
 </a>
   
@@ -97,9 +97,9 @@ git push origin feature/your-feature-name
 
 ## :material-link: More References
 
-- :material-file-document: [Full Contribution Guide](https://github.com/pyheight/ttk-file-explorer/blob/main/CONTRIBUTING.md)
+- :material-file-document: [Full Contribution Guide](https://github.com/pyheight/ttk-file-explorer/blob/main/CONTRIBUTING.md){ target="_blank" }
 
-- :material-lightbulb: [Good First Issues](https://forgoodfirstissue.github.com)
+- :material-lightbulb: [Good First Issues](https://forgoodfirstissue.github.com){ target="_blank" }
 
 - :material-bug: [Submit Any Questions, Suggestions, or Ideas](../issue-reporting/)
 

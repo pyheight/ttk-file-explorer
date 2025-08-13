@@ -1,6 +1,6 @@
 # :material-shield-lock-outline: 隐私政策
 
-**最后更新日期：2025年8月12日**  
+**最后更新日期：2025年8月13日**  
 **生效日期：2025年8月11日**  
 
 ## :material-alert-circle-outline: 重要提示
@@ -45,7 +45,7 @@
 
 2. 原始数据由百度统计服务收集并处理，我们仅获取汇总后的统计分析数据，不涉及个人身份信息
 
-3. 百度统计的完整隐私条款见：[《百度统计隐私政策》](https://tongji.baidu.com/web/help/article?id=330&type=0)
+3. 百度统计的完整隐私条款见：[《百度统计隐私政策》](https://tongji.baidu.com/web/help/article?id=330&type=0){ target="_blank" }
 
 ### 2.2 其他第三方服务
 

@@ -36,7 +36,7 @@ graph LR
 |------|------|
 | :material-star-face: **Elegant Simplicity** | Modern interface built with ttkbootstrap, leaving behind traditional tkinter's dated appearance |
 | :material-lightning-bolt: **Lightweight Efficiency** | Extremely low resource consumption, runs smoothly even on older hardware |
-| :material-github: **Fully Open Source** | [Apache-2.0 license](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE) guarantees freedom to use and modify |
+| :material-github: **Fully Open Source** | [Apache-2.0 license](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE){ target="_blank" } guarantees freedom to use and modify |
 | :material-book-open: **Educational Value** | Programming enthusiasts can learn complete GUI development workflows from the source code |
 
 ## :material-alert: Current Limitations
