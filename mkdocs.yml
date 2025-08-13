@@ -76,7 +76,6 @@ plugins:
          default: true
          name: 简体中文
          build: true
-         link: /zh/
          nav:  # 中文导航
            - 主页: index.zh.md
            - 下载安装:
@@ -100,7 +99,6 @@ plugins:
        - locale: en
          name: English
          build: true
-         link: /en/
          nav:  # 英文导航
            - Home: index.en.md
            - Download & Install:
@@ -137,7 +135,7 @@ extra:
     - icon: fontawesome/brands/github  
       link: https://github.com/pyheight/ttk-file-explorer
     - icon: octicons/mail-24 
-      link: mailto:<pyheight@qq.com>
+      link: mailto:pyheight@qq.com
   alternate:  # 多语言切换链接（需配合 i18n 插件）
     - name: 简体中文  
       link: /ttk-file-explorer/  
@@ -201,7 +199,6 @@ markdown_extensions:
       alternate_style: true 
   - pymdownx.highlight:    # 代码高亮增强
       anchor_linenums: true # 为行号添加锚点
-      # line_spans: __span   # 行范围标记（用于高亮特定行）
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
