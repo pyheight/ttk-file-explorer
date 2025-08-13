@@ -53,30 +53,59 @@
 <div class="giscus"></div>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    const giscusContainer = document.querySelector('.giscus');
-    const observer = new IntersectionObserver((entries) => {
-      if (entries[0].isIntersecting) {
-        const script = document.createElement('script');
-        script.src = 'https://giscus.app/client.js';
-        script.setAttribute('data-repo', 'pyheight/ttk-file-explorer');
-        script.setAttribute('data-repo-id', 'R_kgDOKsdh1g');
-        script.setAttribute('data-category', 'General');
-        script.setAttribute('data-category-id', 'DIC_kwDOKsdh1s4CbYu7');
-        script.setAttribute('data-mapping', 'pathname');
-        script.setAttribute('data-strict', '0');
-        script.setAttribute('data-reactions-enabled', '1');
-        script.setAttribute('data-emit-metadata', '1');
-        script.setAttribute('data-input-position', 'top');
-        script.setAttribute('data-theme', 'dark_dimmed');
-        script.setAttribute('data-lang', 'en');
-        script.setAttribute('data-loading', 'lazy');
-        script.crossOrigin = 'anonymous';
-        script.async = true;
-        giscusContainer.appendChild(script);
-        observer.disconnect();
+    // 创建Giscus脚本元素
+    const giscusScript = document.createElement('script');
+    giscusScript.src = 'https://giscus.app/client.js';
+    giscusScript.setAttribute('data-repo', 'pyheight/ttk-file-explorer');
+    giscusScript.setAttribute('data-repo-id', 'R_kgDOKsdh1g');
+    giscusScript.setAttribute('data-category', 'General');
+    giscusScript.setAttribute('data-category-id', 'DIC_kwDOKsdh1s4CbYu7');
+    giscusScript.setAttribute('data-mapping', 'pathname');
+    giscusScript.setAttribute('data-strict', '0');
+    giscusScript.setAttribute('data-reactions-enabled', '1');
+    giscusScript.setAttribute('data-emit-metadata', '1');
+    giscusScript.setAttribute('data-input-position', 'top');
+    giscusScript.setAttribute('data-lang', 'en');
+    giscusScript.setAttribute('data-loading', 'lazy');
+    giscusScript.crossOrigin = 'anonymous';
+    giscusScript.async = true;
+    
+    // 获取当前主题
+    function getGiscusTheme() {
+      const palette = __md_get('__palette');
+      if (palette && typeof palette.color === 'object') {
+        // 深色模式使用 noborder_gray，浅色模式使用 noborder_light
+        return palette.color.scheme === 'slate' ? 'noborder_gray' : 'noborder_light';
       }
-    });
-    observer.observe(giscusContainer);
+      // 默认主题为 noborder_light
+      return 'noborder_light';
+    }
+    
+    // 初始设置主题
+    giscusScript.setAttribute('data-theme', getGiscusTheme());
+    
+    // 添加到页面
+    const giscusContainer = document.querySelector('.giscus');
+    giscusContainer.appendChild(giscusScript);
+    
+    // 监听主题切换事件
+    const paletteComponent = document.querySelector('[data-md-component="palette"]');
+    if (paletteComponent) {
+      paletteComponent.addEventListener('change', function() {
+        const newTheme = getGiscusTheme();
+        const giscusFrame = document.querySelector('.giscus-frame');
+        
+        if (giscusFrame) {
+          // 更新Giscus主题
+          giscusFrame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme: newTheme } } },
+            'https://giscus.app'
+          );
+        }
+      });
+    }
+    
+    // 锚点跳转处理
     if (window.location.hash === '#giscus-comments') {
       setTimeout(() => {
         giscusContainer.scrollIntoView({ behavior: 'smooth' });
