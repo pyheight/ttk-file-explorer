@@ -53,6 +53,12 @@ theme:
     code: Roboto Mono   # 代码字体
   static_templates:
     - 404.html
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
 
 extra_css:
   - stylesheets/extra.css
@@ -193,12 +199,13 @@ markdown_extensions:
   - attr_list
   - tables
   - md_in_html
+  - pymdownx.striphtml
   - toc:
       permalink: ⚓︎
   - pymdownx.tabbed:
       alternate_style: true 
-  - pymdownx.highlight:    # 代码高亮增强
-      anchor_linenums: true # 为行号添加锚点
+  - pymdownx.highlight:
+      anchor_linenums: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -206,8 +213,8 @@ markdown_extensions:
           format: !!python/name:mermaid2.fence_mermaid_custom
   - admonition     
   - pymdownx.details
-  - pymdownx.tasklist:     # 任务列表功能
-      custom_checkbox: true  # 使用自定义复选框样式
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.emoji:      
       emoji_index: !!python/name:material.extensions.emoji.twemoji  
       emoji_generator: !!python/name:material.extensions.emoji.to_svg  
