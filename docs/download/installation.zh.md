@@ -14,7 +14,7 @@
 目前由作者一人维护，需要大量私人时间与精力，欢迎[参与贡献](../../community/contribution-guide/)。
 
 - :material-star: **支持项目**  
-您的支持意义重大，请在 [Github](https://github.com/pyheight/ttk-file-explorer){ target="_blank" } 给我一个 :material-star: **Star** ！
+您的支持意义重大，请在 [GitHub](https://github.com/pyheight/ttk-file-explorer){ target="_blank" } 给我一个 :material-star: **Star** ！
 
 </div>
 
@@ -24,7 +24,7 @@
 
 :octicons-download-24: **当前最新版本：**  ![Latest Release](https://img.shields.io/github/v/release/pyheight/ttk-file-explorer?color=blue&style=for-the-badge)
 
-[ :material-github: Github下载 ](https://github.com/pyheight/ttk-file-explorer/releases/){ .md-button .md-button--primary target="_blank" }
+[ :material-github: GitHub下载 ](https://github.com/pyheight/ttk-file-explorer/releases/){ .md-button .md-button--primary target="_blank" }
 [ :material-folder-zip: 百度网盘 ](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F){ .md-button target="_blank" }
 [ :aliyunpan: 阿里云盘 ](https://www.aliyundrive.com/s/kooYQY65teA/){ .md-button target="_blank" }
 
@@ -52,6 +52,6 @@
 
 | 下载渠道 | 推荐度 | 速度 | 更新及时性 | 支持文件类型 | 备注 |
 |----------|--------|------|------------|-----------|------|
-| :material-github: Github | ★★★★★ | ★★★★ | 实时 | .exe，.zip，.tar.gz | 官方首选 |
+| :material-github: GitHub | ★★★★★ | ★★★★ | 实时 | .exe，.zip，.tar.gz | 官方首选 |
 | :material-folder-zip: 百度网盘 | ★★★☆☆ | ★★☆☆ | 延迟 | .exe，.zip | 需要登录 |
 | :aliyunpan: 阿里云盘 | ★★★★☆ | ★★★★ | 延迟 | .exe | 推荐备用 |
