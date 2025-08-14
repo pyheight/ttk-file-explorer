@@ -1,14 +1,24 @@
 # 站点基本信息配置
 site_name: ttk file explorer
 site_url: https://pyheight.github.io/ttk-file-explorer
-site_description: A lightweight file manager based on ttkbootstrap developed by personal interests.
 site_author: pyheight
+site_description: A lightweight file manager based on ttkbootstrap developed by personal interests.
 copyright: Copyright &copy; 2023 - 2025 pyheight
 
 # 仓库信息配置
 repo_url: https://github.com/pyheight/ttk-file-explorer
 repo_name: pyheight/ttk-file-explorer
 edit_uri: edit/main/docs/
+
+# 自定义样式
+extra_css:
+  - stylesheets/extra.css
+
+# 自定义响应
+extra_javascript:
+  - javascripts/extra.js
+  - javascripts/snowflakes.js
+  - javascripts/baidu-tongji.js
 
 # 主题配置
 theme:
@@ -17,6 +27,17 @@ theme:
   favicon: assets/images/favicon.ico
   logo: assets/images/favicon.png
   custom_dir: docs/overrides  # 主题覆盖目录
+  static_templates:
+    - 404.html
+  font: 
+    text: Ubuntu        # 正文字体
+    code: Roboto Mono   # 代码字体
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
   features:
     - announce
     - announce.dismiss
@@ -48,32 +69,110 @@ theme:
       accent: red
       toggle:
         icon: material/lightbulb
-  font: 
-    text: Ubuntu        # 正文字体
-    code: Roboto Mono   # 代码字体
-  static_templates:
-    - 404.html
-  icon:
-    previous: fontawesome/solid/angle-left
-    next: fontawesome/solid/angle-right
-    repo: fontawesome/brands/github
-    edit: material/pencil
-    view: material/eye
 
-extra_css:
-  - stylesheets/extra.css
+# Markdown扩展配置
+markdown_extensions:
+  - attr_list
+  - admonition       
+  - tables
+  - md_in_html
+  - pymdownx.details  
+  - pymdownx.striphtml
+  - toc:
+      permalink: ⚓︎
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.magiclink:    
+      repo_url_shorthand: true 
+      user: pyheight  
+      repo: ttk-file-explorer  
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
+  - pymdownx.emoji:      
+      emoji_index: !!python/name:material.extensions.emoji.twemoji  
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg  
+      options:
+        custom_icons:
+          - docs/overrides/.icons
 
-extra_javascript:
-  - javascripts/extra.js
-  - javascripts/snowflakes.js
-  - javascripts/baidu-tongji.js
-  
-# 文档目录设置
-docs_dir: docs 
+# 额外配置
+extra:
+  generator: false  # 隐藏"MkDocs"生成器标识  
+  alternate:  # 多语言切换链接（需配合i18n插件）
+    - name: 简体中文  
+      link: /ttk-file-explorer/  
+      lang: zh  
+    - name: English
+      link: /ttk-file-explorer/en/
+      lang: en  
+  social: 
+    - icon: fontawesome/brands/github  
+      link: https://github.com/pyheight/ttk-file-explorer
+    - icon: octicons/mail-24 
+      link: mailto:pyheight@qq.com
+  consent:
+    title: Cookie
+    description: |
+      <div id="consent-description-zh">
+        本网站使用百度统计进行流量分析，可能收集您的 IP 和浏览行为。<br>详见<a href="https://pyheight.github.io/ttk-file-explorer/about/privacy-policy">隐私政策</a>。
+      </div>
+      <div id="consent-description-en" style="display:none;">
+        This website uses Baidu statistics for traffic analysis and may collect your IP and browsing behavior.<br>For details, please see <a href="https://pyheight.github.io/ttk-file-explorer/en/about/privacy-policy">privacy policy</a>.
+      </div>
+    actions:
+      - accept
+      - manage
+      - reject
+    cookies:
+      analytics:
+        name: 百度统计（Baidu Analytics）
+        checked: true
+    hooks:
+      accept: |
+        // 用户点击"同意"时加载统计
+        if (__consent.analytics) {
+          window.loadBaiduTongji();
+        }
+      reject: |
+        // 用户点击"拒绝"时禁用统计
+        window._hmt = window._hmt || [];
+        _hmt.push(['_setAutoTracking', false]);
+      manage: |
+        // 用户在设置中修改时同步状态
+        if (__consent.analytics) {
+          // 如果启用统计
+          if (typeof window._hmt === "undefined" || !window._hmt._loaded) {
+            window.loadBaiduTongji();
+          } else {
+            // 如果已加载则重新启用
+            _hmt.push(['_setAutoTracking', true]);
+          }
+        } else {
+          // 如果禁用统计
+          if (window._hmt) {
+            _hmt.push(['_setAutoTracking', false]);
+          }
+        }
 
 # 插件配置
 plugins:
   - search
+  - git-revision-date-localized:
+      type: iso_date                                
+      enable_creation_date: true                       
+      fallback_to_build_date: true
+      exclude: 
+          - index.zh.md
+          - index.en.md
+      enabled: true 
+      strict: true
   - i18n:
      fallback_to_default: true
      docs_structure: suffix
@@ -125,103 +224,3 @@ plugins:
                - Acknowledgments: about/acknowledgments.en.md 
                - License: about/license.en.md
                - Author: about/author.en.md
-  - git-revision-date-localized:
-      type: iso_date                                
-      enable_creation_date: true                       
-      fallback_to_build_date: true
-      exclude: 
-          - index.zh.md
-          - index.en.md
-      enabled: true 
-      strict: true
-
-# 额外配置
-extra:
-  social: 
-    - icon: fontawesome/brands/github  
-      link: https://github.com/pyheight/ttk-file-explorer
-    - icon: octicons/mail-24 
-      link: mailto:pyheight@qq.com
-  alternate:  # 多语言切换链接（需配合 i18n 插件）
-    - name: 简体中文  
-      link: /ttk-file-explorer/  
-      lang: zh  
-    - name: English
-      link: /ttk-file-explorer/en/
-      lang: en
-  generator: false  # 隐藏"MkDocs"生成器标识
-  consent:
-    title: Cookie
-    description: |
-      <div id="consent-description-zh">
-        本网站使用百度统计进行流量分析，可能收集您的 IP 和浏览行为。<br>详见<a href="https://pyheight.github.io/ttk-file-explorer/about/privacy-policy">隐私政策</a>。
-      </div>
-      <div id="consent-description-en" style="display:none;">
-        This website uses Baidu statistics for traffic analysis and may collect your IP and browsing behavior.<br>For details, please see <a href="https://pyheight.github.io/ttk-file-explorer/en/about/privacy-policy">privacy policy</a>.
-      </div>
-    actions:
-      - accept
-      - manage
-      - reject
-    cookies:
-      analytics:
-        name: 百度统计（Baidu Analytics）
-        checked: true
-    hooks:
-      accept: |
-        // 用户点击"同意"时加载统计
-        if (__consent.analytics) {
-          window.loadBaiduTongji();
-        }
-      reject: |
-        // 用户点击"拒绝"时禁用统计
-        window._hmt = window._hmt || [];
-        _hmt.push(['_setAutoTracking', false]);
-      manage: |
-        // 用户在设置中修改时同步状态
-        if (__consent.analytics) {
-          // 如果启用统计
-          if (typeof window._hmt === "undefined" || !window._hmt._loaded) {
-            window.loadBaiduTongji();
-          } else {
-            // 如果已加载则重新启用
-            _hmt.push(['_setAutoTracking', true]);
-          }
-        } else {
-          // 如果禁用统计
-          if (window._hmt) {
-            _hmt.push(['_setAutoTracking', false]);
-          }
-        }
-
-# Markdown扩展配置
-markdown_extensions:
-  - attr_list
-  - tables
-  - md_in_html
-  - pymdownx.striphtml
-  - toc:
-      permalink: ⚓︎
-  - pymdownx.tabbed:
-      alternate_style: true 
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:mermaid2.fence_mermaid_custom
-  - admonition     
-  - pymdownx.details
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.emoji:      
-      emoji_index: !!python/name:material.extensions.emoji.twemoji  
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg  
-      options:
-        custom_icons:
-          - docs/overrides/.icons
-  - pymdownx.magiclink:    
-      repo_url_shorthand: true 
-      user: pyheight  
-      repo: ttk-file-explorer  
