@@ -32,13 +32,13 @@
 }
 
 /* === 链接颜色设置 === */
-/* 仅修改链接颜色，不影响按钮 */
-.md-typeset a:not(.md-button):not(.md-nav__link):not(.headerlink) {
+/* 修改选择器排除footer内的所有链接 */
+.md-typeset a:not(.md-button):not(.md-nav__link):not(.headerlink):not(.md-footer__link):not(footer a) {
   color: var(--md-typeset-a-color, var(--md-accent-fg-color));
 }
 
-.md-typeset a:not(.md-button):not(.md-nav__link):not(.headerlink):hover,
-.md-typeset a:not(.md-button):not(.md-nav__link):not(.headerlink):active,
+.md-typeset a:not(.md-button):not(.md-nav__link):not(.headerlink):not(.md-footer__link):not(footer a):hover,
+.md-typeset a:not(.md-button):not(.md-nav__link):not(.headerlink):not(.md-footer__link):not(footer a):active,
 .md-nav__link--active {
   color: var(--md-accent-fg-color) !important;
 }
