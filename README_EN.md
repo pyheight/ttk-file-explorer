@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/docs/assets/images/v1.0.0-beta/splash.png"  width="60%" alt=""></p>
+<p align="center"><img src="./docs/assets/images/v1.0.0-beta/splash.png"  width="60%" alt=""></p>
 
 <h3 align="center">📂 ttk file explorer</h3>
 
@@ -19,7 +19,7 @@
 
 ## ⚡ Introduction
 
-<img align="right" height="96px" src="https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/docs/assets/images/favicon.png" alt="" />
+<img align="right" height="96px" src="./docs/assets/images/favicon.png" alt="" />
 
 *ttk file explorer* is an open-source, lightweight *Windows* file manager dedicated to *GUI* development and application implementation.
 
@@ -41,7 +41,7 @@ Experience a clean interface built with *tkinter* syntax and *ttkbootstrap* styl
 
 | Light Theme | Dark Theme |
 | ---- | ---- | 
-| ![Light Theme](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/docs/assets/images/v1.0.0-beta/main-light.png) | ![Dark Theme](https://raw.githubusercontent.com/pyheight/ttk-file-explorer/main/docs/assets/images/v1.0.0-beta/main-dark.png) |
+| ![Light Theme](./docs/assets/images/v1.0.0-beta/main-light.png) | ![Dark Theme](./docs/assets/images/v1.0.0-beta/main-dark.png) |
 
 ## 🚀 Getting Started
 
