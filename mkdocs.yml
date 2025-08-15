@@ -2,7 +2,7 @@
 site_name: ttk file explorer
 site_url: https://pyheight.github.io/ttk-file-explorer
 site_author: pyheight
-site_description: A lightweight file manager based on ttkbootstrap developed by personal interests.
+site_description: Lightweight Windows File Explorer powered by ttkbootstrap (tkinter-based GUI with MkDocs documentation) | 基于 ttkbootstrap 的轻量级 Windows 文件管理器（tkinter 开发，集成 MkDocs 文档系统）
 copyright: <a href="#__consent">Cookie settings</a><br/>Copyright &copy; 2023 - 2025 <a href="https://github.com/pyheight" target="_blank">pyheight</a>
 
 # 仓库信息配置
