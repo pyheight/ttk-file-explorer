@@ -17,3 +17,68 @@
 </span>
 
 {% endblock %}
+
+{% block config %}
+  {{ super() }}
+  
+  {# 全局锚点控制脚本 #}
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      // 检查页面元数据
+      const metaHideAnchor = {{ 'true' if page and page.meta and page.meta.hide_anchor else 'false' }};
+      
+      if (metaHideAnchor) {
+        // 移除标题锚点
+        document.querySelectorAll('.headerlink').forEach(el => {
+          el.parentNode.removeChild(el);
+        });
+        
+        // 移除代码行锚点
+        document.querySelectorAll('.linenos a').forEach(el => {
+          el.removeAttribute('href');
+          el.style.cursor = 'default';
+          el.style.textDecoration = 'none';
+          el.style.color = 'inherit';
+        });
+        
+        // 禁用TOC目录锚点
+        const tocLinks = document.querySelectorAll('.md-nav__link[href^="#"]');
+        tocLinks.forEach(link => {
+          link.addEventListener('click', e => e.preventDefault());
+        });
+      }
+    });
+  </script>
+{% endblock %}
+
+{% block extrahead %}
+  {{ super() }}
+  
+  {# 特定页面锚点禁用样式 #}
+  {% if page and page.meta and page.meta.hide_anchor %}
+  <style>
+    :root {
+      --md-anchor-opacity: 0;
+      --md-anchor-transition: none;
+    }
+    
+    /* 隐藏标题锚点图标 */
+    .headerlink {
+      display: none !important;
+    }
+    
+    /* 禁用代码行锚点效果 */
+    .linenos a {
+      pointer-events: none;
+      cursor: default;
+      text-decoration: none;
+      color: inherit !important;
+    }
+    
+    /* 禁用目录链接 */
+    .md-nav__link[href^="#"] {
+      pointer-events: none;
+    }
+  </style>
+  {% endif %}
+{% endblock %}
