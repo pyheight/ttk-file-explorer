@@ -46,17 +46,22 @@ hide_actions: true
 
 ## :octicons-eye-24: Preview
 
-<figure>
-  <div style="float: left; width: 48%; text-align: center;">
-    <img src="../assets/images/v1.0.0-beta/main-light.png" alt="main-light" style="max-width: 100%;">
-    <figcaption>Light Theme</figcaption>
+<div class="image-comparison">
+  <div class="image-pair">
+    <div class="image-item">
+      <div class="image-frame">
+        <img src="../assets/images/v1.0.0-beta/main-light.png" alt="main-light">
+      </div>
+      <div class="image-caption">Light Theme</div>
+    </div>
+    <div class="image-item">
+      <div class="image-frame">
+        <img src="../assets/images/v1.0.0-beta/main-dark.png" alt="main-dark">
+      </div>
+      <div class="image-caption">Dark Theme</div>
+    </div>
   </div>
-  <div style="float: right; width: 48%; text-align: center;">
-    <img src="../assets/images/v1.0.0-beta/main-dark.png" alt="main-dark" style="max-width: 100%;">
-    <figcaption>Dark Theme</figcaption>
-  </div>
-  <div style="clear: both;"></div>
-</figure>
+</div>
 
 ## :material-star-shooting-outline: Core Advantages
 

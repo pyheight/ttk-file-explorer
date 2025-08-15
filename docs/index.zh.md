@@ -46,17 +46,22 @@ hide_actions: true
 
 ## :octicons-eye-24: 预览
 
-<figure>
-  <div style="float: left; width: 48%; text-align: center;">
-    <img src="assets/images/v1.0.0-beta/main-light.png" alt="main-light" style="max-width: 100%;">
-    <figcaption>浅色</figcaption>
+<div class="image-comparison">
+  <div class="image-pair">
+    <div class="image-item">
+      <div class="image-frame">
+        <img src="assets/images/v1.0.0-beta/main-light.png" alt="main-light">
+      </div>
+      <div class="image-caption">浅色主题</div>
+    </div>
+    <div class="image-item">
+      <div class="image-frame">
+        <img src="assets/images/v1.0.0-beta/main-dark.png" alt="main-dark">
+      </div>
+      <div class="image-caption">深色主题</div>
+    </div>
   </div>
-  <div style="float: right; width: 48%; text-align: center;">
-    <img src="assets/images/v1.0.0-beta/main-dark.png" alt="main-dark" style="max-width: 100%;">
-    <figcaption>深色</figcaption>
-  </div>
-  <div style="clear: both;"></div>
-</figure>
+</div>
 
 ## :material-star-shooting-outline: 核心优势
 
