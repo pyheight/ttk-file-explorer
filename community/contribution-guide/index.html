@@ -61,6 +61,11 @@
     
     
     
+  
+  
+  
+  
+
   </head>
   
   
@@ -1569,9 +1574,40 @@
       <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
     
     
+  
       
       <script id="__config" type="application/json">{"base": "../..", "features": ["announce", "announce.dismiss", "navigation.tabs", "navigation.tabs.sticky", "navigation.footer", "navigation.top", "toc.follow", "content.action.edit", "content.action.view", "content.code.annotate", "content.code.copy", "content.code.select", "search.suggest", "search.share"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
     
+  
+  
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      // 检查页面元数据
+      const metaHideAnchor = false;
+      
+      if (metaHideAnchor) {
+        // 移除标题锚点
+        document.querySelectorAll('.headerlink').forEach(el => {
+          el.parentNode.removeChild(el);
+        });
+        
+        // 移除代码行锚点
+        document.querySelectorAll('.linenos a').forEach(el => {
+          el.removeAttribute('href');
+          el.style.cursor = 'default';
+          el.style.textDecoration = 'none';
+          el.style.color = 'inherit';
+        });
+        
+        // 禁用TOC目录锚点
+        const tocLinks = document.querySelectorAll('.md-nav__link[href^="#"]');
+        tocLinks.forEach(link => {
+          link.addEventListener('click', e => e.preventDefault());
+        });
+      }
+    });
+  </script>
+
     
       <script src="../../assets/javascripts/bundle.50899def.min.js"></script>
       

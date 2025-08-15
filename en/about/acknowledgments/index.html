@@ -61,6 +61,11 @@
     
     
     
+  
+  
+  
+  
+
   </head>
   
   
@@ -1478,9 +1483,40 @@ Offers high-quality vector icons.</p>
       <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
     
     
+  
       
       <script id="__config" type="application/json">{"base": "../../..", "features": ["announce", "announce.dismiss", "navigation.tabs", "navigation.tabs.sticky", "navigation.footer", "navigation.top", "toc.follow", "content.action.edit", "content.action.view", "content.code.annotate", "content.code.copy", "content.code.select", "search.suggest", "search.share"], "search": "../../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
+  
+  
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      // 检查页面元数据
+      const metaHideAnchor = false;
+      
+      if (metaHideAnchor) {
+        // 移除标题锚点
+        document.querySelectorAll('.headerlink').forEach(el => {
+          el.parentNode.removeChild(el);
+        });
+        
+        // 移除代码行锚点
+        document.querySelectorAll('.linenos a').forEach(el => {
+          el.removeAttribute('href');
+          el.style.cursor = 'default';
+          el.style.textDecoration = 'none';
+          el.style.color = 'inherit';
+        });
+        
+        // 禁用TOC目录锚点
+        const tocLinks = document.querySelectorAll('.md-nav__link[href^="#"]');
+        tocLinks.forEach(link => {
+          link.addEventListener('click', e => e.preventDefault());
+        });
+      }
+    });
+  </script>
+
     
       <script src="../../../assets/javascripts/bundle.50899def.min.js"></script>
       
