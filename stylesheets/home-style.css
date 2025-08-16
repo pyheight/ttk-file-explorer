@@ -1,0 +1,188 @@
+
+/* === 图片对比布局 === */
+.image-comparison {
+  margin: 2rem 0;
+}
+
+.image-pair {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.image-item {
+  flex: 1;
+  min-width: 300px;
+  max-width: 48%;
+  display: flex;
+  flex-direction: column;
+}
+
+.image-frame {
+  background-color: var(--md-default-bg-color);
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+}
+
+/* 深色模式下的边框 */
+[data-md-color-scheme="slate"] .image-frame {
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.image-frame:hover {
+  transform: translateY(-3px);
+}
+
+.image-frame img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.image-caption {
+  padding: 0.8rem 0;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* 响应式设计 - 小屏幕单列布局 */
+@media (max-width: 767px) {
+  .image-pair {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .image-item {
+    min-width: 100%;
+    max-width: 100%;
+  }
+  
+  .image-caption {
+    padding: 0.6rem 0;
+  }
+}
+
+/* === 图表容器样式 === */
+.graphs-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  margin: 2rem 0;
+  gap: 1.5rem; /* 添加垂直间隙防止重叠 */
+}
+
+.graph-item {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  position: relative;
+}
+
+/* === 分割线样式 - 支持深色模式 === */
+/* 水平分割线 (默认显示) */
+.horizontal-divider {
+  width: 80%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(0,0,0,0.15), transparent);
+  display: block;
+  margin: 0.5rem 0;
+}
+
+/* 深色模式下的水平分割线 */
+[data-md-color-scheme="slate"] .horizontal-divider {
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.25), transparent);
+}
+
+/* 垂直分割线 (默认隐藏) */
+.vertical-divider {
+  display: none;
+  width: 1px;
+  background: linear-gradient(0deg, transparent, rgba(0,0,0,0.15), transparent);
+}
+
+/* 深色模式下的垂直分割线 */
+[data-md-color-scheme="slate"] .vertical-divider {
+  background: linear-gradient(0deg, transparent, rgba(255,255,255,0.25), transparent);
+}
+
+/* === 响应式布局 - 大屏幕 === */
+@media (min-width: 768px) {
+  .graphs-container {
+    flex-direction: row;
+    justify-content: center;
+    gap: 0; /* 重置间隙 */
+  }
+  
+  .graph-item {
+    width: 48%;
+    margin-bottom: 0;
+  }
+  
+  /* 隐藏水平分割线 */
+  .horizontal-divider {
+    display: none;
+  }
+  
+  /* 显示垂直分割线 */
+  .vertical-divider {
+    display: block;
+    height: 100%;
+    align-self: stretch;
+    margin: 0 1.5rem;
+  }
+}
+
+/* === 图表图片样式 === */
+.graphs-container img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  /* 移除了圆角效果 */
+  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background: white; /* 添加白色背景防止透明SVG重叠 */
+}
+
+/* 深色模式下的图片样式 */
+[data-md-color-scheme="slate"] .graphs-container img {
+  box-shadow: 0 3px 12px rgba(0,0,0,0.25);
+  background: rgba(30, 30, 30, 0.8); /* 深色背景 */
+}
+
+/* 图片悬停效果 */
+.graphs-container img:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+}
+
+/* 小屏幕下的图表间距优化 */
+@media (max-width: 767px) {
+  .graphs-container {
+    gap: 1rem; /* 增加垂直间隙 */
+  }
+  
+  .graph-item {
+    margin-bottom: 0rem; /* 底部间距防止重叠 */
+  }
+  
+  .graph-item:last-child {
+    margin-bottom: 0; /* 最后一个不需要底部间距 */
+  }
+  
+  .graphs-container img {
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1); /* 减小阴影强度 */
+  }
+}
+
+/* 移除所有圆角效果 */
+.graphs-container img,
+.graphs-container .graph-item,
+.graphs-container {
+  border-radius: 0 !important;
+}
