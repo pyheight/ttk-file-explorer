@@ -264,47 +264,6 @@
   will-change: transform, opacity; /* 优化动画性能 */
 }
 
-/* === 3D翻转动画 - 通知栏 === */
-@keyframes flipIn {
-  0% {
-    transform: rotateX(-90deg);
-    opacity: 0;
-  }
-  40% {
-    transform: rotateX(20deg);
-  }
-  70% {
-    transform: rotateX(-10deg);
-  }
-  100% {
-    transform: rotateX(0);
-    opacity: 1;
-  }
-}
-
-@keyframes flipOut {
-  0% {
-    transform: rotateX(0);
-    opacity: 1;
-  }
-  30% {
-    transform: rotateX(-20deg);
-  }
-  100% {
-    transform: rotateX(90deg);
-    opacity: 0;
-  }
-}
-
-.md-banner.flip-in {
-  animation: flipIn 0.8s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
-}
-
-.md-banner.flip-out {
-  animation: flipOut 0.6s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
-  pointer-events: none; /* 防止在动画期间交互 */
-}
-
 /* === 涟漪效果动画 === */
 @keyframes ripple {
   to {
