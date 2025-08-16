@@ -1,0 +1,37 @@
+/* 卡片圆角与悬浮阴影 */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .md-button,
+.md-typeset table:not([class]) {
+  border-radius: var(--base-border-radius);
+}
+.md-typeset .grid.cards > ul > li:hover {
+  box-shadow: var(--card-hover-shadow);
+}
+
+/* 页脚社交图标高度 */
+.md-social__link svg {
+  max-height: 1rem;
+}
+
+/* 搜索框及下拉结果圆角 */
+.md-search__form {
+  border-radius: var(--base-border-radius);
+}
+
+[data-md-toggle="search"]:checked ~ .md-header .md-search__form {
+  border-top-right-radius: var(--base-border-radius);
+  border-top-left-radius: var(--base-border-radius);
+}
+
+[dir="ltr"] .md-search__output {
+  border-bottom-right-radius: var(--base-border-radius);
+  border-bottom-left-radius: var(--base-border-radius);
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 1.5em;
+  box-shadow: 0 2px 12px 0 rgba(60,60,60,0.07);
+  transition: border-radius 0.4s cubic-bezier(.4,2,.6,1), box-shadow 0.3s;
+  overflow: hidden;
+}

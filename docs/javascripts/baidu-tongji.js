@@ -33,7 +33,6 @@ document$.subscribe(function() {
   }
 });
 
-
 // 监听语言切换事件
 document$.subscribe(function() {
   // 获取当前语言

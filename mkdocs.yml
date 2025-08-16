@@ -13,11 +13,14 @@ edit_uri: edit/main/docs/
 # 自定义样式
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/rounded-corners.css
+  - stylesheets/home-style.css
 
 # 自定义响应
 extra_javascript:
   - javascripts/extra.js
   - javascripts/snowflakes.js
+  - javascripts/home-style.css
   - javascripts/baidu-tongji.js
 
 # 主题配置
