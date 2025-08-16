@@ -163,6 +163,29 @@
   opacity: 1;
 }
 
+/* 新增：导航栏显示时的动画状态 */
+.nav-container:not(.nav-container--hidden) .md-tabs__item {
+  animation: tabAppear 0.7s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+/* 新增：导航栏隐藏时的状态 */
+.nav-container--hidden .md-tabs__item {
+  animation: none !important;
+  transform: translateX(-50px);
+  opacity: 0;
+}
+
+@keyframes tabAppear {
+  from {
+    transform: translateX(-50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
 /* 创建悬停上浮效果 - 使用伪元素避免布局变化 */
 .md-tabs__item::before {
   content: "";
