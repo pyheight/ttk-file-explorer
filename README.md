@@ -3,7 +3,7 @@
 <h3 align="center">📂 ttk file explorer</h3>
 
 <p align="center">
-<a href="https://pyheight.github.io/ttk-file-explorer/" target="_blank">官网文档</a> | 简体中文 | <a href="README_EN.md">English</a>
+<a href="https://pyheight.github.io/ttk-file-explorer/" target="_blank">官网文档</a> | <a href="https://zread.ai/pyheight/ttk-file-explorer" target="_blank">AI 解读</a> | 简体中文 | <a href="README_EN.md">English</a>
 </p>
 
 <div align="center">  

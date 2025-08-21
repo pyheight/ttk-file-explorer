@@ -116,11 +116,16 @@ extra:
     - name: English
       link: /ttk-file-explorer/en/
       lang: en  
-  social: 
-    - icon: fontawesome/brands/github  
+  social:
+    - icon: fontawesome/brands/github
       link: https://github.com/pyheight/ttk-file-explorer
+      name: View on GitHub
+    - icon: octicons/ai-model-24
+      link: https://zread.ai/pyheight/ttk-file-explorer
+      name: Learn about this project on Zread.ai
     - icon: octicons/mail-24 
       link: mailto:pyheight@qq.com
+      name: Contact author via email
   consent:
     title: Cookie
     description: |
@@ -182,6 +187,8 @@ plugins:
                - 系统要求: download/system-requirements.zh.md
                - 安装指南: download/installation.zh.md
                - 从源代码构建: download/building-from-source.zh.md
+           - API 参考:
+              link: https://zread.ai/pyheight/ttk-file-explorer
            - 开发日志:
                - 更新记录: development/changelog.zh.md
                - 里程碑: development/milestones.zh.md
@@ -205,6 +212,8 @@ plugins:
                - System Requirements: download/system-requirements.en.md
                - Installation Guide: download/installation.en.md
                - Building from Source: download/building-from-source.en.md
+           - API Reference:
+              link: https://zread.ai/pyheight/ttk-file-explorer
            - Development Log:
                - Changelog: development/changelog.en.md
                - Milestones: development/milestones.en.md
