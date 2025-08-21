@@ -12,17 +12,17 @@ edit_uri: edit/main/docs/
 
 # 自定义样式
 extra_css:
-  - stylesheets/extra.css
-  - stylesheets/rounded-corners.css
-  - stylesheets/home-style.css
+  - assets/stylesheets/extra.css
+  - assets/stylesheets/rounded-corners.css
+  - assets/stylesheets/home-style.css
 
 # 自定义响应
 extra_javascript:
-  - javascripts/extra.js
-  - javascripts/snowflakes.js
-  - javascripts/uptime.js
-  - javascripts/home-style.js
-  - javascripts/baidu-tongji.js
+  - assets/javascripts/extra.js
+  - assets/javascripts/snowflakes.js
+  - assets/javascripts/uptime.js
+  - assets/javascripts/home-style.js
+  - assets/javascripts/baidu-tongji.js
 
 # 主题配置
 theme:
@@ -30,7 +30,7 @@ theme:
   language: zh
   favicon: assets/images/favicon.ico
   logo: assets/images/favicon.png
-  custom_dir: docs/overrides  # 主题覆盖目录
+  custom_dir: overrides  # 主题覆盖目录
   static_templates:
     - 404.html
   font: 

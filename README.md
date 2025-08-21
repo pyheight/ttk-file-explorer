@@ -1,4 +1,4 @@
-<p align="center"><img src="./docs/assets/images/v1.0.0-beta/splash.png"  width="60%" alt=""></p>
+<p align="center"><img src="./overrides/assets/images/v1.0.0-beta/splash.png"  width="60%" alt=""></p>
 
 <h3 align="center">📂 ttk file explorer</h3>
 
@@ -19,7 +19,7 @@
 
 ## ⚡ 介绍
 
-<img align="right" height="96px" src="./docs/assets/images/favicon.png" alt="" />
+<img align="right" height="96px" src="./overrides/assets/images/favicon.png" alt="" />
 
 *ttk file explorer* 是一款开源的、轻量的 *Windows* 文件管理器，致力于 *GUI* 打造与应用实现。
 
@@ -41,7 +41,7 @@
 
 | 浅色 | 深色 |
 | ---- | ---- | 
-| ![Light Theme](./docs/assets/images/v1.0.0-beta/main-light.png) | ![Dark Theme](./docs/assets/images/v1.0.0-beta/main-dark.png) |
+| ![Light Theme](./overrides/assets/images/v1.0.0-beta/main-light.png) | ![Dark Theme](./overrides/assets/images/v1.0.0-beta/main-dark.png) |
 
 ## 🚀 开始
 
