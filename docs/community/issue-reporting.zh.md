@@ -48,7 +48,7 @@
 
 ## :material-comment: <span id="giscus-comments">在此评论反馈</span> { #giscus-comments }
 
-<small>您可以直接在此页面提交问题反馈或建议</small>
+<small>您可以直接在此页面提交反馈或建议</small>
 
 <div class="giscus"></div>
 <script>
@@ -113,3 +113,4 @@
     }
   });
 </script>
+
