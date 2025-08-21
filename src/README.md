@@ -1,5 +1,8 @@
 # README
 
+> [!TIP]
+> Although there is no detailed documentation in the code, you can learn about the code guidelines <a href="https://zread.ai/pyheight/ttk-file-explorer" target="_blank"><b>Zread.ai</b></a>.
+
 ## Overview
 
 Due to the urgency of the current development schedule, no exhaustive comments are added to the source code except for necessary notes in key locations. It is planned to gradually refine the comments in subsequent development to improve the readability of the code.
@@ -42,3 +45,4 @@ This project is licensed under the [Apache License, Version 2.0](http://www.apac
 This means that you are free to use, modify, distribute, and sublicense the project, subject to the Apache License.
 
 THE DETAILED TERMS AND CONDITIONS OF THE LICENSE CAN BE FOUND IN THE `LICENSE` FILE IN THE PROJECT. At the same time, a brief description of the license is included in the `main.py` document.
+
