@@ -3,8 +3,8 @@
 <h3 align="center">📂 ttk file explorer</h3>
 
 <p align="center">
-  <a href="https://pyheight.github.io/ttk-file-explorer/" target="_blank"><b>Official Docs</b></a> &nbsp;|&nbsp;
-  <a href="https://zread.ai/gh/pyheight/ttk-file-explorer" target="_blank"><b>AI Interpretation</b></a> &nbsp;|&nbsp;
+  <a href="https://pyheight.github.io/ttk-file-explorer/en/" target="_blank"><b>Official Docs</b></a> &nbsp;|&nbsp;
+  <a href="https://zread.ai/pyheight/ttk-file-explorer/" target="_blank"><b>AI Interpretation</b></a> &nbsp;|&nbsp;
   <a href="README.md"><b>简体中文</b></a> &nbsp;|&nbsp;
   <span><b>English</b></span>
 </p>
