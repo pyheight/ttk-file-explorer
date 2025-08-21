@@ -127,7 +127,7 @@ extra:
       link: mailto:pyheight@qq.com
       name: Contact author via email
   consent:
-    title: Cookie
+    title: Cookie settings
     description: |
       <div id="consent-description-zh">
         本网站使用百度统计进行流量分析，可能收集您的 IP 和浏览行为。<br>详见<a href="https://pyheight.github.io/ttk-file-explorer/about/privacy-policy">隐私政策</a>。
@@ -188,7 +188,7 @@ plugins:
                - 安装指南: download/installation.zh.md
                - 从源代码构建: download/building-from-source.zh.md
            - API 参考:
-              link: https://zread.ai/pyheight/ttk-file-explorer
+              link: https://zread.ai/pyheight/ttk-file-explorer/17-api-reference
            - 开发日志:
                - 更新记录: development/changelog.zh.md
                - 里程碑: development/milestones.zh.md
@@ -213,7 +213,7 @@ plugins:
                - Installation Guide: download/installation.en.md
                - Building from Source: download/building-from-source.en.md
            - API Reference:
-              link: https://zread.ai/pyheight/ttk-file-explorer
+              link: https://zread.ai/pyheight/ttk-file-explorer/17-api-reference
            - Development Log:
                - Changelog: development/changelog.en.md
                - Milestones: development/milestones.en.md
@@ -237,4 +237,5 @@ plugins:
           - index.en.md
       enabled: true 
       strict: true
+
 
