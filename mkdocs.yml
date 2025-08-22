@@ -236,6 +236,3 @@ plugins:
           - index.en.md
       enabled: true 
       strict: true
-
-
-
