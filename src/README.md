@@ -36,7 +36,7 @@ The following is an example command:
 
 All icons used in this software are from [Icons8](https://icons8.com/). 
 
-This project would like to express our heartfelt gratitude to Icons8 for providing high-quality icon resources.
+This software would like to express our heartfelt gratitude to Icons8 for providing high-quality icon resources.
 
 ## License  
   
@@ -45,3 +45,4 @@ This project is licensed under the [Apache License, Version 2.0](http://www.apac
 This means that you are free to use, modify, distribute, and sublicense the project, subject to the Apache License.
 
 THE DETAILED TERMS AND CONDITIONS OF THE LICENSE CAN BE FOUND IN THE `LICENSE` FILE IN THE PROJECT. At the same time, a brief description of the license is included in the `main.py` document.
+
