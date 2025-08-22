@@ -20,7 +20,7 @@ Thank you for your understanding and support! Your feedback and suggestions will
 - **MVC Pattern**: The project follows the MVC (Model-View-Controller) architecture, which implements loose coupling between modules, and improves the maintainability and extensibility of the code.
 - **Core Methods**: The model/config_loader.py module contains a number of key methods, such as `get_text`, `get_image`, `get_key`, and `get_tip`, etc., which provide necessary data support for the operation of the project.
 
-## Running Instructions
+## Running Example
 
 The following is an example command:
 
@@ -45,5 +45,6 @@ This project is licensed under the [Apache License, Version 2.0](http://www.apac
 This means that you are free to use, modify, distribute, and sublicense the project, subject to the Apache License.
 
 THE DETAILED TERMS AND CONDITIONS OF THE LICENSE CAN BE FOUND IN THE `LICENSE` FILE IN THE PROJECT. At the same time, a brief description of the license is included in the `main.py` document.
+
 
 
