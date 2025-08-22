@@ -4,7 +4,7 @@
 
 本项目根据 [Apache-2.0 license](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE){ target="_blank" } 获得许可。
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_large){ target="_blank" }
 
 这意味着您可以：
 
