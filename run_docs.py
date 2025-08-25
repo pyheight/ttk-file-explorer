@@ -34,7 +34,7 @@ class MkDocsManager:
                 webbrowser.open(url)
             
         except FileNotFoundError:
-            print("\n未找到 MkDocs，请先安装: pip install -r requirements_docs.txt")
+            print("\n未找到 MkDocs，请先安装: pip install -r docs/requirements.txt")
         except Exception as e:
             print(f"\n意外错误: {str(e)}")
 
