@@ -21,7 +21,7 @@ This is the [author](../author/)'s first substantial project.
 
     ---
 
-    Stable and reliable documentation site serving as the primary platform
+    Stable and reliable documentation site, which may load slowly
 
 -   :material-book-open-page-variant: [Backup Documentation Site](https://pyheight.github.io/ttk-file-explorer/en/)
 
@@ -93,5 +93,6 @@ Not intended to fully replace system file managers; positioned as a development 
 
 !!! tip "Tip"
 	Every great project begins with a simple idea and unwavering determination. Let's explore more possibilities together!
+
 
 
