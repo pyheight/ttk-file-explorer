@@ -11,25 +11,25 @@ This is the [author](../author/)'s first substantial project.
 
 <div class="grid cards" markdown>
 
--   :material-github: [GitHub Repository](https://github.com/pyheight/ttk-file-explorer){ target="_blank" }
+-   :material-github: [**GitHub Repository**](https://github.com/pyheight/ttk-file-explorer){ target="_blank" }
 
     ---
 
     Access the latest source code, submit issues, and participate in development
 
--   :material-book-open-variant: [Main Documentation Site (Recommended)](https://ttk-file-explorer.readthedocs.io/en/)
+-   :material-book-open-variant: [**Main Documentation Site (Recommended)**](https://ttk-file-explorer.readthedocs.io/en/)
 
     ---
 
     Stable and reliable documentation site, which may load slowly
 
--   :material-book-open-page-variant: [Backup Documentation Site](https://pyheight.github.io/ttk-file-explorer/en/)
+-   :material-book-open-page-variant: [**Backup Documentation Site**](https://pyheight.github.io/ttk-file-explorer/en/)
 
     ---
 
     GitHub Pages mirror site, access may be limited
 
--   :material-toolbox: [Website Framework](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
+-   :material-toolbox: [**Website Framework**](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
 
     ---
 
@@ -93,6 +93,7 @@ Not intended to fully replace system file managers; positioned as a development 
 
 !!! tip "Tip"
 	Every great project begins with a simple idea and unwavering determination. Let's explore more possibilities together!
+
 
 
 
