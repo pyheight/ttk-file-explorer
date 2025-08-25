@@ -1,0 +1,5 @@
+mkdocs
+mkdocs-material
+mkdocs-git-revision-date-localized-plugin
+mkdocs-static-i18n
+mkdocs-mermaid2-plugin
