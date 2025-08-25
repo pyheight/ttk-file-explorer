@@ -93,9 +93,3 @@ Not intended to fully replace system file managers; positioned as a development 
 
 !!! tip "Tip"
 	Every great project begins with a simple idea and unwavering determination. Let's explore more possibilities together!
-
-
-
-
-
-
