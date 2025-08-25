@@ -31,5 +31,5 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material mkdocs-static-i18n mkdocs-mermaid2-plugin mkdocs-git-revision-date-localized-plugin 
+      - run: pip install ../../docs/requirements.txt
       - run: mkdocs gh-deploy --force
