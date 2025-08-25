@@ -17,13 +17,13 @@
 
     获取最新源代码、提交问题和参与开发
 
--   :material-book-open-variant: [主文档站点 (推荐)](https://ttk-file-explorer.readthedocs.io/){ target="_blank" }
+-   :material-book-open-variant: [主文档站点 (推荐)](https://ttk-file-explorer.readthedocs.io/)
 
     ---
 
     稳定可靠的文档站点，作为主站点
 
--   :material-book-open-page-variant: [备用文档站点](https://pyheight.github.io/ttk-file-explorer/){ target="_blank" }
+-   :material-book-open-page-variant: [备用文档站点](https://pyheight.github.io/ttk-file-explorer/)
 
     ---
 

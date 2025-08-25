@@ -17,13 +17,13 @@ This is the [author](../author/)'s first substantial project.
 
     Access the latest source code, submit issues, and participate in development
 
--   :material-book-open-variant: [Main Documentation Site (Recommended)](https://ttk-file-explorer.readthedocs.io/en/){ target="_blank" }
+-   :material-book-open-variant: [Main Documentation Site (Recommended)](https://ttk-file-explorer.readthedocs.io/en/)
 
     ---
 
     Stable and reliable documentation site serving as the primary platform
 
--   :material-book-open-page-variant: [Backup Documentation Site](https://pyheight.github.io/ttk-file-explorer/en/){ target="_blank" }
+-   :material-book-open-page-variant: [Backup Documentation Site](https://pyheight.github.io/ttk-file-explorer/en/)
 
     ---
 
