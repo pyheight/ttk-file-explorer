@@ -7,6 +7,39 @@ This is the [author](../author/)'s first substantial project.
 !!! info "Suggestion"
 	**Building a solid foundation is crucial** - precisely because most people are unwilling to do it, it becomes especially valuable.
 
+## :material-web: Official Website
+
+<div class="grid cards" markdown>
+
+-   :material-github: [GitHub Repository](https://github.com/pyheight/ttk-file-explorer){ target="_blank" }
+
+    ---
+
+    Access the latest source code, submit issues, and participate in development
+
+-   :material-book-open-variant: [Main Documentation Site (Recommended)](https://ttk-file-explorer.readthedocs.io/en/){ target="_blank" }
+
+    ---
+
+    Stable and reliable documentation site serving as the primary platform
+
+-   :material-book-open-page-variant: [Backup Documentation Site](https://pyheight.github.io/ttk-file-explorer/en/){ target="_blank" }
+
+    ---
+
+    GitHub Pages mirror site, access may be limited in some regions
+
+-   :material-toolbox: [Website Framework Source](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
+
+    ---
+
+    This website is built using MkDocs Material
+
+</div>
+
+!!! tip "Note"
+    Both documentation sites are completely synchronized and hosted on [GitHub](https://github.com/pyheight/ttk-file-explorer/tree/main/docs){ target="_blank" }, receiving real-time updates.
+
 ## :material-lightbulb-on: Project Philosophy
 
 !!! quote "Why develop a file manager?"

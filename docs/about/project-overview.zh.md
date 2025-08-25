@@ -7,6 +7,39 @@
 !!! info "建议"
 	**打好基础至关重要**——正因为大多数人不愿去做，它才显得尤为珍贵。
 
+## :material-web: 官方网站
+
+<div class="grid cards" markdown>
+
+-   :material-github: [GitHub 仓库](https://github.com/pyheight/ttk-file-explorer){ target="_blank" }
+
+    ---
+
+    获取最新源代码、提交问题和参与开发
+
+-   :material-book-open-variant: [主文档站点 (推荐)](https://ttk-file-explorer.readthedocs.io/){ target="_blank" }
+
+    ---
+
+    稳定可靠的文档站点，作为主站点
+
+-   :material-book-open-page-variant: [备用文档站点](https://pyheight.github.io/ttk-file-explorer/){ target="_blank" }
+
+    ---
+
+    GitHub Pages 镜像站点，访问可能受限
+
+-   :material-toolbox: [网站框架来源](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
+
+    ---
+
+    本网站基于 MkDocs Material 制作
+
+</div>
+
+!!! tip "提示"
+    两个文档站点内容完全同步，均托管在 [GitHub](https://github.com/pyheight/ttk-file-explorer/tree/main/docs){ target="_blank" } 上，接受实时更新。
+
 ## :material-lightbulb-on: 项目理念
 
 !!! quote "为什么开发文件管理器？"
