@@ -12,5 +12,4 @@ mkdocs:
 python:
   install:
     - method: pip
-      path: .
-      requirements: docs/requirements.txt  # 确保路径正确
+    - requirements: docs/requirements.txt  # 确保路径正确
