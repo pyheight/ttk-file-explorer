@@ -21,7 +21,7 @@
 
     ---
 
-    稳定可靠的文档站点，作为主站点
+    稳定可靠的文档站点，加载可能较慢
 
 -   :material-book-open-page-variant: [备用文档站点](https://pyheight.github.io/ttk-file-explorer/)
 
@@ -94,3 +94,4 @@ graph LR
 
 !!! tip "提示"
 	每个伟大的项目都始于一个简单的想法和坚定的决心。让我们一起探索更多可能！
+
