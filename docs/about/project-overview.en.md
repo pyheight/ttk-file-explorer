@@ -29,7 +29,7 @@ This is the [author](../author/)'s first substantial project.
 
     GitHub Pages mirror site, access may be limited
 
--   :material-toolbox: [Website Framework Source](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
+-   :material-toolbox: [Website Framework](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
 
     ---
 
@@ -93,6 +93,7 @@ Not intended to fully replace system file managers; positioned as a development 
 
 !!! tip "Tip"
 	Every great project begins with a simple idea and unwavering determination. Let's explore more possibilities together!
+
 
 
 
