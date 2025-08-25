@@ -11,25 +11,25 @@
 
 <div class="grid cards" markdown>
 
--   :material-github: [GitHub 仓库](https://github.com/pyheight/ttk-file-explorer){ target="_blank" }
+-   :material-github: [**GitHub 仓库**](https://github.com/pyheight/ttk-file-explorer){ target="_blank" }
 
     ---
 
     获取最新源代码、提交问题和参与开发
 
--   :material-book-open-variant: [主文档站点 (推荐)](https://ttk-file-explorer.readthedocs.io/)
+-   :material-book-open-variant: [**主文档站点 (推荐)**](https://ttk-file-explorer.readthedocs.io/)
 
     ---
 
     稳定可靠的文档站点，加载可能较慢
 
--   :material-book-open-page-variant: [备用文档站点](https://pyheight.github.io/ttk-file-explorer/)
+-   :material-book-open-page-variant: [**备用文档站点**](https://pyheight.github.io/ttk-file-explorer/)
 
     ---
 
     GitHub Pages 镜像站点，访问可能受限
 
--   :material-toolbox: [网站框架](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
+-   :material-toolbox: [**网站框架**](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
 
     ---
 
@@ -94,5 +94,3 @@ graph LR
 
 !!! tip "提示"
 	每个伟大的项目都始于一个简单的想法和坚定的决心。让我们一起探索更多可能！
-
-
