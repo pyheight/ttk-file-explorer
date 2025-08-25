@@ -33,7 +33,7 @@ This is the [author](../author/)'s first substantial project.
 
     ---
 
-    This website is built using MkDocs Material
+    This website is built with MkDocs Material
 
 </div>
 
@@ -93,4 +93,5 @@ Not intended to fully replace system file managers; positioned as a development 
 
 !!! tip "Tip"
 	Every great project begins with a simple idea and unwavering determination. Let's explore more possibilities together!
+
 
