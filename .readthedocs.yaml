@@ -6,7 +6,7 @@ build:
     python: "3.8"
 
 mkdocs:
-  configuration: mkdocs.yml
+  configuration: .readthedocs.mkdocs.yaml
   fail_on_warning: false
 
 python:

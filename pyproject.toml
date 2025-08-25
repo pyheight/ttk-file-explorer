@@ -47,7 +47,8 @@ keywords = [
 
 [project.urls]
 Homepage = "https://github.com/pyheight/ttk-file-explorer"
-Documentation = "https://pyheight.github.io/ttk-file-explorer/"
+Documentation = "https://ttk-file-explorer.readthedocs.io/"
+"GitHub Pages" = "https://pyheight.github.io/ttk-file-explorer/"
 
 [tool.setuptools.packages.find]
 where = ["src"]

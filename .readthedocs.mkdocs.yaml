@@ -1,0 +1,238 @@
+# 站点基本信息配置
+site_name: ttk file explorer
+site_url: https://ttk-file-explorer.readthedocs.io/
+site_author: pyheight
+site_description: Lightweight Windows File Explorer powered by ttkbootstrap (tkinter-based GUI with MkDocs documentation) | ttkbootstrap 开发的轻量级 Windows 文件管理器（基于 tkinter，集成 MkDocs 文档系统）
+copyright: <a href="#__consent">Cookie settings</a> | Uptime <span id="site-runtime">0d 0h 0m 0s</span><br>Copyright &copy; 2023 - 2025 <a href="https://github.com/pyheight" target="_blank">pyheight</a>
+
+# 仓库信息配置
+repo_url: https://github.com/pyheight/ttk-file-explorer
+repo_name: pyheight/ttk-file-explorer
+edit_uri: edit/main/docs/
+
+# 自定义样式
+extra_css:
+  - assets/stylesheets/extra.css
+  - assets/stylesheets/rounded-corners.css
+  - assets/stylesheets/home-style.css
+
+# 自定义响应
+extra_javascript:
+  - assets/javascripts/extra.js
+  - assets/javascripts/custom.js  
+  - assets/javascripts/home-style.js
+  - assets/javascripts/uptime.js  
+  - assets/javascripts/snowflakes.js
+  - assets/javascripts/baidu-tongji.js
+
+# 主题配置
+theme:
+  name: material
+  language: zh
+  favicon: assets/images/favicon.ico
+  logo: assets/images/favicon.png
+  custom_dir: overrides  # 主题覆盖目录
+  static_templates:
+    - 404.html
+  font: 
+    text: Ubuntu        # 正文字体
+    code: Roboto Mono   # 代码字体
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+  features:
+    - announce
+    - announce.dismiss
+    - navigation.tabs      
+    - navigation.tabs.sticky 
+    - navigation.footer
+    - navigation.top
+    - toc.follow   
+    - content.action.edit
+    - content.action.view   
+    - content.code.annotate 
+    - content.code.copy 
+    - content.code.select
+    - search.suggest
+    - search.share 
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: pink
+      toggle:
+        icon: material/lightbulb-outline
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: red
+      toggle:
+        icon: material/lightbulb
+
+# Markdown扩展配置
+markdown_extensions:
+  - attr_list
+  - admonition       
+  - tables
+  - md_in_html
+  - pymdownx.details  
+  - pymdownx.striphtml
+  - toc:
+      permalink: ⚓︎
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.magiclink:    
+      repo_url_shorthand: true 
+      user: pyheight  
+      repo: ttk-file-explorer  
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
+  - pymdownx.emoji:      
+      emoji_index: !!python/name:material.extensions.emoji.twemoji  
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg  
+      options:
+        custom_icons:
+          - docs/overrides/.icons
+
+# 额外配置
+extra:
+  generator: false  # 隐藏"MkDocs"生成器标识  
+  alternate:  # 多语言切换链接（需配合i18n插件）
+    - name: 简体中文  
+      link: . 
+      lang: zh  
+    - name: English
+      link: ./en/
+      lang: en  
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/pyheight/ttk-file-explorer
+      name: View on GitHub
+    - icon: octicons/ai-model-24
+      link: https://zread.ai/pyheight/ttk-file-explorer
+      name: Learn about this project on Zread.ai
+    - icon: octicons/mail-24 
+      link: mailto:pyheight@qq.com
+      name: Contact author via email
+  consent:
+    title: Cookie settings
+    description: |
+      <div id="consent-description-zh">
+        本网站使用百度统计进行流量分析，可能收集您的 IP 和浏览行为。<br>详见<a href="https://ttk-file-explorer.readthedocs.io/about/privacy-policy/">隐私政策</a>。
+      </div>
+      <div id="consent-description-en" style="display:none;">
+        This website uses Baidu statistics for traffic analysis and may collect your IP and browsing behavior.<br>For details, please see <a href="https://ttk-file-explorer.readthedocs.io/en/about/privacy-policy/">privacy policy</a>.
+      </div>
+    actions:
+      - accept
+      - manage
+      - reject
+    cookies:
+      analytics:
+        name: 百度统计（Baidu Analytics）
+        checked: true
+    hooks:
+      accept: |
+        // 用户点击"同意"时加载统计
+        if (__consent.analytics) {
+          window.loadBaiduTongji();
+        }
+      reject: |
+        // 用户点击"拒绝"时禁用统计
+        window._hmt = window._hmt || [];
+        _hmt.push(['_setAutoTracking', false]);
+      manage: |
+        // 用户在设置中修改时同步状态
+        if (__consent.analytics) {
+          // 如果启用统计
+          if (typeof window._hmt === "undefined" || !window._hmt._loaded) {
+            window.loadBaiduTongji();
+          } else {
+            // 如果已加载则重新启用
+            _hmt.push(['_setAutoTracking', true]);
+          }
+        } else {
+          // 如果禁用统计
+          if (window._hmt) {
+            _hmt.push(['_setAutoTracking', false]);
+          }
+        }
+
+# 插件配置
+plugins:
+  - search
+  - i18n:
+     fallback_to_default: true
+     docs_structure: suffix
+     languages:
+       - locale: zh
+         default: true
+         name: 简体中文
+         build: true
+         nav:  # 中文导航
+           - 主页: index.zh.md
+           - 下载安装:
+               - 系统要求: download/system-requirements.zh.md
+               - 安装指南: download/installation.zh.md
+               - 从源代码构建: download/building-from-source.zh.md
+           - API 参考: https://zread.ai/pyheight/ttk-file-explorer/17-api-reference
+           - 开发日志:
+               - 更新记录: development/changelog.zh.md
+               - 里程碑: development/milestones.zh.md
+               - 画廊: development/gallery.zh.md               
+               - 开发计划: development/roadmap.zh.md
+           - 社区:
+               - 问题反馈: community/issue-reporting.zh.md
+               - 贡献指南: community/contribution-guide.zh.md
+           - 关于:
+               - 项目介绍: about/project-overview.zh.md
+               - 隐私政策: about/privacy-policy.zh.md
+               - 致谢: about/acknowledgments.zh.md 
+               - 许可: about/license.zh.md
+               - 作者: about/author.zh.md
+       - locale: en
+         name: English
+         build: true
+         nav:  # 英文导航
+           - Home: index.en.md
+           - Download & Install:
+               - System Requirements: download/system-requirements.en.md
+               - Installation Guide: download/installation.en.md
+               - Building from Source: download/building-from-source.en.md
+           - API Reference: https://zread.ai/pyheight/ttk-file-explorer/17-api-reference
+           - Development Log:
+               - Changelog: development/changelog.en.md
+               - Milestones: development/milestones.en.md
+               - Gallery: development/gallery.en.md
+               - Roadmap: development/roadmap.en.md
+           - Community:
+               - Issue Reporting: community/issue-reporting.en.md
+               - Contribution Guide: community/contribution-guide.en.md
+           - About:
+               - Project Overview: about/project-overview.en.md
+               - Privacy Policy: about/privacy-policy.en.md
+               - Acknowledgments: about/acknowledgments.en.md 
+               - License: about/license.en.md
+               - Author: about/author.en.md
+  - git-revision-date-localized:
+      type: iso_date                                
+      enable_creation_date: true                       
+      fallback_to_build_date: true
+      exclude: 
+          - index.zh.md
+          - index.en.md
+      enabled: true 
+      strict: true
