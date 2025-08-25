@@ -29,7 +29,7 @@
 
     GitHub Pages 镜像站点，访问可能受限
 
--   :material-toolbox: [网站框架来源](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
+-   :material-toolbox: [网站框架](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
 
     ---
 
@@ -94,4 +94,5 @@ graph LR
 
 !!! tip "提示"
 	每个伟大的项目都始于一个简单的想法和坚定的决心。让我们一起探索更多可能！
+
 
