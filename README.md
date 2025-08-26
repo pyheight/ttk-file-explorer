@@ -1,12 +1,13 @@
-<p align="center"><img src="./overrides/assets/images/v1.0.0-beta/splash.png"  width="60%" alt=""></p>
-
-<h3 align="center">📂 ttk file explorer</h3>
+<h3 align="center"><img src="./overrides/assets/images/v1.0.0-beta/splash.png" width="350px" height="250px" alt="📂 ttk file explorer"></h3>
 
 <p align="center">
-  <a href="https://ttk-file-explorer.readthedocs.io/" target="_blank"><b>官网文档</b></a> &nbsp;|&nbsp;
-  <a href="https://zread.ai/pyheight/ttk-file-explorer" target="_blank"><b>AI 解读</b></a> &nbsp;|&nbsp;
-  <span><b>简体中文</b></span> &nbsp;|&nbsp;
-  <a href="README_EN.md"><b>English</b></a>
+轻量级 Windows 文件管理器
+<br>
+<a href="https://ttk-file-explorer.readthedocs.io/">主文档</a>
+·
+<a href="https://pyheight.github.io/ttk-file-explorer/" target="_blank">备用文档</a>
+·
+<a href="https://zread.ai/pyheight/ttk-file-explorer" target="_blank">AI 解读</a>  
 </p>
 
 <div align="center">  
@@ -19,6 +20,20 @@
 <a href="https://github.com/pyheight/ttk-file-explorer/commits/main" target="_blank"><img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer?style=flat-square" alt="Last Commit"></a>
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield" target="_blank"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>
 </div>
+
+<br>
+
+<p align="center">
+  中文 |
+  <a href="README_EN.md">English</a> |
+  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=de">Deutsch</a> |
+  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=es">Español</a> |
+  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=fr">français</a> |
+  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=ja">日本語</a> |
+  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=ko">한국어</a> |
+  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=pt">Português</a> |
+  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=ru">Русский</a>
+</p>
 
 ## ⚡ 介绍
 
