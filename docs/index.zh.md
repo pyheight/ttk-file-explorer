@@ -9,7 +9,7 @@ hide_anchor: true
 
 <center markdown>
 
-# :octicons-file-directory-open-fill-24: ttk File Explorer
+# :octicons-file-directory-open-fill-24: ttk file explorer
 
 <div>  
 <a href="https://github.com/pyheight/ttk-file-explorer/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/pyheight/ttk-file-explorer?style=social&logo=github" alt="GitHub Stars"></a>
@@ -115,3 +115,4 @@ Made with Love
 <span style="font-size:1.4em;color:#ff8e8e">:material-heart-half-full:</span> 
 <span style="font-size:1.6em;color:#ff6b6b">:material-heart-outline:</span>
 </center>
+
