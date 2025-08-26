@@ -26,13 +26,13 @@
 <p align="center">
   中文 |
   <a href="README_EN.md">English</a> |
-  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=de">Deutsch</a> |
-  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=es">Español</a> |
-  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=fr">français</a> |
-  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=ja">日本語</a> |
-  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=ko">한국어</a> |
-  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=pt">Português</a> |
-  <a href="https://www.readme-i18n.com/HuLaSpark/HuLa?lang=ru">Русский</a>
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=de">Deutsch</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=es">Español</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=fr">français</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=ja">日本語</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=ko">한국어</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=pt">Português</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=ru">Русский</a>
 </p>
 
 ## ⚡ 介绍
