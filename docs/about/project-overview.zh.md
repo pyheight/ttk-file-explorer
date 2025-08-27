@@ -37,7 +37,7 @@
 
 </div>
 
-!!! tip "提示"
+???+ tip "提示"
     两个文档站点内容完全同步，均托管在 [GitHub](https://github.com/pyheight/ttk-file-explorer/tree/main/docs){ target="_blank" } 上，接受实时更新。
 
 ## :material-lightbulb-on: 项目理念

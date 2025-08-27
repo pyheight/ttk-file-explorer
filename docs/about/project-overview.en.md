@@ -37,7 +37,7 @@ This is the [author](../author/)'s first substantial project.
 
 </div>
 
-!!! tip "Tip"
+???+ tip "Tip"
     Both documentation sites are completely synchronized and hosted on [GitHub](https://github.com/pyheight/ttk-file-explorer/tree/main/docs){ target="_blank" }, receiving real-time updates.
 
 ## :material-lightbulb-on: Project Philosophy
