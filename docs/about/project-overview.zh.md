@@ -53,6 +53,13 @@
 
 ## :material-star-shooting: 核心优势
 
+| 优势 | 描述 |
+|------|------|
+| :material-star-face: **简洁优雅** | 采用 ttkbootstrap 打造的现代化界面，告别传统 tkinter 的陈旧外观 |
+| :material-lightning-bolt: **高效轻量** | 极低的资源占用，在老旧设备上也能流畅运行 |
+| :material-github: **完全开源** | [Apache-2.0 license](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE){ target="_blank" } 保障自由使用和修改 |
+| :material-book-open: **学习价值** | 编程爱好者可从源码中学习完整 GUI 开发流程 |
+
 ```mermaid
 graph LR
     A[开发者] --> B(学习 GUI 编程)
@@ -64,13 +71,6 @@ graph LR
     E --> H[...]
     F --> H[...]
 ```
-
-| 优势 | 描述 |
-|------|------|
-| :material-star-face: **简洁优雅** | 采用 ttkbootstrap 打造的现代化界面，告别传统 tkinter 的陈旧外观 |
-| :material-lightning-bolt: **高效轻量** | 极低的资源占用，在老旧设备上也能流畅运行 |
-| :material-github: **完全开源** | [Apache-2.0 license](https://github.com/pyheight/ttk-file-explorer/blob/main/LICENSE){ target="_blank" } 保障自由使用和修改 |
-| :material-book-open: **学习价值** | 编程爱好者可从源码中学习完整 GUI 开发流程 |
 
 ## :material-alert: 当前限制
 
