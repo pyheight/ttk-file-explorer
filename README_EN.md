@@ -25,7 +25,6 @@ Lightweight Windows File Explorer
 
 <p align="center">
   <a href="README.md">中文</a> |
-  <a href="README_EN.md">English</a> |
   <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=de">Deutsch</a> |
   <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=es">Español</a> |
   <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=fr">Français</a> |
