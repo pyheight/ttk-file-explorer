@@ -3,9 +3,9 @@
 <p align="center">
 Lightweight Windows File Explorer
 <br>
-<a href="https://ttk-file-explorer.readthedocs.io/en/" target="_blank">Main document</a>
+<a href="https://ttk-file-explorer.readthedocs.io/en/" target="_blank">Main Documentation</a>
 ·
-<a href="https://pyheight.github.io/ttk-file-explorer/en/" target="_blank">Backup Document</a>
+<a href="https://pyheight.github.io/ttk-file-explorer/en/" target="_blank">Backup Documentation</a>
 ·
 <a href="https://zread.ai/pyheight/ttk-file-explorer" target="_blank">AI Interpretation</a>  
 </p>

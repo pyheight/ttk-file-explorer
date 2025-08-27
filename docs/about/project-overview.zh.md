@@ -15,25 +15,25 @@
 
     ---
 
-    获取最新源代码、提交问题和参与开发
+    获取最新源代码、提交问题和参与开发。
 
 -   :material-book-open-variant: [**主文档站点 (推荐)**](https://ttk-file-explorer.readthedocs.io/)
 
     ---
 
-    稳定可靠的文档站点，加载可能较慢
+    稳定可靠的文档站点，加载可能较慢。
 
 -   :material-book-open-page-variant: [**备用文档站点**](https://pyheight.github.io/ttk-file-explorer/)
 
     ---
 
-    GitHub Pages 镜像站点，访问可能受限
+    GitHub Pages 镜像站点，访问可能受限。
 
 -   :material-toolbox: [**网站框架**](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
 
     ---
 
-    本网站基于 MkDocs Material 制作
+    本网站基于 MkDocs Material 制作。
 
 </div>
 

@@ -15,25 +15,25 @@ This is the [author](../author/)'s first substantial project.
 
     ---
 
-    Access the latest source code, submit issues, and participate in development
+    Access the latest source code, submit issues, and participate in development.
 
 -   :material-book-open-variant: [**Main Documentation Site (Recommended)**](https://ttk-file-explorer.readthedocs.io/en/)
 
     ---
 
-    Stable and reliable documentation site, which may load slowly
+    Stable and reliable documentation site, which may load slowly.
 
 -   :material-book-open-page-variant: [**Backup Documentation Site**](https://pyheight.github.io/ttk-file-explorer/en/)
 
     ---
 
-    GitHub Pages mirror site, access may be limited
+    GitHub Pages mirror site, access may be limited.
 
 -   :material-toolbox: [**Website Framework**](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
 
     ---
 
-    This website is made with MkDocs Material
+    This website is made with MkDocs Material.
 
 </div>
 
