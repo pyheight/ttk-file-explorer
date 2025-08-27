@@ -25,7 +25,7 @@ Your support means a lot. Please give me a :material-star: **Star** on [GitHub](
 :octicons-download-24: **Current Latest Version:**  ![Latest Release](https://img.shields.io/github/v/release/pyheight/ttk-file-explorer?color=blue&style=for-the-badge)
 
 [ :material-github: Download from GitHub ](https://github.com/pyheight/ttk-file-explorer/releases/){ .md-button .md-button--primary target="_blank" }
-[ :material-folder-zip: Baidu Netdisk ](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F){ .md-button target="_blank" }
+[ :baiduwangpan: Baidu Netdisk ](https://pan.baidu.com/s/1vSv-7kPXn5cRM0jjd0-qtg?pwd=2023#/home/%2F/%2F){ .md-button target="_blank" }
 [ :aliyunpan: Aliyun Drive ](https://www.aliyundrive.com/s/kooYQY65teA/){ .md-button target="_blank" }
 
 !!! warning "Security Notice"
@@ -53,5 +53,5 @@ Your support means a lot. Please give me a :material-star: **Star** on [GitHub](
 | Channel | Recommendation | Speed | Update Timeliness | Supported File Types | Notes |
 |---------|----------------|-------|-------------------|----------------------|-------|
 | :material-github: GitHub | ★★★★★ | ★★★★ | Real-time | .exe, .zip, .tar.gz | Official preferred |
-| :material-folder-zip: Baidu Netdisk | ★★★☆☆ | ★★☆☆ | Delayed | .exe, .zip | Requires login |
+| :baiduwangpan: Baidu Netdisk | ★★★☆☆ | ★★☆☆ | Delayed | .exe, .zip | Requires login |
 | :aliyunpan: Aliyun Drive | ★★★★☆ | ★★★★ | Delayed | .exe | Recommended backup |

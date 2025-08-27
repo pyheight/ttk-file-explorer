@@ -1,9 +1,9 @@
-<h3 align="center"><img src="./overrides/assets/images/v1.0.0-beta/splash.png" width="350px" height="250px" alt="📂 ttk file explorer"></h3>
+<h3 align="center"><img src="./overrides/assets/images/v1.0.0-beta/splash.png" width="65%" alt="📂 ttk file explorer"></h3>
 
 <p align="center">
 轻量级 Windows 文件管理器
 <br>
-<a href="https://ttk-file-explorer.readthedocs.io/">主文档</a>
+<a href="https://ttk-file-explorer.readthedocs.io/" target="_blank">主文档</a>
 ·
 <a href="https://pyheight.github.io/ttk-file-explorer/" target="_blank">备用文档</a>
 ·
@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  中文 |
+  <a href="README.md">中文</a> |
   <a href="README_EN.md">English</a> |
   <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=de">Deutsch</a> |
   <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=es">Español</a> |
