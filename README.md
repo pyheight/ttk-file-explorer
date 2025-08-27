@@ -87,7 +87,7 @@ git clone https://github.com/pyheight/ttk-file-explorer.git
 ```
 
 ```
-https://gh.jasonzeng.dev/https://github.com/pyheight/
+https://gh.jasonzeng.dev/https://github.com/pyheight/ttk-file-explorer/archive/refs/heads/main.zip
 ```
 
 ```
