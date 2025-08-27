@@ -22,7 +22,7 @@ hide_anchor: true
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield" target="_blank"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>
 </div>  
 
-<h3>一款开源的、轻量的 Windows 文件管理器，致力于 GUI 打造与应用实现。</h3>
+<h3>一款开源的、轻量的 <i>Windows</i> 文件管理器，致力于 <i>GUI</i> 打造与应用实现。</h3>
 
 </center>
 
