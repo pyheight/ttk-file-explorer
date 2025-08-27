@@ -86,9 +86,13 @@ Experience a clean interface built with *tkinter* syntax and *ttkbootstrap* styl
 git clone https://github.com/pyheight/ttk-file-explorer.git
 ```
 
+```
 https://gh.jasonzeng.dev/https://github.com/pyheight/
+```
 
+```
 https://github.com/pyheight/ttk-file-explorer/archive/refs/heads/main.zip
+```
 
 3. **Navigate to Source Directory**
 ```bash
