@@ -70,7 +70,7 @@
 
 > [!WARNING]
 > 软件二次分发存在巨大安全风险，请务必通过官方渠道下载。
-    
+
 <details>
 
 <summary>🚄 从源代码构建</summary>
