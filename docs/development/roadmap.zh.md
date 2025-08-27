@@ -65,13 +65,13 @@ graph TD
 <div class="grid cards" markdown> 
 
 - :material-code-braces: **开发协助**  
-欢迎熟悉 MVC 架构的开发者参与贡献
+欢迎熟悉 MVC 架构的开发者参与贡献。
 
 - :material-bug: **测试反馈**  
-体验测试版并报告问题
+体验测试版并报告问题。
 
 - :material-lightbulb-on: **功能建议**  
-分享对文件管理器的需求想法
+分享对文件管理器的需求想法。
 
 </div>
 
