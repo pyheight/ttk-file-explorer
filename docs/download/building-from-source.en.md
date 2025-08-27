@@ -76,10 +76,14 @@ ttkbootstrap
 
     === "Download Repository"  
         === "Accelerated Download (Recommended)"  
+            ```
             https://gh.jasonzeng.dev/https://github.com/pyheight/ttk-file-explorer/archive/refs/heads/main.zip
+            ```
 
         === "Normal Download"  
+            ```
             https://github.com/pyheight/ttk-file-explorer/archive/refs/heads/main.zip
+            ```
 
 3. :material-folder-move: **Navigate to Source Directory**
 ```bash

@@ -76,10 +76,14 @@ ttkbootstrap
 
     === "下载仓库"  
         === "加速下载（推荐）"  
+            ```
             https://gh.jasonzeng.dev/https://github.com/pyheight/ttk-file-explorer/archive/refs/heads/main.zip
+            ```
 
         === "普通下载"  
+            ```
             https://github.com/pyheight/ttk-file-explorer/archive/refs/heads/main.zip
+            ```
 
 3. :material-folder-move: **导航到源码目录**
 ```bash
