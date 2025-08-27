@@ -1,4 +1,4 @@
-<h3 align="center"><img src="./overrides/assets/images/v1.0.0-beta/splash.png" width="65%" alt="📂 ttk file explorer"></h3>
+<p align="center"><img src="./overrides/assets/images/v1.0.0-beta/splash.png" width="65%" alt="📂 ttk file explorer"></p>
 
 <p align="center">
 轻量级 Windows 文件管理器

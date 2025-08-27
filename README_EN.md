@@ -1,12 +1,13 @@
-<p align="center"><img src="./overrides/assets/images/v1.0.0-beta/splash.png"  width="60%" alt=""></p>
-
-<h3 align="center">📂 ttk file explorer</h3>
+<p align="center"><img src="./overrides/assets/images/v1.0.0-beta/splash.png" width="65%" alt="📂 ttk file explorer"></p>
 
 <p align="center">
-  <a href="https://ttk-file-explorer.readthedocs.io/en/" target="_blank"><b>Official Docs</b></a> &nbsp;|&nbsp;
-  <a href="https://zread.ai/pyheight/ttk-file-explorer/" target="_blank"><b>AI Interpretation</b></a> &nbsp;|&nbsp;
-  <a href="README.md"><b>简体中文</b></a> &nbsp;|&nbsp;
-  <span><b>English</b></span>
+Lightweight Windows File Explorer
+<br>
+<a href="https://ttk-file-explorer.readthedocs.io/en/" target="_blank">Main document</a>
+·
+<a href="https://pyheight.github.io/ttk-file-explorer/en/" target="_blank">Backup Document</a>
+·
+<a href="https://zread.ai/pyheight/ttk-file-explorer" target="_blank">AI Interpretation</a>  
 </p>
 
 <div align="center">  
@@ -19,6 +20,20 @@
 <a href="https://github.com/pyheight/ttk-file-explorer/commits/main" target="_blank"><img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer?style=flat-square" alt="Last Commit"></a>
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield" target="_blank"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>
 </div>
+
+<br>
+
+<p align="center">
+  <a href="README.md">中文</a> |
+  <a href="README_EN.md">English</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=de">Deutsch</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=es">Español</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=fr">français</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=ja">日本語</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=ko">한국어</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=pt">Português</a> |
+  <a href="https://www.readme-i18n.com/pyheight/ttk-file-explorer?lang=ru">Русский</a>
+</p>
 
 ## ⚡ Introduction
 
