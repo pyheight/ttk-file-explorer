@@ -64,20 +64,29 @@ ttkbootstrap
 
 ## :material-hammer-wrench: 构建步骤
 
-1. :material-package-down: **前置条件**  
+1. :material-package-down: **前置条件**
 > 确保已经安装了`Python 3.x`环境
 
-2. :material-git: **下载或克隆仓库**
-```bash
-git clone https://github.com/pyheight/ttk-file-explorer.git
-```
+2. :material-git: **克隆或下载仓库**
+
+    === "克隆仓库（推荐）"
+        ```bash
+        git clone https://github.com/pyheight/ttk-file-explorer.git
+        ```
+
+    === "下载仓库"  
+        === "加速下载（推荐）"  
+            https://gh.jasonzeng.dev/https://github.com/pyheight/ttk-file-explorer/archive/refs/heads/main.zip
+
+        === "普通下载"  
+            https://github.com/pyheight/ttk-file-explorer/archive/refs/heads/main.zip
 
 3. :material-folder-move: **导航到源码目录**
 ```bash
 cd ttk-file-explorer/src
 ```
 
-4. :material-library: **安装依赖**  
+4. :material-library: **安装依赖**
 
     === "安装指定版本（推荐）"  
         ```powershell

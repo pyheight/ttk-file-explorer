@@ -64,13 +64,22 @@ ttkbootstrap
 
 ## :material-hammer-wrench: Build Steps
 
-1. :material-package-down: **Prerequisites**  
+1. :material-package-down: **Prerequisites**
 > Ensure `Python 3.x` environment is installed
 
-2. :material-git: **Clone Repository**
-```bash
-git clone https://github.com/pyheight/ttk-file-explorer.git
-```
+2. :material-git: **Clone or Download Repository**
+
+    === "Clone Repository (Recommended)"
+        ```bash
+        git clone https://github.com/pyheight/ttk-file-explorer.git
+        ```
+
+    === "Download Repository"  
+        === "Accelerated Download (Recommended)"  
+            https://gh.jasonzeng.dev/https://github.com/pyheight/ttk-file-explorer/archive/refs/heads/main.zip
+
+        === "Normal Download"  
+            https://github.com/pyheight/ttk-file-explorer/archive/refs/heads/main.zip
 
 3. :material-folder-move: **Navigate to Source Directory**
 ```bash
@@ -98,6 +107,8 @@ python main.py
 ```bash
 python script/package.py
 ```
+
+---
 
 !!! bug "Encountering Issue"
 	[:material-bug: Let's Solve It](../../community/issue-reporting/){ .md-button .md-button--primary }
