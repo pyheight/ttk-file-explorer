@@ -85,6 +85,7 @@ Not intended to fully replace system file managers; positioned as a development 
 </div>
 
 ## :material-comment-question: Communication & Interaction
+
 - :material-update: [View Project Vision](../../development/roadmap/)
 
 - :material-hand-heart: [Participate in Development](../../community/contribution-guide/)

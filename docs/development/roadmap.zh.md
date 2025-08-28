@@ -37,7 +37,8 @@ graph TD
 <div class="grid cards" markdown> 
 
 - **文件操作增强**  
-:material-progress-check: 高级复制/移动操作 :material-progress-check: 搜索功能优化
+:material-progress-check: 高级复制/移动操作
+:material-progress-check: 搜索功能优化
 
 - **界面效果优化**  
 :material-progress-check: 自定义布局预设
