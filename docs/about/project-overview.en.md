@@ -33,7 +33,7 @@ This is the [author](../author/)'s first substantial project.
 
     ---
 
-    Zread.ai-driven project interpretation for a quick understanding of project structure and API.
+    Zread.ai-driven project interpretation for a quick understanding of project structure and APIs.
 
 -   :material-toolbox: [**Website Framework**](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
 
