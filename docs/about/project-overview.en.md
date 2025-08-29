@@ -29,6 +29,12 @@ This is the [author](../author/)'s first substantial project.
 
     GitHub Pages mirror site, access may be limited.
 
+-   :octicons-ai-model-24: [**AI Interpretation**](https://zread.ai/pyheight/ttk-file-explorer/){ target="_blank" }  
+
+    ---
+
+    Zread.ai-driven project interpretation for a quick understanding of project structure and API.
+
 -   :material-toolbox: [**Website Framework**](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
 
     ---

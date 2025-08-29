@@ -29,6 +29,12 @@
 
     GitHub Pages 镜像站点，访问可能受限。
 
+-   :octicons-ai-model-24: [**AI 解读**](https://zread.ai/pyheight/ttk-file-explorer/){ target="_blank" }  
+
+    ---
+
+    Zread.ai 驱动的项目解读，快速了解项目结构和 API。
+
 -   :material-toolbox: [**网站框架**](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
 
     ---
