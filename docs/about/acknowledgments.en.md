@@ -41,6 +41,9 @@ Excellent projects that inspired us, highly recommended:
 
 <div class="grid cards" markdown>
 
+- :octicons-link-16: [**Files**](https://github.com/files-community/Files){ target="_blank" }  
+A modern file manager that helps users organize their files and folders.
+
 - :octicons-link-16: [**Tk-Path-Finder**](https://github.com/domhnallmorr/Tk-Path-Finder){ target="_blank" }  
 Windows file explorer with tabs, developed using ttkbootstrap.
 
@@ -48,7 +51,7 @@ Windows file explorer with tabs, developed using ttkbootstrap.
 Fast, extensible native IDE (size < 20MB).
 
 - :octicons-link-16: [**mkdocs-material**](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
-Elegant documentation framework powering this website.
+Documentation that simply works.
 
 </div>
 

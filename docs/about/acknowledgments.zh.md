@@ -41,6 +41,9 @@ tkinter 和 ttk 的现代风格扩展，带来美观的界面设计。
 
 <div class="grid cards" markdown>
 
+- :octicons-link-16: [**Files**](https://github.com/files-community/Files){ target="_blank" }  
+现代文件管理器，可帮助用户组织其文件和文件夹。
+
 - :octicons-link-16: [**Tk-Path-Finder**](https://github.com/domhnallmorr/Tk-Path-Finder){ target="_blank" }  
 带选项卡的 Windows 文件资源管理器，使用 ttkbootstrap 开发。
 
@@ -48,7 +51,7 @@ tkinter 和 ttk 的现代风格扩展，带来美观的界面设计。
 快速、可扩展的本机 IDE（大小 < 20MB）。
 
 - :octicons-link-16: [**mkdocs-material**](https://github.com/squidfunk/mkdocs-material){ target="_blank" }  
-构建本网站的优雅文档框架。
+简单有效的文档。
 
 </div>
 
