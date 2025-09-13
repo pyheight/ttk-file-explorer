@@ -62,18 +62,21 @@ theme:
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/link
+        name: Auto (System)
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
       accent: pink
       toggle:
         icon: material/lightbulb-outline
+        name: Dark Mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
       accent: red
       toggle:
         icon: material/lightbulb
+        name: Light Mode
 
 # Markdown扩展配置
 markdown_extensions:
