@@ -19,7 +19,7 @@ hide_anchor: true
 <div>  
 <a href="https://github.com/pyheight/ttk-file-explorer/releases" target="_blank"><img src="https://img.shields.io/github/v/release/pyheight/ttk-file-explorer?color=blue&style=flat-square" alt="Latest Release"></a>
 <a href="https://github.com/pyheight/ttk-file-explorer/commits/main" target="_blank"><img src="https://img.shields.io/github/last-commit/pyheight/ttk-file-explorer?style=flat-square" alt="Last Commit"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_shield" target="_blank"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=shield" alt="FOSSA License Scan"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer?ref=badge_small" target="_blank"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpyheight%2Fttk-file-explorer.svg?type=small" alt="FOSSA License Scan"></a>
 </div>  
 
 <h3>一款开源的、轻量的 <i>Windows</i> 文件管理器，致力于 <i>GUI</i> 打造与应用实现。</h3>
