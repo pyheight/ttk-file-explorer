@@ -2,8 +2,6 @@
 
 ## :material-message-text: Foreword
 
-This is the [author](../author/)'s first substantial project.  
-
 !!! info "Suggestion"
 	**Building a solid foundation is crucial** - precisely because most people are unwilling to do it, it becomes especially valuable.
 
@@ -100,3 +98,4 @@ Not intended to fully replace system file managers; positioned as a development 
 
 !!! tip "Tip"
 	Every great project begins with a simple idea and unwavering determination. Let's explore more possibilities together!
+
