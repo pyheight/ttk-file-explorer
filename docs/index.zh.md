@@ -27,7 +27,7 @@ hide_anchor: true
 </center>
 
 <center>
-<div style="width: 75%">
+<div style="width: 65%">
 <div class="admonition success">
   <p class="admonition-title" align="left" style="color: #1a531b";>不一样的文件管理器</p>
   <div style="display: flex; align-items: center; gap: 12px;">
@@ -115,5 +115,6 @@ Made with Love
 <span style="font-size:1.4em;color:#ff8e8e">:material-heart-half-full:</span> 
 <span style="font-size:1.6em;color:#ff6b6b">:material-heart-outline:</span>
 </center>
+
 
 
