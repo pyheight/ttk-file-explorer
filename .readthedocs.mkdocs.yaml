@@ -62,21 +62,21 @@ theme:
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/link
-        name: Auto (System)
+        name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
       accent: pink
       toggle:
         icon: material/lightbulb-outline
-        name: Dark Mode
+        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
       accent: red
       toggle:
         icon: material/lightbulb
-        name: Light Mode
+        name: Switch to system preference
 
 # Markdown扩展配置
 markdown_extensions:
@@ -129,7 +129,7 @@ extra:
       name: Learn about this project on Zread.ai
     - icon: octicons/mail-24 
       link: mailto:pyheight@qq.com
-      name: Contact author via email
+      name: Contact author via Email
   consent:
     title: Cookie settings
     description: |
