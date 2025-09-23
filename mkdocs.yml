@@ -22,7 +22,7 @@ extra_javascript:
   - assets/javascripts/custom.js  
   - assets/javascripts/home-style.js
   - assets/javascripts/uptime.js  
-  - assets/javascripts/snowflakes.js
+  # - assets/javascripts/snowflakes.js
   - assets/javascripts/baidu-tongji.js
 
 # 主题配置
@@ -239,5 +239,6 @@ plugins:
           - index.en.md
       enabled: true 
       strict: true
+
 
 
